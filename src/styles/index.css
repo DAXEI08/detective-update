@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body, #root { min-height: 100%; }
+body {
+  @apply bg-ink-900 text-cream-100 font-sans antialiased;
+  overflow-x: hidden;
+  background-image:
+    radial-gradient(1100px 560px at 85% -10%, rgba(56,189,248,.10), transparent 60%),
+    radial-gradient(900px 500px at -10% 110%, rgba(242,179,61,.08), transparent 60%);
+  background-attachment: fixed;
+}
+.bg-grid {
+  background-image:
+    linear-gradient(rgba(246,238,220,.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(246,238,220,.05) 1px, transparent 1px);
+  background-size: 34px 34px;
+}
+:focus-visible { outline: 2px solid #38BDF8; outline-offset: 2px; border-radius: 6px; }
+.ar { font-family: 'Noto Naskh Arabic', Amiri, 'Traditional Arabic', serif; direction: rtl; line-height: 2; }
+.ar-lg { @apply ar text-2xl sm:text-3xl; }
+.paper { @apply bg-cream-100 text-ink-900 shadow-paper rounded-lg; }
+.panel { @apply bg-ink-800/80 border border-ink-600/60 rounded-xl; }
+.chip { @apply inline-flex items-center gap-1.5 rounded-full border border-ink-600 bg-ink-800 px-3 py-1 text-xs font-medium text-cream-200; }
+.hotspot { cursor: pointer; }
+.hotspot .hs-ring { opacity: 0; transition: opacity .15s; }
+.hotspot:hover .hs-ring, .hotspot:focus-visible .hs-ring { opacity: 1; }
+.hotspot:focus { outline: none; }
+.hotspot:active { transform: scale(.98); }
+.tap { min-height: 44px; min-width: 44px; }
+@keyframes dash { to { stroke-dashoffset: -24; } }
+.marching { stroke-dasharray: 6 6; animation: dash 1.2s linear infinite; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}
+.reduce-motion *, .reduce-motion *::before, .reduce-motion *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
