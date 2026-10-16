@@ -1,0 +1,8482 @@
+diff --git a/public/words.json b/public/words.json
+index 56693aa..c338e26 100644
+--- a/public/words.json
++++ b/public/words.json
+@@ -2455,6 +2455,2286 @@
+ "Ungkapan kerja",
+ "",
+ ""
++],
++[
++"تَكْرَار",
++"takrār",
++"pengulangan",
++"Pemrograman",
++"أَسْتَخْدِمُ التَّكْرَارَ لِطِبَاعَةِ الْأَرْقَامِ",
++"Saya memakai pengulangan untuk mencetak angka"
++],
++[
++"اِسْتِدْعَاء ذَاتِيّ",
++"istid‘ā’ żātiyy",
++"rekursi",
++"Pemrograman",
++"الِاسْتِدْعَاءُ الذَّاتِيُّ يُنَادِي الدَّالَّةَ نَفْسَهَا",
++"Rekursi memanggil fungsi itu sendiri"
++],
++[
++"مَكْدَس",
++"makdas",
++"tumpukan (stack)",
++"Pemrograman",
++"نُضِيفُ عُنْصُرًا إِلَى الْمَكْدَسِ",
++"Kami menambahkan elemen ke tumpukan"
++],
++[
++"طَابُور",
++"ṭābūr",
++"antrean (queue)",
++"Pemrograman",
++"الطَّابُورُ يَبْدَأُ بِالْعُنْصُرِ الْأَوَّلِ",
++"Antrean dimulai dari elemen pertama"
++],
++[
++"شَجَرَة",
++"syajarah",
++"pohon (struktur data)",
++"Pemrograman",
++"الشَّجَرَةُ تَحْتَوِي عَلَى عُقَدٍ كَثِيرَةٍ",
++"Pohon berisi banyak simpul"
++],
++[
++"عُقْدَة",
++"‘uqdah",
++"simpul (node)",
++"Pemrograman",
++"لِكُلِّ عُقْدَةٍ قِيمَةٌ",
++"Setiap simpul punya nilai"
++],
++[
++"مُؤَشِّر",
++"mu’asysyir",
++"penunjuk (pointer)",
++"Pemrograman",
++"الْمُؤَشِّرُ يُشِيرُ إِلَى الذَّاكِرَةِ",
++"Pointer menunjuk ke memori"
++],
++[
++"عَدَد ثُنَائِيّ",
++"‘adad ṡunā’iyy",
++"bilangan biner",
++"Pemrograman",
++"الْحَاسُوبُ يَفْهَمُ الْعَدَدَ الثُّنَائِيَّ",
++"Komputer memahami bilangan biner"
++],
++[
++"بِت",
++"bit",
++"bit",
++"Pemrograman",
++"الْبِتُّ أَصْغَرُ وَحْدَةٍ",
++"Bit adalah satuan terkecil"
++],
++[
++"بَايْت",
++"bāyt",
++"bita (byte)",
++"Pemrograman",
++"الْبَايْتُ ثَمَانِيَةُ بِتَّاتٍ",
++"Satu bita adalah delapan bit"
++],
++[
++"مُتَغَيِّر عَامّ",
++"mutaghayyir ‘āmm",
++"variabel global",
++"Pemrograman",
++"الْمُتَغَيِّرُ الْعَامُّ يُرَى فِي كُلِّ مَكَانٍ",
++"Variabel global terlihat di mana saja"
++],
++[
++"مُتَغَيِّر مَحَلِّيّ",
++"mutaghayyir maḥalliyy",
++"variabel lokal",
++"Pemrograman",
++"الْمُتَغَيِّرُ الْمَحَلِّيُّ دَاخِلَ الدَّالَّةِ",
++"Variabel lokal ada di dalam fungsi"
++],
++[
++"خَطَأ فِي الصِّيَاغَة",
++"khaṭa’ fiṣ-ṣiyāghah",
++"kesalahan sintaks",
++"Pemrograman",
++"حَدَثَ خَطَأٌ فِي الصِّيَاغَةِ",
++"Terjadi kesalahan sintaks"
++],
++[
++"خَطَأ مَنْطِقِيّ",
++"khaṭa’ manṭiqiyy",
++"kesalahan logika",
++"Pemrograman",
++"هٰذَا خَطَأٌ مَنْطِقِيٌّ فِي الْبَرْنَامَجِ",
++"Ini kesalahan logika dalam program"
++],
++[
++"تَعْرِيف",
++"ta‘rīf",
++"deklarasi / definisi",
++"Pemrograman",
++"نُعَرِّفُ الْمُتَغَيِّرَ قَبْلَ اسْتِخْدَامِهِ",
++"Kita mendeklarasikan variabel sebelum memakainya"
++],
++[
++"مَصْفُوفَة ثُنَائِيَّةُ الْأَبْعَادِ",
++"maṣfūfah ṡunā’iyyatul-ab‘ād",
++"array dua dimensi",
++"Pemrograman",
++"الْمَصْفُوفَةُ الثُّنَائِيَّةُ لَهَا صُفُوفٌ وَأَعْمِدَةٌ",
++"Array dua dimensi punya baris dan kolom"
++],
++[
++"طُول",
++"ṭūl",
++"panjang",
++"Pemrograman",
++"طُولُ الْقَائِمَةِ خَمْسَةٌ",
++"Panjang daftar adalah lima"
++],
++[
++"دَمْج",
++"damj",
++"penggabungan",
++"Pemrograman",
++"نَدْمِجُ النَّصَّيْنِ فِي نَصٍّ وَاحِدٍ",
++"Kami menggabungkan dua teks menjadi satu"
++],
++[
++"تَحْوِيل",
++"taḥwīl",
++"konversi",
++"Pemrograman",
++"أُحَوِّلُ النَّصَّ إِلَى رَقْمٍ",
++"Saya mengubah teks menjadi angka"
++],
++[
++"مُقَارَنَة",
++"muqāranah",
++"perbandingan",
++"Pemrograman",
++"نَقُومُ بِمُقَارَنَةِ الْقِيمَتَيْنِ",
++"Kami membandingkan dua nilai"
++],
++[
++"جَمْع",
++"jam‘",
++"penjumlahan",
++"Pemrograman",
++"جَمْعُ اثْنَيْنِ وَثَلَاثَةٍ خَمْسَةٌ",
++"Dua tambah tiga sama dengan lima"
++],
++[
++"طَرْح",
++"ṭarḥ",
++"pengurangan",
++"Pemrograman",
++"طَرْحُ وَاحِدٍ مِنْ خَمْسَةٍ أَرْبَعَةٌ",
++"Lima kurang satu sama dengan empat"
++],
++[
++"ضَرْب",
++"ḍarb",
++"perkalian",
++"Pemrograman",
++"ضَرْبُ اثْنَيْنِ فِي ثَلَاثَةٍ سِتَّةٌ",
++"Dua kali tiga sama dengan enam"
++],
++[
++"قِسْمَة",
++"qismah",
++"pembagian",
++"Pemrograman",
++"الْقِسْمَةُ عَلَى صِفْرٍ خَطَأٌ",
++"Pembagian dengan nol adalah kesalahan"
++],
++[
++"بَاقِي الْقِسْمَة",
++"bāqil-qismah",
++"sisa bagi (modulus)",
++"Pemrograman",
++"بَاقِي الْقِسْمَةِ وَاحِدٌ",
++"Sisa baginya satu"
++],
++[
++"صَحِيح",
++"ṣaḥīḥ",
++"benar (true)",
++"Pemrograman",
++"الشَّرْطُ صَحِيحٌ",
++"Syaratnya benar"
++],
++[
++"خَاطِئ",
++"khāṭi’",
++"salah (false)",
++"Pemrograman",
++"النَّتِيجَةُ خَاطِئَةٌ",
++"Hasilnya salah"
++],
++[
++"مَنْطِق",
++"manṭiq",
++"logika",
++"Pemrograman",
++"مَنْطِقُ الْبَرْنَامَجِ وَاضِحٌ",
++"Logika programnya jelas"
++],
++[
++"شَفْرَة زَائِفَة",
++"syafrah zā’ifah",
++"pseudokode",
++"Pemrograman",
++"أَكْتُبُ الشَّفْرَةَ الزَّائِفَةَ أَوَّلًا",
++"Saya menulis pseudokode dulu"
++],
++[
++"إِعَادَةُ هَيْكَلَةِ الشَّفْرَةِ",
++"i‘ādatu haykalatisy-syafrah",
++"refaktor kode",
++"Pemrograman",
++"إِعَادَةُ هَيْكَلَةِ الشَّفْرَةِ تُحَسِّنُ الْجَوْدَةَ",
++"Refaktor kode meningkatkan kualitas"
++],
++[
++"تَسْمِيَة",
++"tasmiyah",
++"penamaan",
++"Pemrograman",
++"تَسْمِيَةُ الْمُتَغَيِّرَاتِ مُهِمَّةٌ",
++"Penamaan variabel itu penting"
++],
++[
++"ذَاكِرَة مُؤَقَّتَة",
++"żākirah mu’aqqatah",
++"cache / memori sementara",
++"Pemrograman",
++"الذَّاكِرَةُ الْمُؤَقَّتَةُ تُسَرِّعُ الْمَوْقِعَ",
++"Cache mempercepat situs"
++],
++[
++"عَمَلِيَّة",
++"‘amaliyyah",
++"proses / operasi",
++"Pemrograman",
++"الْعَمَلِيَّةُ تَسْتَغْرِقُ ثَانِيَةً",
++"Prosesnya memakan waktu satu detik"
++],
++[
++"مُتَزَامِن",
++"mutazāmin",
++"sinkron",
++"Pemrograman",
++"الْعَمَلُ مُتَزَامِنٌ",
++"Pekerjaannya berjalan sinkron"
++],
++[
++"أُسْلُوب بَرْمَجَة",
++"uslūb barmajah",
++"gaya pemrograman",
++"Pemrograman",
++"أُسْلُوبُ الْبَرْمَجَةِ النَّظِيفُ سَهْلٌ",
++"Gaya pemrograman yang bersih itu mudah dibaca"
++],
++[
++"صَيْغَة",
++"ṣīghah",
++"format / rumus bentuk",
++"Pemrograman",
++"صَيْغَةُ التَّارِيخِ يَوْمٌ وَشَهْرٌ وَسَنَةٌ",
++"Format tanggalnya hari, bulan, dan tahun"
++],
++[
++"تَارِيخ",
++"tārīkh",
++"tanggal",
++"Pemrograman",
++"تَارِيخُ الْيَوْمِ مَكْتُوبٌ هُنَا",
++"Tanggal hari ini tertulis di sini"
++],
++[
++"وَقْت",
++"waqt",
++"waktu",
++"Pemrograman",
++"وَقْتُ التَّنْفِيذِ قَصِيرٌ",
++"Waktu eksekusinya singkat"
++],
++[
++"عَدَّاد",
++"‘addād",
++"penghitung (counter)",
++"Pemrograman",
++"الْعَدَّادُ يَزِيدُ وَاحِدًا",
++"Penghitungnya bertambah satu"
++],
++[
++"مُتَغَيِّر مُؤَقَّت",
++"mutaghayyir mu’aqqat",
++"variabel sementara",
++"Pemrograman",
++"نَحْفَظُ الْقِيمَةَ فِي مُتَغَيِّرٍ مُؤَقَّتٍ",
++"Kami menyimpan nilai di variabel sementara"
++],
++[
++"قِيمَة افْتِرَاضِيَّة",
++"qīmah iftirāḍiyyah",
++"nilai bawaan (default)",
++"Pemrograman",
++"الْقِيمَةُ الِافْتِرَاضِيَّةُ صِفْرٌ",
++"Nilai bawaannya nol"
++],
++[
++"رُمُوز",
++"rumūz",
++"simbol-simbol / kode lambang",
++"Pemrograman",
++"الرُّمُوزُ فِي الْبَرْنَامَجِ كَثِيرَةٌ",
++"Simbol dalam program banyak"
++],
++[
++"تَكْوِين",
++"takwīn",
++"konfigurasi",
++"Pemrograman",
++"أُغَيِّرُ تَكْوِينَ الْبَرْنَامَجِ",
++"Saya mengubah konfigurasi program"
++],
++[
++"مَفْتُوحُ الْمَصْدَرِ",
++"maftūḥul-maṣdar",
++"sumber terbuka (open source)",
++"Pemrograman",
++"نَسْتَخْدِمُ بَرْنَامَجًا مَفْتُوحَ الْمَصْدَرِ",
++"Kami memakai program sumber terbuka"
++],
++[
++"وَسْم",
++"wasm",
++"tag (penanda HTML)",
++"Web dan aplikasi",
++"الْوَسْمُ يَبْدَأُ بِعَلَامَةٍ",
++"Tag diawali dengan tanda"
++],
++[
++"تَنْسِيق",
++"tansīq",
++"pemformatan / tata gaya",
++"Web dan aplikasi",
++"تَنْسِيقُ الصَّفْحَةِ جَمِيلٌ",
++"Tata gaya halamannya bagus"
++],
++[
++"لَوْن",
++"lawn",
++"warna",
++"Web dan aplikasi",
++"لَوْنُ الزِّرِّ أَزْرَقُ",
++"Warna tombolnya biru"
++],
++[
++"نَافِذَة",
++"nāfiżah",
++"jendela",
++"Web dan aplikasi",
++"أَفْتَحُ نَافِذَةً جَدِيدَةً",
++"Saya membuka jendela baru"
++],
++[
++"عَلَامَة تَبْوِيب",
++"‘alāmat tabwīb",
++"tab (browser)",
++"Web dan aplikasi",
++"أَفْتَحُ عَلَامَةَ تَبْوِيبٍ جَدِيدَةً",
++"Saya membuka tab baru"
++],
++[
++"قَائِمَة مُنْسَدِلَة",
++"qā’imah munsadilah",
++"menu tarik-turun (dropdown)",
++"Web dan aplikasi",
++"اِخْتَرْ مِنَ الْقَائِمَةِ الْمُنْسَدِلَةِ",
++"Pilih dari menu tarik-turun"
++],
++[
++"مَرْبَع اخْتِيَار",
++"marba‘ ikhtiyār",
++"kotak centang (checkbox)",
++"Web dan aplikasi",
++"حَدِّدْ مَرْبَعَ الِاخْتِيَارِ",
++"Centang kotaknya"
++],
++[
++"حَقْل إِدْخَال",
++"ḥaql idkhāl",
++"kolom input",
++"Web dan aplikasi",
++"اُكْتُبِ الِاسْمَ فِي حَقْلِ الْإِدْخَالِ",
++"Tulis nama di kolom input"
++],
++[
++"تَمْرِير",
++"tamrīr",
++"gulir (scroll)",
++"Web dan aplikasi",
++"أُمَرِّرُ الصَّفْحَةَ إِلَى أَسْفَلَ",
++"Saya menggulir halaman ke bawah"
++],
++[
++"نَقْر",
++"naqr",
++"klik / ketuk",
++"Web dan aplikasi",
++"نَقْرٌ وَاحِدٌ يَكْفِي",
++"Satu klik sudah cukup"
++],
++[
++"شَاشَة رَئِيسِيَّة",
++"syāsyah ra’īsiyyah",
++"layar utama",
++"Web dan aplikasi",
++"أَرْجِعُ إِلَى الشَّاشَةِ الرَّئِيسِيَّةِ",
++"Saya kembali ke layar utama"
++],
++[
++"مَتْجَر التَّطْبِيقَات",
++"matjarut-taṭbīqāt",
++"toko aplikasi",
++"Web dan aplikasi",
++"أُنَزِّلُ التَّطْبِيقَ مِنْ مَتْجَرِ التَّطْبِيقَاتِ",
++"Saya mengunduh aplikasi dari toko aplikasi"
++],
++[
++"مُطَوِّر وَيْب",
++"muṭawwir wayb",
++"pengembang web",
++"Web dan aplikasi",
++"أَخِي مُطَوِّرُ وَيْبٍ",
++"Kakak saya pengembang web"
++],
++[
++"مُصَمِّم وَاجِهَات",
++"muṣammim wājihāt",
++"desainer antarmuka",
++"Web dan aplikasi",
++"مُصَمِّمُ الْوَاجِهَاتِ يَخْتَارُ الْأَلْوَانَ",
++"Desainer antarmuka memilih warna"
++],
++[
++"خَادِم وَيْب",
++"khādim wayb",
++"server web",
++"Web dan aplikasi",
++"الْخَادِمُ يَعْمَلُ جَيِّدًا",
++"Server web berjalan dengan baik"
++],
++[
++"إِعْلَان",
++"i‘lān",
++"iklan",
++"Web dan aplikasi",
++"الْإِعْلَانُ يَظْهَرُ فِي الْمَوْقِعِ",
++"Iklan muncul di situs"
++],
++[
++"مُحْتَوًى",
++"muḥtawan",
++"konten",
++"Web dan aplikasi",
++"الْمُحْتَوَى جَيِّدٌ",
++"Kontennya bagus"
++],
++[
++"عُنْوَان رَئِيسِيّ",
++"‘unwān ra’īsiyy",
++"judul utama (heading)",
++"Web dan aplikasi",
++"الْعُنْوَانُ الرَّئِيسِيُّ كَبِيرٌ",
++"Judul utamanya besar"
++],
++[
++"فِقْرَة",
++"fiqrah",
++"paragraf",
++"Web dan aplikasi",
++"الْفِقْرَةُ الْأُولَى قَصِيرَةٌ",
++"Paragraf pertama pendek"
++],
++[
++"تَحْدِيث الصَّفْحَة",
++"taḥdīṡuṣ-ṣafḥah",
++"memperbarui halaman (refresh)",
++"Web dan aplikasi",
++"حَدِّثِ الصَّفْحَةَ مِنْ فَضْلِكَ",
++"Tolong perbarui halamannya"
++],
++[
++"زَائِر",
++"zā’ir",
++"pengunjung",
++"Web dan aplikasi",
++"عَدَدُ الزُّوَّارِ كَبِيرٌ",
++"Jumlah pengunjungnya banyak"
++],
++[
++"مُشَارَكَة",
++"musyārakah",
++"berbagi",
++"Web dan aplikasi",
++"أُشَارِكُ الرَّابِطَ مَعَ صَدِيقِي",
++"Saya membagikan tautan ke teman"
++],
++[
++"بَثّ مُبَاشِر",
++"baṡṡ mubāsyir",
++"siaran langsung",
++"Web dan aplikasi",
++"أُشَاهِدُ بَثًّا مُبَاشِرًا",
++"Saya menonton siaran langsung"
++],
++[
++"شَرِيط التَّمْرِير",
++"syarīṭut-tamrīr",
++"bilah gulir",
++"Web dan aplikasi",
++"شَرِيطُ التَّمْرِيرِ عَلَى الْيَمِينِ",
++"Bilah gulir ada di kanan"
++],
++[
++"صُورَة مُصَغَّرَة",
++"ṣūrah muṣaghgharah",
++"gambar mini (thumbnail)",
++"Web dan aplikasi",
++"الصُّورَةُ الْمُصَغَّرَةُ وَاضِحَةٌ",
++"Gambar mininya jelas"
++],
++[
++"تَطْبِيق وَيْب",
++"taṭbīq wayb",
++"aplikasi web",
++"Web dan aplikasi",
++"هٰذَا تَطْبِيقُ وَيْبٍ سَرِيعٌ",
++"Ini aplikasi web yang cepat"
++],
++[
++"تَطْبِيق سَطْحِ الْمَكْتَبِ",
++"taṭbīq saṭḥil-maktab",
++"aplikasi desktop",
++"Web dan aplikasi",
++"تَطْبِيقُ سَطْحِ الْمَكْتَبِ يَعْمَلُ دُونَ إِنْتَرْنَت",
++"Aplikasi desktop berjalan tanpa internet"
++],
++[
++"أَيْقُونَة التَّطْبِيق",
++"ayqūnatut-taṭbīq",
++"ikon aplikasi",
++"Web dan aplikasi",
++"أَضْغَطُ عَلَى أَيْقُونَةِ التَّطْبِيقِ",
++"Saya menekan ikon aplikasi"
++],
++[
++"شَاشَة التَّحْمِيل",
++"syāsyatut-taḥmīl",
++"layar pemuatan",
++"Web dan aplikasi",
++"شَاشَةُ التَّحْمِيلِ طَوِيلَةٌ",
++"Layar pemuatannya lama"
++],
++[
++"رِسَالَة خَطَأ",
++"risālah khaṭa’",
++"pesan kesalahan",
++"Web dan aplikasi",
++"ظَهَرَتْ رِسَالَةُ خَطَأٍ",
++"Muncul pesan kesalahan"
++],
++[
++"مَجَّانِيّ",
++"majjāniyy",
++"gratis",
++"Web dan aplikasi",
++"التَّطْبِيقُ مَجَّانِيٌّ",
++"Aplikasinya gratis"
++],
++[
++"مَدْفُوع",
++"madfū‘",
++"berbayar",
++"Web dan aplikasi",
++"هٰذَا الْإِصْدَارُ مَدْفُوعٌ",
++"Versi ini berbayar"
++],
++[
++"اِشْتِرَاك",
++"isytirāk",
++"langganan",
++"Web dan aplikasi",
++"اِشْتِرَاكِي يَنْتَهِي غَدًا",
++"Langganan saya berakhir besok"
++],
++[
++"تَرْجَمَة",
++"tarjamah",
++"terjemahan / lokalisasi",
++"Web dan aplikasi",
++"تَرْجَمَةُ الْمَوْقِعِ إِلَى الْعَرَبِيَّةِ",
++"Terjemahan situs ke bahasa Arab"
++],
++[
++"لُغَة الْمَوْقِع",
++"lughatul-mawqi‘",
++"bahasa situs",
++"Web dan aplikasi",
++"أَخْتَارُ لُغَةَ الْمَوْقِعِ",
++"Saya memilih bahasa situs"
++],
++[
++"وَضْع مُظْلِم",
++"waḍ‘ muẓlim",
++"mode gelap",
++"Web dan aplikasi",
++"أُفَعِّلُ الْوَضْعَ الْمُظْلِمَ لَيْلًا",
++"Saya mengaktifkan mode gelap di malam hari"
++],
++[
++"تَحْمِيل",
++"taḥmīl",
++"pemuatan / unduh",
++"Web dan aplikasi",
++"تَحْمِيلُ الصَّفْحَةِ بَطِيءٌ",
++"Pemuatan halamannya lambat"
++],
++[
++"سُرْعَة التَّحْمِيل",
++"sur‘atut-taḥmīl",
++"kecepatan muat",
++"Web dan aplikasi",
++"سُرْعَةُ التَّحْمِيلِ مُهِمَّةٌ",
++"Kecepatan muat itu penting"
++],
++[
++"تَحْدِيث الْبَيَانَات",
++"taḥdīṡul-bayānāt",
++"pembaruan data (update)",
++"Basis data",
++"أُحَدِّثُ بَيَانَاتِ الطَّالِبِ",
++"Saya memperbarui data siswa"
++],
++[
++"تَرْتِيب تَصَاعُدِيّ",
++"tartīb taṣā‘udiyy",
++"urutan menaik",
++"Basis data",
++"رَتِّبِ الْأَسْمَاءَ تَرْتِيبًا تَصَاعُدِيًّا",
++"Urutkan nama secara menaik"
++],
++[
++"تَرْتِيب تَنَازُلِيّ",
++"tartīb tanāzuliyy",
++"urutan menurun",
++"Basis data",
++"رَتِّبِ الدَّرَجَاتِ تَرْتِيبًا تَنَازُلِيًّا",
++"Urutkan nilai secara menurun"
++],
++[
++"دَالَّة تَجْمِيعِيَّة",
++"dāllah tajmī‘iyyah",
++"fungsi agregat",
++"Basis data",
++"الدَّالَّةُ التَّجْمِيعِيَّةُ تَحْسُبُ الْمَجْمُوعَ",
++"Fungsi agregat menghitung jumlah"
++],
++[
++"مَجْمُوع",
++"majmū‘",
++"jumlah (SUM)",
++"Basis data",
++"مَجْمُوعُ الدَّرَجَاتِ مِائَةٌ",
++"Jumlah nilainya seratus"
++],
++[
++"مُتَوَسِّط",
++"mutawassiṭ",
++"rata-rata",
++"Basis data",
++"مُتَوَسِّطُ الدَّرَجَاتِ جَيِّدٌ",
++"Rata-rata nilainya bagus"
++],
++[
++"أَكْبَر قِيمَة",
++"akbar qīmah",
++"nilai terbesar (MAX)",
++"Basis data",
++"أَجِدُ أَكْبَرَ قِيمَةٍ فِي الْعَمُودِ",
++"Saya mencari nilai terbesar di kolom"
++],
++[
++"أَصْغَر قِيمَة",
++"aṣghar qīmah",
++"nilai terkecil (MIN)",
++"Basis data",
++"هٰذِهِ أَصْغَرُ قِيمَةٍ",
++"Ini nilai terkecil"
++],
++[
++"عَدّ",
++"‘add",
++"menghitung (COUNT)",
++"Basis data",
++"أَعُدُّ الصُّفُوفَ فِي الْجَدْوَلِ",
++"Saya menghitung baris dalam tabel"
++],
++[
++"تَكْرَار الْبَيَانَات",
++"takrārul-bayānāt",
++"duplikasi data",
++"Basis data",
++"تَكْرَارُ الْبَيَانَاتِ مُشْكِلَةٌ",
++"Duplikasi data itu masalah"
++],
++[
++"مُخَطَّط الْكِيَانَات",
++"mukhaṭṭaṭul-kiyānāt",
++"diagram relasi entitas (ERD)",
++"Basis data",
++"رَسَمْتُ مُخَطَّطَ الْكِيَانَاتِ",
++"Saya menggambar ERD"
++],
++[
++"اِتِّصَال بِقَاعِدَةِ الْبَيَانَاتِ",
++"ittiṣāl bi-qā‘idatil-bayānāt",
++"koneksi ke basis data",
++"Basis data",
++"الِاتِّصَالُ بِقَاعِدَةِ الْبَيَانَاتِ نَاجِحٌ",
++"Koneksi ke basis data berhasil"
++],
++[
++"مُسْتَوْدَع الْبَيَانَات",
++"mustawda‘ul-bayānāt",
++"gudang data",
++"Basis data",
++"الْمُسْتَوْدَعُ يَحْفَظُ بَيَانَاتٍ كَثِيرَةً",
++"Gudang data menyimpan banyak data"
++],
++[
++"بَيَانَات ضَخْمَة",
++"bayānāt ḍakhmah",
++"data besar (big data)",
++"Basis data",
++"الْبَيَانَاتُ الضَّخْمَةُ تَحْتَاجُ خَادِمًا قَوِيًّا",
++"Data besar butuh server yang kuat"
++],
++[
++"تَحْلِيل الْبَيَانَات",
++"taḥlīlul-bayānāt",
++"analisis data",
++"Basis data",
++"تَحْلِيلُ الْبَيَانَاتِ يُسَاعِدُ الْقَرَارَ",
++"Analisis data membantu pengambilan keputusan"
++],
++[
++"مُعَالَجَة الْبَيَانَات",
++"mu‘ālajatul-bayānāt",
++"pengolahan data",
++"Basis data",
++"مُعَالَجَةُ الْبَيَانَاتِ تَأْخُذُ وَقْتًا",
++"Pengolahan data memakan waktu"
++],
++[
++"تَنْظِيف الْبَيَانَات",
++"tanẓīful-bayānāt",
++"pembersihan data",
++"Basis data",
++"تَنْظِيفُ الْبَيَانَاتِ خُطْوَةٌ مُهِمَّةٌ",
++"Pembersihan data adalah langkah penting"
++],
++[
++"مَصْدَر الْبَيَانَات",
++"maṣdarul-bayānāt",
++"sumber data",
++"Basis data",
++"مَا مَصْدَرُ الْبَيَانَاتِ؟",
++"Apa sumber datanya?"
++],
++[
++"مُخَطَّط بَيَانِيّ",
++"mukhaṭṭaṭ bayāniyy",
++"grafik / bagan",
++"Basis data",
++"الْمُخَطَّطُ الْبَيَانِيُّ يُوَضِّحُ الْمَبِيعَاتِ",
++"Grafik menjelaskan penjualan"
++],
++[
++"بَيَانَات حَسَّاسَة",
++"bayānāt ḥassāsah",
++"data sensitif",
++"Basis data",
++"لَا نُشَارِكُ الْبَيَانَاتِ الْحَسَّاسَةَ",
++"Kita tidak membagikan data sensitif"
++],
++[
++"نُسْخَة",
++"nuskhah",
++"salinan",
++"Basis data",
++"أَصْنَعُ نُسْخَةً مِنَ الْمِلَفِّ",
++"Saya membuat salinan berkas"
++],
++[
++"بَيَانَات الطُّلَّاب",
++"bayānāt aṭ-ṭullāb",
++"data siswa",
++"Basis data",
++"بَيَانَاتُ الطُّلَّابِ مَحْفُوظَةٌ",
++"Data siswa tersimpan"
++],
++[
++"مُعَرِّف",
++"mu‘arrif",
++"pengenal (ID)",
++"Basis data",
++"الْمُعَرِّفُ فَرِيدٌ",
++"ID-nya unik"
++],
++[
++"فَرِيد",
++"farīd",
++"unik",
++"Basis data",
++"الرَّقْمُ فَرِيدٌ",
++"Nomornya unik"
++],
++[
++"اِسْتِرْجَاع الْبَيَانَات",
++"istirjā‘ul-bayānāt",
++"pengambilan kembali data",
++"Basis data",
++"اِسْتِرْجَاعُ الْبَيَانَاتِ نَجَحَ",
++"Pengambilan data berhasil"
++],
++[
++"خَادِم وَكِيل",
++"khādim wakīl",
++"server proxy",
++"Jaringan dan keamanan",
++"الْخَادِمُ الْوَكِيلُ يَحْمِي الشَّبَكَةَ",
++"Server proxy melindungi jaringan"
++],
++[
++"نِظَامُ أَسْمَاءِ النِّطَاقَاتِ",
++"niẓāmu asmā’in-niṭāqāt",
++"DNS (sistem nama domain)",
++"Jaringan dan keamanan",
++"نِظَامُ الْأَسْمَاءِ يُحَوِّلُ الِاسْمَ إِلَى عُنْوَانٍ",
++"DNS mengubah nama menjadi alamat"
++],
++[
++"بَوَّابَة",
++"bawwābah",
++"gerbang (gateway)",
++"Jaringan dan keamanan",
++"الْبَوَّابَةُ تَرْبِطُ الشَّبَكَتَيْنِ",
++"Gerbang menghubungkan dua jaringan"
++],
++[
++"شَبَكَة افْتِرَاضِيَّة خَاصَّة",
++"syabakah iftirāḍiyyah khāṣṣah",
++"VPN",
++"Jaringan dan keamanan",
++"أَسْتَخْدِمُ شَبَكَةً افْتِرَاضِيَّةً خَاصَّةً",
++"Saya memakai VPN"
++],
++[
++"هَيْكَلُ الشَّبَكَةِ",
++"haykalusy-syabakah",
++"topologi jaringan",
++"Jaringan dan keamanan",
++"هَيْكَلُ الشَّبَكَةِ عَلَى شَكْلِ نَجْمَةٍ",
++"Topologi jaringannya berbentuk bintang"
++],
++[
++"قِنَاعُ الشَّبَكَةِ",
++"qinā‘usy-syabakah",
++"subnet mask",
++"Jaringan dan keamanan",
++"أَكْتُبُ قِنَاعَ الشَّبَكَةِ",
++"Saya menulis subnet mask"
++],
++[
++"شَبَكَة فَرْعِيَّة",
++"syabakah far‘iyyah",
++"subnet",
++"Jaringan dan keamanan",
++"الشَّبَكَةُ الْفَرْعِيَّةُ صَغِيرَةٌ",
++"Subnetnya kecil"
++],
++[
++"اِسْمُ الشَّبَكَةِ",
++"ismusy-syabakah",
++"nama jaringan (SSID)",
++"Jaringan dan keamanan",
++"مَا اسْمُ الشَّبَكَةِ؟",
++"Apa nama jaringannya?"
++],
++[
++"وَايْ فَايْ",
++"wāy fāy",
++"Wi-Fi",
++"Jaringan dan keamanan",
++"أَتَّصِلُ بِالْوَايْ فَايْ",
++"Saya terhubung ke Wi-Fi"
++],
++[
++"تَأْخِيرُ الشَّبَكَةِ",
++"ta’khīrusy-syabakah",
++"latensi jaringan (ping)",
++"Jaringan dan keamanan",
++"تَأْخِيرُ الشَّبَكَةِ عَالٍ",
++"Latensi jaringannya tinggi"
++],
++[
++"نَقْلُ الْمِلَفَّاتِ",
++"naqlul-milaffāt",
++"transfer berkas",
++"Jaringan dan keamanan",
++"نَقْلُ الْمِلَفَّاتِ سَرِيعٌ",
++"Transfer berkasnya cepat"
++],
++[
++"طَابِعَة مُشْتَرَكَة",
++"ṭābi‘ah musytarakah",
++"printer bersama",
++"Jaringan dan keamanan",
++"الطَّابِعَةُ الْمُشْتَرَكَةُ فِي الْمَكْتَبِ",
++"Printer bersama ada di kantor"
++],
++[
++"كَلِمَةُ مُرُورٍ قَوِيَّةٌ",
++"kalimatu murūrin qawiyyah",
++"kata sandi kuat",
++"Jaringan dan keamanan",
++"أَحْتَاجُ كَلِمَةَ مُرُورٍ قَوِيَّةً",
++"Saya butuh kata sandi yang kuat"
++],
++[
++"تَحَقُّق بِخُطْوَتَيْنِ",
++"taḥaqquq bi-khuṭwatayn",
++"verifikasi dua langkah",
++"Jaringan dan keamanan",
++"أُفَعِّلُ التَّحَقُّقَ بِخُطْوَتَيْنِ",
++"Saya mengaktifkan verifikasi dua langkah"
++],
++[
++"سَرِقَةُ الْبَيَانَاتِ",
++"saraqatul-bayānāt",
++"pencurian data",
++"Jaringan dan keamanan",
++"سَرِقَةُ الْبَيَانَاتِ خَطِيرَةٌ",
++"Pencurian data itu berbahaya"
++],
++[
++"تَحْدِيثُ الْأَمَانِ",
++"taḥdīṡul-amān",
++"pembaruan keamanan",
++"Jaringan dan keamanan",
++"تَحْدِيثُ الْأَمَانِ مُهِمٌّ",
++"Pembaruan keamanan itu penting"
++],
++[
++"مَرْكَزُ الْبَيَانَاتِ",
++"markazul-bayānāt",
++"pusat data",
++"Jaringan dan keamanan",
++"مَرْكَزُ الْبَيَانَاتِ كَبِيرٌ",
++"Pusat datanya besar"
++],
++[
++"سَحَابَة",
++"saḥābah",
++"awan (cloud)",
++"Jaringan dan keamanan",
++"الْمِلَفَّاتُ فِي السَّحَابَةِ",
++"Berkasnya ada di awan"
++],
++[
++"حَوْسَبَة سَحَابِيَّة",
++"ḥawsabah saḥābiyyah",
++"komputasi awan",
++"Jaringan dan keamanan",
++"الْحَوْسَبَةُ السَّحَابِيَّةُ تُوَفِّرُ الْمَالَ",
++"Komputasi awan menghemat biaya"
++],
++[
++"خِدْمَة",
++"khidmah",
++"layanan",
++"Jaringan dan keamanan",
++"الْخِدْمَةُ تَعْمَلُ دَائِمًا",
++"Layanannya selalu berjalan"
++],
++[
++"إِنْتَرْنِتُ الْأَشْيَاءِ",
++"intarnitul-asyyā’",
++"internet of things (IoT)",
++"Jaringan dan keamanan",
++"إِنْتَرْنِتُ الْأَشْيَاءِ يَرْبِطُ الْأَجْهِزَةَ",
++"IoT menghubungkan perangkat"
++],
++[
++"حِزْمَة بَيَانَات",
++"ḥizmah bayānāt",
++"paket data (unit)",
++"Jaringan dan keamanan",
++"الْحِزْمَةُ وَصَلَتْ إِلَى الْخَادِمِ",
++"Paketnya sampai ke server"
++],
++[
++"جِهَازُ التَّوْجِيهِ",
++"jihāzut-tawjīh",
++"perangkat router",
++"Jaringan dan keamanan",
++"جِهَازُ التَّوْجِيهِ فِي الْغُرْفَةِ",
++"Perangkat router ada di ruangan"
++],
++[
++"عُنْوَانُ الْأَجْهِزَةِ",
++"‘unwānul-ajhizah",
++"alamat perangkat (MAC)",
++"Jaringan dan keamanan",
++"أَكْتُبُ عُنْوَانَ الْجِهَازِ",
++"Saya menulis alamat perangkat"
++],
++[
++"نِطَاق التَّرَدُّدِ",
++"niṭāqut-taraddud",
++"pita frekuensi",
++"Jaringan dan keamanan",
++"نِطَاقُ التَّرَدُّدِ مُزْدَحِمٌ",
++"Pita frekuensinya padat"
++],
++[
++"قُوَّةُ الْإِشَارَةِ",
++"quwwatul-isyārah",
++"kekuatan sinyal",
++"Jaringan dan keamanan",
++"قُوَّةُ الْإِشَارَةِ ضَعِيفَةٌ هُنَا",
++"Kekuatan sinyal lemah di sini"
++],
++[
++"إِشَارَة",
++"isyārah",
++"sinyal",
++"Jaringan dan keamanan",
++"لَا تُوجَدُ إِشَارَةٌ",
++"Tidak ada sinyal"
++],
++[
++"مُوَزِّع",
++"muwazzi‘",
++"hub / pembagi",
++"Jaringan dan keamanan",
++"الْمُوَزِّعُ يَرْبِطُ الْحَوَاسِيبَ",
++"Hub menghubungkan komputer"
++],
++[
++"مُقَوِّي الْإِشَارَةِ",
++"muqawwil-isyārah",
++"penguat sinyal",
++"Jaringan dan keamanan",
++"أُرَكِّبُ مُقَوِّيَ الْإِشَارَةِ",
++"Saya memasang penguat sinyal"
++],
++[
++"مُسْتَخْدِم ضَيْف",
++"mustakhdim ḍayf",
++"pengguna tamu",
++"Jaringan dan keamanan",
++"أَدْخُلُ كَمُسْتَخْدِمٍ ضَيْفٍ",
++"Saya masuk sebagai pengguna tamu"
++],
++[
++"اِتِّصَال آمِن",
++"ittiṣāl āmin",
++"koneksi aman",
++"Jaringan dan keamanan",
++"الِاتِّصَالُ آمِنٌ",
++"Koneksinya aman"
++],
++[
++"هَنْدَسَةُ الْبَرْمَجِيَّاتِ",
++"handasatul-barmajiyyāt",
++"rekayasa perangkat lunak",
++"Rekayasa perangkat lunak",
++"أَدْرُسُ هَنْدَسَةَ الْبَرْمَجِيَّاتِ",
++"Saya belajar rekayasa perangkat lunak"
++],
++[
++"تَحْلِيلُ الْمُتَطَلَّبَاتِ",
++"taḥlīlul-mutaṭallabāt",
++"analisis kebutuhan",
++"Rekayasa perangkat lunak",
++"تَحْلِيلُ الْمُتَطَلَّبَاتِ يَبْدَأُ الْمَشْرُوعَ",
++"Analisis kebutuhan memulai proyek"
++],
++[
++"تَصْمِيمُ النِّظَامِ",
++"taṣmīmun-niẓām",
++"desain sistem",
++"Rekayasa perangkat lunak",
++"تَصْمِيمُ النِّظَامِ وَاضِحٌ",
++"Desain sistemnya jelas"
++],
++[
++"مُخَطَّط تَدَفُّقِيّ",
++"mukhaṭṭaṭ tadaffuqiyy",
++"diagram alir (flowchart)",
++"Rekayasa perangkat lunak",
++"رَسَمْتُ مُخَطَّطًا تَدَفُّقِيًّا",
++"Saya menggambar diagram alir"
++],
++[
++"مُخَطَّطُ الْفِئَاتِ",
++"mukhaṭṭaṭul-fi’āt",
++"diagram kelas",
++"Rekayasa perangkat lunak",
++"مُخَطَّطُ الْفِئَاتِ يُبَيِّنُ الْعَلَاقَاتِ",
++"Diagram kelas menunjukkan relasi"
++],
++[
++"حَالَةُ اسْتِخْدَامٍ",
++"ḥālatu istikhdām",
++"kasus penggunaan (use case)",
++"Rekayasa perangkat lunak",
++"هٰذِهِ حَالَةُ اسْتِخْدَامٍ بَسِيطَةٌ",
++"Ini use case yang sederhana"
++],
++[
++"مُسْتَخْدِم نِهَائِيّ",
++"mustakhdim nihā’iyy",
++"pengguna akhir",
++"Rekayasa perangkat lunak",
++"الْمُسْتَخْدِمُ النِّهَائِيُّ يُجَرِّبُ التَّطْبِيقَ",
++"Pengguna akhir mencoba aplikasi"
++],
++[
++"فَرِيق",
++"farīq",
++"tim",
++"Rekayasa perangkat lunak",
++"فَرِيقُنَا يَعْمَلُ مَعًا",
++"Tim kami bekerja bersama"
++],
++[
++"مَشْرُوع",
++"masyrū‘",
++"proyek",
++"Rekayasa perangkat lunak",
++"هٰذَا مَشْرُوعِي الْجَدِيدُ",
++"Ini proyek baru saya"
++],
++[
++"مُدِيرُ الْمَشْرُوعِ",
++"mudīrul-masyrū‘",
++"manajer proyek",
++"Rekayasa perangkat lunak",
++"مُدِيرُ الْمَشْرُوعِ يُوَزِّعُ الْمَهَامَّ",
++"Manajer proyek membagi tugas"
++],
++[
++"جَدْوَلٌ زَمَنِيٌّ",
++"jadwal zamaniyy",
++"jadwal waktu",
++"Rekayasa perangkat lunak",
++"الْجَدْوَلُ الزَّمَنِيُّ مُحَدَّدٌ",
++"Jadwal waktunya sudah ditentukan"
++],
++[
++"مَوْعِدُ التَّسْلِيمِ",
++"maw‘idut-taslīm",
++"tenggat penyerahan",
++"Rekayasa perangkat lunak",
++"مَوْعِدُ التَّسْلِيمِ يَوْمَ الْأَحَدِ",
++"Tenggat penyerahan hari Minggu"
++],
++[
++"مَرْحَلَة",
++"marḥalah",
++"tahap",
++"Rekayasa perangkat lunak",
++"هٰذِهِ الْمَرْحَلَةُ الْأَخِيرَةُ",
++"Ini tahap terakhir"
++],
++[
++"دَوْرَةُ عَمَلٍ",
++"dawratu ‘amal",
++"siklus kerja (sprint)",
++"Rekayasa perangkat lunak",
++"دَوْرَةُ الْعَمَلِ أُسْبُوعَانِ",
++"Siklus kerjanya dua minggu"
++],
++[
++"مَنْهَجِيَّة رَشِيقَة",
++"manhajiyyah rasyīqah",
++"metode Agile",
++"Rekayasa perangkat lunak",
++"نَعْمَلُ بِالْمَنْهَجِيَّةِ الرَّشِيقَةِ",
++"Kami bekerja dengan metode Agile"
++],
++[
++"نَمُوذَجُ الشَّلَّالِ",
++"namūżajusy-syallāl",
++"model waterfall",
++"Rekayasa perangkat lunak",
++"نَمُوذَجُ الشَّلَّالِ لَهُ مَرَاحِلُ مُتَتَالِيَةٌ",
++"Model waterfall punya tahap berurutan"
++],
++[
++"مُرَاجَعَةُ الشَّفْرَةِ",
++"murāja‘atusy-syafrah",
++"tinjauan kode (code review)",
++"Rekayasa perangkat lunak",
++"مُرَاجَعَةُ الشَّفْرَةِ تَمْنَعُ الْأَخْطَاءَ",
++"Tinjauan kode mencegah kesalahan"
++],
++[
++"اِجْتِمَاع",
++"ijtimā‘",
++"rapat",
++"Rekayasa perangkat lunak",
++"الِاجْتِمَاعُ بَعْدَ سَاعَةٍ",
++"Rapatnya satu jam lagi"
++],
++[
++"اِجْتِمَاعٌ يَوْمِيٌّ",
++"ijtimā‘ yawmiyy",
++"rapat harian (standup)",
++"Rekayasa perangkat lunak",
++"الِاجْتِمَاعُ الْيَوْمِيُّ قَصِيرٌ",
++"Rapat hariannya singkat"
++],
++[
++"مُهِمَّة",
++"muhimmah",
++"tugas",
++"Rekayasa perangkat lunak",
++"هٰذِهِ مُهِمَّتِي الْيَوْمَ",
++"Ini tugas saya hari ini"
++],
++[
++"أَوْلَوِيَّة",
++"awlawiyyah",
++"prioritas",
++"Rekayasa perangkat lunak",
++"هٰذِهِ الْمُهِمَّةُ لَهَا أَوْلَوِيَّةٌ عَالِيَةٌ",
++"Tugas ini berprioritas tinggi"
++],
++[
++"مَيْزَة",
++"maizah",
++"fitur",
++"Rekayasa perangkat lunak",
++"الْمَيْزَةُ الْجَدِيدَةُ مُفِيدَةٌ",
++"Fitur barunya berguna"
++],
++[
++"مُشْكِلَة",
++"musykilah",
++"masalah",
++"Rekayasa perangkat lunak",
++"عِنْدِي مُشْكِلَةٌ فِي الْبَرْنَامَجِ",
++"Saya punya masalah di program"
++],
++[
++"حَلّ",
++"ḥall",
++"solusi",
++"Rekayasa perangkat lunak",
++"وَجَدْتُ الْحَلَّ",
++"Saya menemukan solusinya"
++],
++[
++"جَوْدَة",
++"jawdah",
++"kualitas",
++"Rekayasa perangkat lunak",
++"جَوْدَةُ الْبَرْنَامَجِ عَالِيَةٌ",
++"Kualitas programnya tinggi"
++],
++[
++"خُطَّة",
++"khuṭṭah",
++"rencana",
++"Rekayasa perangkat lunak",
++"الْخُطَّةُ وَاضِحَةٌ",
++"Rencananya jelas"
++],
++[
++"تَقْدِير",
++"taqdīr",
++"estimasi",
++"Rekayasa perangkat lunak",
++"تَقْدِيرُ الْوَقْتِ ثَلَاثَةُ أَيَّامٍ",
++"Estimasi waktunya tiga hari"
++],
++[
++"مِيزَانِيَّةُ الْمَشْرُوعِ",
++"mīzāniyyatul-masyrū‘",
++"anggaran proyek",
++"Rekayasa perangkat lunak",
++"مِيزَانِيَّةُ الْمَشْرُوعِ صَغِيرَةٌ",
++"Anggaran proyeknya kecil"
++],
++[
++"نُسْخَة نِهَائِيَّة",
++"nuskhah nihā’iyyah",
++"versi final",
++"Rekayasa perangkat lunak",
++"هٰذِهِ النُّسْخَةُ النِّهَائِيَّةُ",
++"Ini versi finalnya"
++],
++[
++"طَلَبُ تَغْيِيرٍ",
++"ṭalabu taghyīr",
++"permintaan perubahan",
++"Rekayasa perangkat lunak",
++"وَصَلَنَا طَلَبُ تَغْيِيرٍ",
++"Kami menerima permintaan perubahan"
++],
++[
++"مُسْتَوْدَع",
++"mustawda‘",
++"repositori",
++"Kolaborasi dan versi",
++"الْمُسْتَوْدَعُ عَلَى الْإِنْتَرْنِت",
++"Repositorinya ada di internet"
++],
++[
++"إِيدَاع",
++"īdā‘",
++"commit",
++"Kolaborasi dan versi",
++"أَكْتُبُ رِسَالَةً لِلْإِيدَاعِ",
++"Saya menulis pesan commit"
++],
++[
++"دَفْع",
++"daf‘",
++"push (dorong)",
++"Kolaborasi dan versi",
++"أَدْفَعُ الشَّفْرَةَ إِلَى الْمُسْتَوْدَعِ",
++"Saya mendorong kode ke repositori"
++],
++[
++"سَحْب",
++"saḥb",
++"pull (tarik)",
++"Kolaborasi dan versi",
++"أَسْحَبُ آخِرَ تَحْدِيثٍ",
++"Saya menarik pembaruan terbaru"
++],
++[
++"دَمْجُ الْفُرُوعِ",
++"damjul-furū‘",
++"penggabungan cabang (merge)",
++"Kolaborasi dan versi",
++"دَمْجُ الْفُرُوعِ نَجَحَ",
++"Penggabungan cabang berhasil"
++],
++[
++"نَسْخُ الْمُسْتَوْدَعِ",
++"naskhul-mustawda‘",
++"meng-clone repositori",
++"Kolaborasi dan versi",
++"أَنْسَخُ الْمُسْتَوْدَعَ إِلَى حَاسُوبِي",
++"Saya meng-clone repositori ke komputer saya"
++],
++[
++"تَعَارُض",
++"ta‘āruḍ",
++"konflik (merge conflict)",
++"Kolaborasi dan versi",
++"حَدَثَ تَعَارُضٌ فِي الدَّمْجِ",
++"Terjadi konflik saat penggabungan"
++],
++[
++"طَلَبُ دَمْجٍ",
++"ṭalabu damj",
++"pull request",
++"Kolaborasi dan versi",
++"أَرْسَلْتُ طَلَبَ دَمْجٍ",
++"Saya mengirim pull request"
++],
++[
++"مُرَاجِع",
++"murāji‘",
++"peninjau (reviewer)",
++"Kolaborasi dan versi",
++"الْمُرَاجِعُ يَقْرَأُ الشَّفْرَةَ",
++"Peninjau membaca kodenya"
++],
++[
++"مُسَاهِم",
++"musāhim",
++"kontributor",
++"Kolaborasi dan versi",
++"هُوَ مُسَاهِمٌ فِي الْمَشْرُوعِ",
++"Dia kontributor proyek ini"
++],
++[
++"سِجِلُّ التَّغْيِيرَاتِ",
++"sijillut-taghyīrāt",
++"riwayat perubahan",
++"Kolaborasi dan versi",
++"أَقْرَأُ سِجِلَّ التَّغْيِيرَاتِ",
++"Saya membaca riwayat perubahan"
++],
++[
++"تَرَاجُع",
++"tarāju‘",
++"pembatalan (rollback)",
++"Kolaborasi dan versi",
++"قَرَّرْنَا التَّرَاجُعَ عَنِ التَّحْدِيثِ",
++"Kami memutuskan membatalkan pembaruan"
++],
++[
++"مُلَاحَظَة",
++"mulāḥaẓah",
++"catatan",
++"Kolaborasi dan versi",
++"أَكْتُبُ مُلَاحَظَةً فِي الْمُسْتَنَدِ",
++"Saya menulis catatan di dokumen"
++],
++[
++"تَعَاوُن",
++"ta‘āwun",
++"kolaborasi",
++"Kolaborasi dan versi",
++"التَّعَاوُنُ يُسَرِّعُ الْعَمَلَ",
++"Kolaborasi mempercepat pekerjaan"
++],
++[
++"خَرِيطَةُ الْمَوْقِعِ",
++"kharīṭatul-mawqi‘",
++"peta situs",
++"Desain dan multimedia",
++"خَرِيطَةُ الْمَوْقِعِ مُرَتَّبَةٌ",
++"Peta situsnya tertata"
++],
++[
++"هَيْكَل سِلْكِيّ",
++"haykal silkiyy",
++"wireframe",
++"Desain dan multimedia",
++"أَرْسُمُ هَيْكَلًا سِلْكِيًّا لِلصَّفْحَةِ",
++"Saya menggambar wireframe halaman"
++],
++[
++"لَوْحَةُ أَلْوَانٍ",
++"lawḥatu alwān",
++"palet warna",
++"Desain dan multimedia",
++"لَوْحَةُ الْأَلْوَانِ هَادِئَةٌ",
++"Palet warnanya tenang"
++],
++[
++"مَسَافَة",
++"masāfah",
++"jarak / spasi",
++"Desain dan multimedia",
++"الْمَسَافَةُ بَيْنَ الْأَسْطُرِ كَبِيرَةٌ",
++"Spasi antarbaris besar"
++],
++[
++"مُحَاذَاة",
++"muḥāżāh",
++"perataan (alignment)",
++"Desain dan multimedia",
++"الْمُحَاذَاةُ إِلَى الْيَمِينِ",
++"Rata kanan"
++],
++[
++"تَنَاسُق",
++"tanāsuq",
++"keselarasan",
++"Desain dan multimedia",
++"هُنَاكَ تَنَاسُقٌ فِي الْأَلْوَانِ",
++"Ada keselarasan warna"
++],
++[
++"بَسَاطَة",
++"basāṭah",
++"kesederhanaan",
++"Desain dan multimedia",
++"الْبَسَاطَةُ مُهِمَّةٌ فِي التَّصْمِيمِ",
++"Kesederhanaan penting dalam desain"
++],
++[
++"سُهُولَةُ الِاسْتِخْدَامِ",
++"suhūlatul-istikhdām",
++"kemudahan penggunaan",
++"Desain dan multimedia",
++"سُهُولَةُ الِاسْتِخْدَامِ تُرْضِي الْمُسْتَخْدِمَ",
++"Kemudahan penggunaan memuaskan pengguna"
++],
++[
++"إِمْكَانِيَّةُ الْوُصُولِ",
++"imkāniyyatul-wuṣūl",
++"aksesibilitas",
++"Desain dan multimedia",
++"إِمْكَانِيَّةُ الْوُصُولِ لِلْجَمِيعِ",
++"Aksesibilitas untuk semua orang"
++],
++[
++"مُخَطَّط أَوَّلِيّ",
++"mukhaṭṭaṭ awwaliyy",
++"sketsa awal",
++"Desain dan multimedia",
++"أَرْسُمُ مُخَطَّطًا أَوَّلِيًّا",
++"Saya menggambar sketsa awal"
++],
++[
++"مَقْطَع صَوْتِيّ",
++"maqṭa‘ ṣawtiyy",
++"klip audio",
++"Desain dan multimedia",
++"أَسْمَعُ مَقْطَعًا صَوْتِيًّا",
++"Saya mendengar klip audio"
++],
++[
++"تَسْجِيل صَوْتِيّ",
++"tasjīl ṣawtiyy",
++"rekaman suara",
++"Desain dan multimedia",
++"التَّسْجِيلُ الصَّوْتِيُّ وَاضِحٌ",
++"Rekaman suaranya jernih"
++],
++[
++"لَقْطَةُ شَاشَةٍ",
++"laqṭatu syāsyah",
++"tangkapan layar",
++"Desain dan multimedia",
++"أَلْتَقِطُ لَقْطَةَ شَاشَةٍ",
++"Saya mengambil tangkapan layar"
++],
++[
++"إِطَار",
++"iṭār",
++"bingkai",
++"Desain dan multimedia",
++"الصُّورَةُ دَاخِلَ الْإِطَارِ",
++"Gambarnya di dalam bingkai"
++],
++[
++"مُؤَثِّرَات",
++"mu’aṡṡirāt",
++"efek",
++"Desain dan multimedia",
++"أُضِيفُ مُؤَثِّرَاتٍ لِلْفِيدْيُو",
++"Saya menambahkan efek ke video"
++],
++[
++"شَفَّاف",
++"syaffāf",
++"transparan",
++"Desain dan multimedia",
++"الْخَلْفِيَّةُ شَفَّافَةٌ",
++"Latar belakangnya transparan"
++],
++[
++"سُطُوع",
++"suṭū‘",
++"kecerahan",
++"Desain dan multimedia",
++"أَزِيدُ سُطُوعَ الشَّاشَةِ",
++"Saya menambah kecerahan layar"
++],
++[
++"تَدَرُّج لَوْنِيّ",
++"tadarruj lawniyy",
++"gradasi warna",
++"Desain dan multimedia",
++"التَّدَرُّجُ اللَّوْنِيُّ جَمِيلٌ",
++"Gradasi warnanya indah"
++],
++[
++"نَمُوذَجٌ ثُلَاثِيُّ الْأَبْعَادِ",
++"namūżaj ṡulāṡiyyul-ab‘ād",
++"model 3D",
++"Desain dan multimedia",
++"أَصْنَعُ نَمُوذَجًا ثُلَاثِيَّ الْأَبْعَادِ",
++"Saya membuat model 3D"
++],
++[
++"فِيدْيُو",
++"fīdiyū",
++"video",
++"Desain dan multimedia",
++"أَقْطَعُ الْفِيدْيُو",
++"Saya memotong video"
++],
++[
++"وَحْدَةُ الْمُعَالَجَةِ الْمَرْكَزِيَّةِ",
++"waḥdatul-mu‘ālajatil-markaziyyah",
++"CPU",
++"Komputer dan perangkat",
++"وَحْدَةُ الْمُعَالَجَةِ سَرِيعَةٌ",
++"CPU-nya cepat"
++],
++[
++"قُرْصُ الْحَالَةِ الصُّلْبَةِ",
++"qurṣul-ḥālatiṣ-ṣulbah",
++"SSD",
++"Komputer dan perangkat",
++"الْقُرْصُ الصُّلْبُ الْجَدِيدُ أَسْرَعُ",
++"SSD baru lebih cepat"
++],
++[
++"سَطْحُ الْمَكْتَبِ",
++"saṭḥul-maktab",
++"desktop (layar utama)",
++"Komputer dan perangkat",
++"عَلَى سَطْحِ الْمَكْتَبِ أَيْقُونَاتٌ كَثِيرَةٌ",
++"Di desktop ada banyak ikon"
++],
++[
++"مِلَفّ",
++"milaff",
++"berkas / file",
++"Komputer dan perangkat",
++"افْتَحِ الْمِلَفَّ",
++"Buka berkasnya"
++],
++[
++"مَجَلَّد",
++"majallad",
++"folder",
++"Komputer dan perangkat",
++"الْمِلَفُّ فِي الْمَجَلَّدِ",
++"Berkasnya ada di folder"
++],
++[
++"اِخْتِصَار",
++"ikhtiṣār",
++"pintasan (shortcut)",
++"Komputer dan perangkat",
++"أَسْتَخْدِمُ اخْتِصَارَ لَوْحَةِ الْمَفَاتِيحِ",
++"Saya memakai pintasan papan ketik"
++],
++[
++"حَافِظَة",
++"ḥāfiẓah",
++"papan klip (clipboard)",
++"Komputer dan perangkat",
++"النَّصُّ فِي الْحَافِظَةِ",
++"Teksnya ada di papan klip"
++],
++[
++"سَلَّةُ الْمَحْذُوفَاتِ",
++"sallatul-maḥżūfāt",
++"tempat sampah (recycle bin)",
++"Komputer dan perangkat",
++"أَنْقُلُ الْمِلَفَّ إِلَى سَلَّةِ الْمَحْذُوفَاتِ",
++"Saya memindahkan berkas ke tempat sampah"
++],
++[
++"مُدِيرُ الْمَهَامِّ",
++"mudīrul-mahām",
++"task manager",
++"Komputer dan perangkat",
++"أَفْتَحُ مُدِيرَ الْمَهَامِّ",
++"Saya membuka task manager"
++],
++[
++"ضَغْطُ الْمِلَفَّاتِ",
++"ḍaghṭul-milaffāt",
++"kompresi berkas",
++"Komputer dan perangkat",
++"ضَغْطُ الْمِلَفَّاتِ يُقَلِّلُ الْحَجْمَ",
++"Kompresi berkas memperkecil ukuran"
++],
++[
++"فَكُّ الضَّغْطِ",
++"fakkuḍ-ḍaghṭ",
++"ekstrak (unzip)",
++"Komputer dan perangkat",
++"أَفُكُّ ضَغْطَ الْمِلَفِّ",
++"Saya mengekstrak berkas"
++],
++[
++"سِعَةُ التَّخْزِينِ",
++"si‘atut-takhzīn",
++"kapasitas penyimpanan",
++"Komputer dan perangkat",
++"سِعَةُ التَّخْزِينِ كَبِيرَةٌ",
++"Kapasitas penyimpanannya besar"
++],
++[
++"غِيغَابَايْت",
++"ghīghābāyt",
++"gigabita (GB)",
++"Komputer dan perangkat",
++"الْمِلَفُّ حَجْمُهُ غِيغَابَايْت",
++"Ukuran berkasnya satu gigabita"
++],
++[
++"مِيغَابَايْت",
++"mīghābāyt",
++"megabita (MB)",
++"Komputer dan perangkat",
++"الصُّورَةُ خَمْسَةُ مِيغَابَايْت",
++"Gambarnya lima megabita"
++],
++[
++"تَيْرَابَايْت",
++"tayrābāyt",
++"terabita (TB)",
++"Komputer dan perangkat",
++"الْقُرْصُ تَيْرَابَايْت",
++"Kapasitas diskonya satu terabita"
++],
++[
++"تَرْقِيَة",
++"tarqiyah",
++"peningkatan (upgrade)",
++"Komputer dan perangkat",
++"تَرْقِيَةُ الذَّاكِرَةِ سَهْلَةٌ",
++"Peningkatan memori itu mudah"
++],
++[
++"سِلْكُ الطَّاقَةِ",
++"silkuṭ-ṭāqah",
++"kabel daya",
++"Komputer dan perangkat",
++"وَصِّلْ سِلْكَ الطَّاقَةِ",
++"Sambungkan kabel daya"
++],
++[
++"لَوْحَة الْمَفَاتِيحِ الْمُضَاءَة",
++"lawḥatul-mafātīḥil-muḍī’ah",
++"papan ketik menyala",
++"Komputer dan perangkat",
++"لَوْحَةُ الْمَفَاتِيحِ الْمُضَاءَةُ مُفِيدَةٌ فِي اللَّيْلِ",
++"Papan ketik menyala berguna di malam hari"
++],
++[
++"اِخْتِبَارُ الْأَمَانِ",
++"ikhtibārul-amān",
++"uji keamanan",
++"Pengujian dan pemeliharaan",
++"نُجْرِي اخْتِبَارَ الْأَمَانِ",
++"Kami melakukan uji keamanan"
++],
++[
++"اِخْتِبَارُ الْأَدَاءِ",
++"ikhtibārul-adā’",
++"uji kinerja",
++"Pengujian dan pemeliharaan",
++"اِخْتِبَارُ الْأَدَاءِ يَقِيسُ السُّرْعَةَ",
++"Uji kinerja mengukur kecepatan"
++],
++[
++"اِخْتِبَارُ التَّكَامُلِ",
++"ikhtibārut-takāmul",
++"uji integrasi",
++"Pengujian dan pemeliharaan",
++"اِخْتِبَارُ التَّكَامُلِ نَجَحَ",
++"Uji integrasi berhasil"
++],
++[
++"اِخْتِبَار يَدَوِيّ",
++"ikhtibār yadawiyy",
++"uji manual",
++"Pengujian dan pemeliharaan",
++"أَقُومُ بِاخْتِبَارٍ يَدَوِيٍّ",
++"Saya melakukan uji manual"
++],
++[
++"اِخْتِبَار آلِيّ",
++"ikhtibār āliyy",
++"uji otomatis",
++"Pengujian dan pemeliharaan",
++"الِاخْتِبَارُ الْآلِيُّ سَرِيعٌ",
++"Uji otomatis itu cepat"
++],
++[
++"حَالَة حَدِّيَّة",
++"ḥālah ḥaddiyyah",
++"kasus batas (edge case)",
++"Pengujian dan pemeliharaan",
++"نَخْتَبِرُ الْحَالَةَ الْحَدِّيَّةَ",
++"Kami menguji kasus batas"
++],
++[
++"إِعَادَةُ الِاخْتِبَارِ",
++"i‘ādatul-ikhtibār",
++"uji ulang",
++"Pengujian dan pemeliharaan",
++"إِعَادَةُ الِاخْتِبَارِ ضَرُورِيَّةٌ",
++"Uji ulang itu perlu"
++],
++[
++"تَقْرِيرُ الْأَخْطَاءِ",
++"taqrīrul-akhṭā’",
++"laporan bug",
++"Pengujian dan pemeliharaan",
++"أَكْتُبُ تَقْرِيرَ الْأَخْطَاءِ",
++"Saya menulis laporan bug"
++],
++[
++"إِصْلَاح عَاجِل",
++"iṣlāḥ ‘ājil",
++"perbaikan darurat (hotfix)",
++"Pengujian dan pemeliharaan",
++"نُرِيدُ إِصْلَاحًا عَاجِلًا",
++"Kami butuh perbaikan darurat"
++],
++[
++"نُسْخَة مُسْتَقِرَّة",
++"nuskhah mustaqirrah",
++"versi stabil",
++"Pengujian dan pemeliharaan",
++"هٰذِهِ نُسْخَةٌ مُسْتَقِرَّةٌ",
++"Ini versi stabil"
++],
++[
++"مُرَاقَبَةُ النِّظَامِ",
++"murāqabatun-niẓām",
++"pemantauan sistem",
++"Pengujian dan pemeliharaan",
++"مُرَاقَبَةُ النِّظَامِ مُسْتَمِرَّةٌ",
++"Pemantauan sistem berlangsung terus"
++],
++[
++"وَقْتُ التَّعَطُّلِ",
++"waqtut-ta‘aṭṭul",
++"waktu henti (downtime)",
++"Pengujian dan pemeliharaan",
++"وَقْتُ التَّعَطُّلِ قَصِيرٌ",
++"Waktu hentinya singkat"
++],
++[
++"مُبَرْمِج مُسْتَقِلّ",
++"mubarmij mustaqill",
++"programmer lepas (freelancer)",
++"Karier dan dunia kerja",
++"هُوَ مُبَرْمِجٌ مُسْتَقِلٌّ",
++"Dia programmer lepas"
++],
++[
++"مَلَفُّ الْأَعْمَالِ",
++"malaffal-a‘māl",
++"portofolio",
++"Karier dan dunia kerja",
++"أُضِيفُ مَشْرُوعِي إِلَى مَلَفِّ الْأَعْمَالِ",
++"Saya menambah proyek ke portofolio"
++],
++[
++"سِيرَة ذَاتِيَّة",
++"sīrah żātiyyah",
++"CV (riwayat hidup)",
++"Karier dan dunia kerja",
++"أَكْتُبُ سِيرَتِي الذَّاتِيَّةَ",
++"Saya menulis CV saya"
++],
++[
++"تَدْرِيب",
++"tadrīb",
++"magang / pelatihan",
++"Karier dan dunia kerja",
++"أَبْحَثُ عَنْ تَدْرِيبٍ",
++"Saya mencari tempat magang"
++],
++[
++"مُقَابَلَةُ عَمَلٍ",
++"muqābalatu ‘amal",
++"wawancara kerja",
++"Karier dan dunia kerja",
++"عِنْدِي مُقَابَلَةُ عَمَلٍ غَدًا",
++"Saya ada wawancara kerja besok"
++],
++[
++"شَهَادَة",
++"syahādah",
++"sertifikat / ijazah",
++"Karier dan dunia kerja",
++"حَصَلْتُ عَلَى شَهَادَةٍ",
++"Saya mendapat sertifikat"
++],
++[
++"مُهَنْدِسُ بَرْمَجِيَّاتٍ",
++"muhandisu barmajiyyāt",
++"insinyur perangkat lunak",
++"Karier dan dunia kerja",
++"هُوَ مُهَنْدِسُ بَرْمَجِيَّاتٍ",
++"Dia insinyur perangkat lunak"
++],
++[
++"مُحَلِّلُ نُظُمٍ",
++"muḥallilu nuẓum",
++"analis sistem",
++"Karier dan dunia kerja",
++"مُحَلِّلُ النُّظُمِ يَدْرُسُ الْمُتَطَلَّبَاتِ",
++"Analis sistem mempelajari kebutuhan"
++],
++[
++"مُدِيرُ قَاعِدَةِ الْبَيَانَاتِ",
++"mudīru qā‘idatil-bayānāt",
++"administrator basis data",
++"Karier dan dunia kerja",
++"مُدِيرُ قَاعِدَةِ الْبَيَانَاتِ يَحْمِي الْبَيَانَاتِ",
++"Administrator basis data menjaga data"
++],
++[
++"مُهَنْدِسُ شَبَكَاتٍ",
++"muhandisu syabakāt",
++"insinyur jaringan",
++"Karier dan dunia kerja",
++"مُهَنْدِسُ الشَّبَكَاتِ يُصْلِحُ الِاتِّصَالَ",
++"Insinyur jaringan memperbaiki koneksi"
++],
++[
++"فَنِّيُّ دَعْمٍ",
++"fanniyyu da‘m",
++"teknisi dukungan",
++"Karier dan dunia kerja",
++"فَنِّيُّ الدَّعْمِ يُسَاعِدُنِي",
++"Teknisi dukungan membantu saya"
++],
++[
++"شَرِكَة تِقَنِيَّة",
++"syarikah tiqaniyyah",
++"perusahaan teknologi",
++"Karier dan dunia kerja",
++"أَعْمَلُ فِي شَرِكَةٍ تِقَنِيَّةٍ",
++"Saya bekerja di perusahaan teknologi"
++],
++[
++"شَرِكَة نَاشِئَة",
++"syarikah nāsyi’ah",
++"startup",
++"Karier dan dunia kerja",
++"هٰذِهِ شَرِكَةٌ نَاشِئَةٌ",
++"Ini perusahaan rintisan"
++],
++[
++"رِيَادَةُ الْأَعْمَالِ",
++"riyādatul-a‘māl",
++"kewirausahaan",
++"Karier dan dunia kerja",
++"أُحِبُّ رِيَادَةَ الْأَعْمَالِ",
++"Saya suka kewirausahaan"
++],
++[
++"عَمَل عَنْ بُعْدٍ",
++"‘amal ‘an bu‘d",
++"kerja jarak jauh",
++"Karier dan dunia kerja",
++"أَعْمَلُ عَنْ بُعْدٍ",
++"Saya bekerja dari jarak jauh"
++],
++[
++"مَهَارَة",
++"mahārah",
++"keterampilan",
++"Karier dan dunia kerja",
++"الْبَرْمَجَةُ مَهَارَةٌ مُهِمَّةٌ",
++"Pemrograman adalah keterampilan penting"
++],
++[
++"خِبْرَة",
++"khibrah",
++"pengalaman",
++"Karier dan dunia kerja",
++"عِنْدِي خِبْرَةٌ قَلِيلَةٌ",
++"Saya punya sedikit pengalaman"
++],
++[
++"شَغَف",
++"syaghaf",
++"semangat / gairah",
++"Karier dan dunia kerja",
++"عِنْدِي شَغَفٌ بِالتِّقْنِيَّةِ",
++"Saya punya gairah pada teknologi"
++],
++[
++"مُثَابَرَة",
++"muṡābarah",
++"ketekunan",
++"Karier dan dunia kerja",
++"الْمُثَابَرَةُ تَصْنَعُ النَّجَاحَ",
++"Ketekunan melahirkan keberhasilan"
++],
++[
++"تَعَلُّمٌ مُسْتَمِرٌّ",
++"ta‘allum mustamirr",
++"belajar berkelanjutan",
++"Karier dan dunia kerja",
++"التَّعَلُّمُ الْمُسْتَمِرُّ مُهِمٌّ",
++"Belajar berkelanjutan itu penting"
++],
++[
++"اِفْتَحِ الْمَجَلَّدَ",
++"iftaḥil-majallad",
++"buka foldernya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَنْشِئْ مِلَفًّا جَدِيدًا",
++"ansyi’ milaffan jadīdan",
++"buat berkas baru",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"غَيِّرِ اسْمَ الْمِلَفِّ",
++"ghayyiri smal-milaff",
++"ganti nama berkasnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"احْفَظِ الْمَشْرُوعَ",
++"iḥfaẓil-masyrū‘",
++"simpan proyeknya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِرْفَعِ الشَّفْرَةَ إِلَى الْمُسْتَوْدَعِ",
++"irfa‘isy-syafrata ilal-mustawda‘",
++"unggah kodenya ke repositori",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِدْمِجِ الْفَرْعَ",
++"idmijil-far‘a",
++"gabungkan cabangnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَصْلِحِ الْخَطَأَ أَوَّلًا",
++"aṣliḥil-khaṭa’a awwalan",
++"perbaiki kesalahannya dulu",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"شَغِّلِ الِاخْتِبَارَ",
++"syaghghilil-ikhtibār",
++"jalankan pengujiannya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"ثَبِّتِ الْبَرْنَامَجَ",
++"ṡabbitil-barnāmaj",
++"pasang (instal) programnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"حَدِّثِ النِّظَامَ",
++"ḥaddiṡin-niẓām",
++"perbarui sistemnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اُكْتُبِ التَّعْلِيقَاتِ فِي الشَّفْرَةِ",
++"uktubit-ta‘līqāt fisy-syafrah",
++"tulis komentar di kodenya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ جَرَّبْتَ إِعَادَةَ التَّشْغِيلِ؟",
++"hal jarrabta i‘ādatat-tasyghīl?",
++"sudah coba restart?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"لَا يَظْهَرُ شَيْءٌ",
++"lā yaẓharu syay’un",
++"tidak ada yang muncul",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الْمَوْقِعُ لَا يَفْتَحُ",
++"al-mawqi‘u lā yaftaḥ",
++"situsnya tidak mau terbuka",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الْبَرْنَامَجُ تَوَقَّفَ",
++"al-barnāmaju tawaqqafa",
++"programnya berhenti",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"ظَهَرَتْ رِسَالَةُ خَطَأٍ",
++"ẓaharat risālatu khaṭa’",
++"muncul pesan kesalahan",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"مَا رِسَالَةُ الْخَطَأِ؟",
++"mā risālatul-khaṭa’?",
++"apa pesan kesalahannya?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"مَا الْإِصْدَارُ الْمُسْتَخْدَمُ؟",
++"mal-iṣdārul-mustakhdam?",
++"versi yang dipakai apa?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَرْسِلْ لِي رَابِطَ الْمَشْرُوعِ",
++"arsil lī rābiṭal-masyrū‘",
++"kirim saya tautan proyeknya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"سَأُرْسِلُ الشَّفْرَةَ لَاحِقًا",
++"sa’ursilusy-syafrata lāḥiqan",
++"saya kirim kodenya nanti",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هٰذَا الْمَشْرُوعُ جَاهِزٌ",
++"hāżal-masyrū‘u jāhiz",
++"proyek ini sudah siap",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"نَحْتَاجُ إِلَى مَزِيدٍ مِنَ الْوَقْتِ",
++"naḥtāju ilā mazīdin minal-waqt",
++"kami butuh waktu lebih",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الْعَمَلُ جَيِّدٌ، أَحْسَنْتَ",
++"al-‘amalu jayyid, aḥsanta",
++"kerjanya bagus, mantap",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"لَا تَنْسَ النَّسْخَ الِاحْتِيَاطِيَّ",
++"lā tansan-naskhal-iḥtiyāṭiyy",
++"jangan lupa cadangannya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"لَا تُشَارِكْ كَلِمَةَ الْمُرُورِ",
++"lā tusyārik kalimatal-murūr",
++"jangan bagikan kata sandimu",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِسْتَخْدِمْ كَلِمَةَ مُرُورٍ قَوِيَّةً",
++"istakhdim kalimata murūrin qawiyyah",
++"pakai kata sandi yang kuat",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"مَا الْمُشْكِلَةُ بِالضَّبْطِ؟",
++"mal-musykilatu biḍ-ḍabṭ?",
++"tepatnya apa masalahnya?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"جَرِّبْ حَلًّا آخَرَ",
++"jarrib ḥallan ākhar",
++"coba solusi lain",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ يَعْمَلُ الْآنَ؟",
++"hal ya‘malul-ān?",
++"apakah sekarang berfungsi?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"نَعَمْ، يَعْمَلُ الْآنَ",
++"na‘am, ya‘malul-ān",
++"ya, sekarang berfungsi",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الْمَوْعِدُ النِّهَائِيُّ غَدًا",
++"al-maw‘idun-nihā’iyyu ghadan",
++"tenggatnya besok",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ لَدَيْكَ سُؤَالٌ؟",
++"hal ladayka su’āl?",
++"ada pertanyaan?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"سَنَجْتَمِعُ بَعْدَ الظُّهْرِ",
++"sanajtami‘u ba‘daẓ-ẓuhr",
++"kita rapat setelah zuhur",
++"Ungkapan kerja",
++"",
++""
+ ]
+ ],
+ "Akuntansi":[
+@@ -4913,6 +7193,2254 @@
+ "Ungkapan kerja",
+ "",
+ ""
++],
++[
++"مَبْدَأُ التَّكْلِفَةِ",
++"mabda’ut-taklifah",
++"prinsip biaya historis",
++"Dasar akuntansi",
++"نُسَجِّلُ الْأَصْلَ بِمَبْدَأِ التَّكْلِفَةِ",
++"Kami mencatat aset dengan prinsip biaya historis"
++],
++[
++"مُنْشَأَة خِدْمِيَّة",
++"munsya’ah khidmiyyah",
++"perusahaan jasa",
++"Dasar akuntansi",
++"هٰذِهِ مُنْشَأَةٌ خِدْمِيَّةٌ",
++"Ini perusahaan jasa"
++],
++[
++"مُنْشَأَة تِجَارِيَّة",
++"munsya’ah tijāriyyah",
++"perusahaan dagang",
++"Dasar akuntansi",
++"الْمُنْشَأَةُ التِّجَارِيَّةُ تَبِيعُ الْبَضَائِعَ",
++"Perusahaan dagang menjual barang"
++],
++[
++"مُنْشَأَة صِنَاعِيَّة",
++"munsya’ah ṣinā‘iyyah",
++"perusahaan manufaktur",
++"Dasar akuntansi",
++"الْمُنْشَأَةُ الصِّنَاعِيَّةُ تُنْتِجُ السِّلَعَ",
++"Perusahaan manufaktur memproduksi barang"
++],
++[
++"دَوْرَة مُحَاسَبِيَّة",
++"dawrah muḥāsabiyyah",
++"siklus akuntansi",
++"Dasar akuntansi",
++"الدَّوْرَةُ الْمُحَاسَبِيَّةُ لَهَا مَرَاحِلُ",
++"Siklus akuntansi punya tahapan"
++],
++[
++"شَرِيك",
++"syarīk",
++"mitra / sekutu",
++"Dasar akuntansi",
++"هُوَ شَرِيكِي فِي التِّجَارَةِ",
++"Dia mitra dagang saya"
++],
++[
++"أَسْهُم",
++"ashum",
++"saham",
++"Dasar akuntansi",
++"يَمْلِكُ أَسْهُمًا فِي الشَّرِكَةِ",
++"Dia memiliki saham di perusahaan"
++],
++[
++"سَنَدَات",
++"sanadāt",
++"obligasi",
++"Dasar akuntansi",
++"اشْتَرَيْتُ سَنَدَاتٍ حُكُومِيَّةً",
++"Saya membeli obligasi pemerintah"
++],
++[
++"مُسَاهِم",
++"musāhim",
++"pemegang saham",
++"Dasar akuntansi",
++"الْمُسَاهِمُ يَحْضُرُ الِاجْتِمَاعَ",
++"Pemegang saham menghadiri rapat"
++],
++[
++"الْأَرْبَاحُ الْمُحْتَجَزَةُ",
++"al-arbāḥul-muḥtajazah",
++"laba ditahan",
++"Dasar akuntansi",
++"الْأَرْبَاحُ الْمُحْتَجَزَةُ تَزِيدُ",
++"Laba ditahan bertambah"
++],
++[
++"رِبْحٌ صَافٍ",
++"ribḥun ṣāfin",
++"laba bersih",
++"Dasar akuntansi",
++"الرِّبْحُ الصَّافِي مِلْيُونُ رُوبِيَّةٍ",
++"Laba bersihnya satu juta rupiah"
++],
++[
++"مَجْمَلُ الرِّبْحِ",
++"majmalur-ribḥ",
++"laba kotor",
++"Dasar akuntansi",
++"مَجْمَلُ الرِّبْحِ كَبِيرٌ",
++"Laba kotornya besar"
++],
++[
++"رِبْح تَشْغِيلِيّ",
++"ribḥ tasyghīliyy",
++"laba operasional",
++"Dasar akuntansi",
++"الرِّبْحُ التَّشْغِيلِيُّ ارْتَفَعَ",
++"Laba operasional naik"
++],
++[
++"مَصْرُوفَاتُ التَّشْغِيلِ",
++"maṣrūfātut-tasyghīl",
++"beban operasional",
++"Dasar akuntansi",
++"نُرَاقِبُ مَصْرُوفَاتِ التَّشْغِيلِ",
++"Kami memantau beban operasional"
++],
++[
++"مَصْرُوفَات إِدَارِيَّة",
++"maṣrūfāt idāriyyah",
++"beban administrasi",
++"Dasar akuntansi",
++"الْمَصْرُوفَاتُ الْإِدَارِيَّةُ قَلِيلَةٌ",
++"Beban administrasinya kecil"
++],
++[
++"مَصْرُوفَات بَيْعِيَّة",
++"maṣrūfāt bay‘iyyah",
++"beban penjualan",
++"Dasar akuntansi",
++"الْمَصْرُوفَاتُ الْبَيْعِيَّةُ تَشْمَلُ الدِّعَايَةَ",
++"Beban penjualan mencakup iklan"
++],
++[
++"مَصْرُوف مُقَدَّم",
++"maṣrūf muqaddam",
++"beban dibayar di muka",
++"Dasar akuntansi",
++"دَفَعْنَا الْإِيجَارَ مُقَدَّمًا",
++"Kami membayar sewa di muka"
++],
++[
++"إِيرَاد مُقَدَّم",
++"īrād muqaddam",
++"pendapatan diterima di muka",
++"Dasar akuntansi",
++"قَبَضْنَا إِيرَادًا مُقَدَّمًا",
++"Kami menerima pendapatan di muka"
++],
++[
++"مَصْرُوف مُسْتَحَقّ",
++"maṣrūf mustaḥaqq",
++"beban yang masih harus dibayar",
++"Dasar akuntansi",
++"الرَّاتِبُ مَصْرُوفٌ مُسْتَحَقٌّ",
++"Gaji adalah beban yang masih harus dibayar"
++],
++[
++"إِيرَاد مُسْتَحَقّ",
++"īrād mustaḥaqq",
++"pendapatan yang masih harus diterima",
++"Dasar akuntansi",
++"هٰذَا إِيرَادٌ مُسْتَحَقٌّ لَنَا",
++"Ini pendapatan yang masih harus kami terima"
++],
++[
++"لَوَازِم",
++"lawāzim",
++"perlengkapan (supplies)",
++"Dasar akuntansi",
++"نَشْتَرِي لَوَازِمَ الْمَكْتَبِ",
++"Kami membeli perlengkapan kantor"
++],
++[
++"إِيجَار",
++"ījār",
++"sewa",
++"Dasar akuntansi",
++"إِيجَارُ الْمَحَلِّ غَالٍ",
++"Sewa tokonya mahal"
++],
++[
++"مَصْرُوفُ الْكَهْرَبَاءِ",
++"maṣrūful-kahrabā’",
++"beban listrik",
++"Dasar akuntansi",
++"مَصْرُوفُ الْكَهْرَبَاءِ مُرْتَفِعٌ",
++"Beban listriknya tinggi"
++],
++[
++"مَصْرُوفُ الرَّوَاتِبِ",
++"maṣrūfur-rawātib",
++"beban gaji",
++"Dasar akuntansi",
++"مَصْرُوفُ الرَّوَاتِبِ شَهْرِيٌّ",
++"Beban gaji bersifat bulanan"
++],
++[
++"مَصْرُوفُ الدِّعَايَةِ",
++"maṣrūfud-di‘āyah",
++"beban iklan",
++"Dasar akuntansi",
++"مَصْرُوفُ الدِّعَايَةِ زَادَ",
++"Beban iklan bertambah"
++],
++[
++"مَصْرُوفُ التَّأْمِينِ",
++"maṣrūfut-ta’mīn",
++"beban asuransi",
++"Dasar akuntansi",
++"نَدْفَعُ مَصْرُوفَ التَّأْمِينِ سَنَوِيًّا",
++"Kami membayar beban asuransi tiap tahun"
++],
++[
++"مَصْرُوفُ الصِّيَانَةِ",
++"maṣrūfuṣ-ṣiyānah",
++"beban pemeliharaan",
++"Dasar akuntansi",
++"مَصْرُوفُ الصِّيَانَةِ قَلِيلٌ",
++"Beban pemeliharaannya sedikit"
++],
++[
++"مُتَفَرِّقَات",
++"mutafarriqāt",
++"beban lain-lain",
++"Dasar akuntansi",
++"سَجَّلْتُ الْمُتَفَرِّقَاتِ",
++"Saya mencatat beban lain-lain"
++],
++[
++"إِيرَادَات أُخْرَى",
++"īrādāt ukhrā",
++"pendapatan lain-lain",
++"Dasar akuntansi",
++"عِنْدَنَا إِيرَادَاتٌ أُخْرَى",
++"Kami punya pendapatan lain-lain"
++],
++[
++"مَوْجُودَات",
++"mawjūdāt",
++"harta / aset (istilah lain)",
++"Dasar akuntansi",
++"الْمَوْجُودَاتُ أَكْثَرُ مِنَ الْمَطْلُوبَاتِ",
++"Harta lebih banyak dari kewajiban"
++],
++[
++"مَطْلُوبَات",
++"maṭlūbāt",
++"kewajiban (istilah lain)",
++"Dasar akuntansi",
++"الْمَطْلُوبَاتُ قَلِيلَةٌ",
++"Kewajibannya sedikit"
++],
++[
++"حِصَّة",
++"ḥiṣṣah",
++"bagian / porsi modal",
++"Dasar akuntansi",
++"حِصَّتِي فِي الشَّرِكَةِ ثَلَاثُونَ بِالْمِائَةِ",
++"Porsi saya di perusahaan tiga puluh persen"
++],
++[
++"يَوْمِيَّة خَاصَّة",
++"yawmiyyah khāṣṣah",
++"jurnal khusus",
++"Jurnal dan buku besar",
++"نَسْتَخْدِمُ يَوْمِيَّةً خَاصَّةً لِلْمَبِيعَاتِ",
++"Kami memakai jurnal khusus untuk penjualan"
++],
++[
++"يَوْمِيَّةُ الْمَبِيعَاتِ",
++"yawmiyyatul-mabī‘āt",
++"jurnal penjualan",
++"Jurnal dan buku besar",
++"أَكْتُبُ فِي يَوْمِيَّةِ الْمَبِيعَاتِ",
++"Saya menulis di jurnal penjualan"
++],
++[
++"يَوْمِيَّةُ الْمُشْتَرَيَاتِ",
++"yawmiyyatul-musytarayāt",
++"jurnal pembelian",
++"Jurnal dan buku besar",
++"يَوْمِيَّةُ الْمُشْتَرَيَاتِ مُرَتَّبَةٌ",
++"Jurnal pembeliannya tertata"
++],
++[
++"يَوْمِيَّةُ الْمَقْبُوضَاتِ",
++"yawmiyyatul-maqbūḍāt",
++"jurnal penerimaan kas",
++"Jurnal dan buku besar",
++"أُسَجِّلُ الْإِيرَادَ فِي يَوْمِيَّةِ الْمَقْبُوضَاتِ",
++"Saya mencatat pendapatan di jurnal penerimaan kas"
++],
++[
++"يَوْمِيَّةُ الْمَدْفُوعَاتِ",
++"yawmiyyatul-madfū‘āt",
++"jurnal pengeluaran kas",
++"Jurnal dan buku besar",
++"يَوْمِيَّةُ الْمَدْفُوعَاتِ تَشْمَلُ الرَّوَاتِبَ",
++"Jurnal pengeluaran kas memuat gaji"
++],
++[
++"مَدْفُوعَات",
++"madfū‘āt",
++"pembayaran",
++"Jurnal dan buku besar",
++"الْمَدْفُوعَاتُ هٰذَا الشَّهْرَ قَلِيلَةٌ",
++"Pembayaran bulan ini sedikit"
++],
++[
++"وَرَقَةُ الْعَمَلِ",
++"waraqatul-‘amal",
++"kertas kerja / neraca lajur",
++"Jurnal dan buku besar",
++"نُكْمِلُ وَرَقَةَ الْعَمَلِ",
++"Kami melengkapi kertas kerja"
++],
++[
++"قَيْدُ الْإِقْفَالِ",
++"qaydul-iqfāl",
++"jurnal penutup",
++"Jurnal dan buku besar",
++"أَكْتُبُ قَيْدَ الْإِقْفَالِ",
++"Saya menulis jurnal penutup"
++],
++[
++"قَيْدُ التَّسْوِيَةِ",
++"qaydut-taswiyah",
++"jurnal penyesuaian",
++"Jurnal dan buku besar",
++"قَيْدُ التَّسْوِيَةِ فِي آخِرِ الشَّهْرِ",
++"Jurnal penyesuaian dibuat di akhir bulan"
++],
++[
++"دَفْتَرُ الْأُسْتَاذِ الْمُسَاعِدِ",
++"daftarul-ustāżil-musā‘id",
++"buku besar pembantu",
++"Jurnal dan buku besar",
++"دَفْتَرُ الْأُسْتَاذِ الْمُسَاعِدِ لِلْعُمَلَاءِ",
++"Buku besar pembantu untuk pelanggan"
++],
++[
++"حِسَابُ الْعُمَلَاءِ",
++"ḥisābul-‘umalā’",
++"akun pelanggan",
++"Jurnal dan buku besar",
++"حِسَابُ الْعُمَلَاءِ مَدِينٌ",
++"Akun pelanggan bersaldo debit"
++],
++[
++"حِسَابُ الْمَوْرِدِينَ",
++"ḥisābul-mawridīn",
++"akun pemasok",
++"Jurnal dan buku besar",
++"حِسَابُ الْمَوْرِدِينَ دَائِنٌ",
++"Akun pemasok bersaldo kredit"
++],
++[
++"بِطَاقَةُ الْحِسَابِ",
++"biṭāqatul-ḥisāb",
++"kartu akun",
++"Jurnal dan buku besar",
++"بِطَاقَةُ الْحِسَابِ مَوْجُودَةٌ",
++"Kartu akunnya ada"
++],
++[
++"مَجْمُوعُ الدَّائِنِ",
++"majmū‘ud-dā’in",
++"total kredit",
++"Jurnal dan buku besar",
++"مَجْمُوعُ الدَّائِنِ أَلْفٌ",
++"Total kreditnya seribu"
++],
++[
++"رَصِيد افْتِتَاحِيّ",
++"raṣīd iftitāḥiyy",
++"saldo awal",
++"Jurnal dan buku besar",
++"الرَّصِيدُ الِافْتِتَاحِيُّ مِائَةٌ",
++"Saldo awalnya seratus"
++],
++[
++"رَصِيد خِتَامِيّ",
++"raṣīd khitāmiyy",
++"saldo akhir",
++"Jurnal dan buku besar",
++"الرَّصِيدُ الْخِتَامِيُّ مِائَتَانِ",
++"Saldo akhirnya dua ratus"
++],
++[
++"مَرْجِع",
++"marji‘",
++"referensi",
++"Jurnal dan buku besar",
++"رَقْمُ الْمَرْجِعِ مَكْتُوبٌ هُنَا",
++"Nomor referensi tertulis di sini"
++],
++[
++"قَيْد",
++"qayd",
++"entri pencatatan",
++"Jurnal dan buku besar",
++"أَكْتُبُ الْقَيْدَ بِالْقَلَمِ",
++"Saya menulis entri dengan pulpen"
++],
++[
++"تَصْحِيح",
++"taṣḥīḥ",
++"koreksi",
++"Jurnal dan buku besar",
++"أُصَحِّحُ الْخَطَأَ فِي الْقَيْدِ",
++"Saya mengoreksi kesalahan di entri"
++],
++[
++"إِلْغَاء",
++"ilghā’",
++"pembatalan",
++"Jurnal dan buku besar",
++"إِلْغَاءُ الْفَاتُورَةِ مَطْلُوبٌ",
++"Pembatalan faktur diperlukan"
++],
++[
++"مِيزَانُ الْمُرَاجَعَةِ بَعْدَ التَّسْوِيَةِ",
++"mīzānul-murāja‘ati ba‘dat-taswiyah",
++"neraca saldo setelah penyesuaian",
++"Jurnal dan buku besar",
++"أُعِدُّ الْمِيزَانَ بَعْدَ التَّسْوِيَةِ",
++"Saya menyusun neraca saldo setelah penyesuaian"
++],
++[
++"جَرْدٌ دَوْرِيٌّ",
++"jardun dawriyy",
++"sistem periodik",
++"Persediaan dan pembelian",
++"نَسْتَخْدِمُ الْجَرْدَ الدَّوْرِيَّ",
++"Kami memakai sistem periodik"
++],
++[
++"جَرْدٌ مُسْتَمِرٌّ",
++"jardun mustamirr",
++"sistem perpetual",
++"Persediaan dan pembelian",
++"الْجَرْدُ الْمُسْتَمِرُّ أَدَقُّ",
++"Sistem perpetual lebih akurat"
++],
++[
++"مَوَادُّ خَامٍ",
++"mawāddu khām",
++"bahan baku",
++"Persediaan dan pembelian",
++"نَشْتَرِي الْمَوَادَّ الْخَامَّ",
++"Kami membeli bahan baku"
++],
++[
++"بِضَاعَة تَامَّةُ الصُّنْعِ",
++"biḍā‘ah tāmmatuṣ-ṣun‘",
++"barang jadi",
++"Persediaan dan pembelian",
++"الْبِضَاعَةُ تَامَّةُ الصُّنْعِ فِي الْمَخْزَنِ",
++"Barang jadi ada di gudang"
++],
++[
++"إِنْتَاج تَحْتَ التَّشْغِيلِ",
++"intāj taḥtat-tasyghīl",
++"barang dalam proses",
++"Persediaan dan pembelian",
++"هٰذَا إِنْتَاجٌ تَحْتَ التَّشْغِيلِ",
++"Ini barang dalam proses"
++],
++[
++"تَكَالِيفُ مُبَاشِرَةٌ",
++"takālīfu mubāsyirah",
++"biaya langsung",
++"Persediaan dan pembelian",
++"التَّكَالِيفُ الْمُبَاشِرَةُ وَاضِحَةٌ",
++"Biaya langsung jelas"
++],
++[
++"تَكَالِيفُ غَيْرُ مُبَاشِرَةٍ",
++"takālīfu ghayru mubāsyirah",
++"biaya tidak langsung",
++"Persediaan dan pembelian",
++"التَّكَالِيفُ غَيْرُ الْمُبَاشِرَةِ كَثِيرَةٌ",
++"Biaya tidak langsungnya banyak"
++],
++[
++"تَكْلِفَةُ الْإِنْتَاجِ",
++"taklifatul-intāj",
++"biaya produksi",
++"Persediaan dan pembelian",
++"نَحْسُبُ تَكْلِفَةَ الْإِنْتَاجِ",
++"Kami menghitung biaya produksi"
++],
++[
++"عَمَالَة مُبَاشِرَة",
++"‘amālah mubāsyirah",
++"tenaga kerja langsung",
++"Persediaan dan pembelian",
++"الْعَمَالَةُ الْمُبَاشِرَةُ فِي الْمَصْنَعِ",
++"Tenaga kerja langsung ada di pabrik"
++],
++[
++"مَصْنَع",
++"maṣna‘",
++"pabrik",
++"Persediaan dan pembelian",
++"الْمَصْنَعُ كَبِيرٌ",
++"Pabriknya besar"
++],
++[
++"تَالِف",
++"tālif",
++"rusak",
++"Persediaan dan pembelian",
++"هٰذِهِ الْبِضَاعَةُ تَالِفَةٌ",
++"Barang ini rusak"
++],
++[
++"مُنْتَهِي الصَّلَاحِيَةِ",
++"muntahiṣ-ṣalāḥiyyah",
++"kedaluwarsa",
++"Persediaan dan pembelian",
++"الْمُنْتَجُ مُنْتَهِي الصَّلَاحِيَةِ",
++"Produknya kedaluwarsa"
++],
++[
++"مَصَارِيفُ الشَّحْنِ",
++"maṣārīfusy-syaḥn",
++"ongkos kirim",
++"Persediaan dan pembelian",
++"مَصَارِيفُ الشَّحْنِ عَلَى الْمُشْتَرِي",
++"Ongkos kirim ditanggung pembeli"
++],
++[
++"مُشْتَرٍ",
++"musytarin",
++"pembeli",
++"Persediaan dan pembelian",
++"الْمُشْتَرِي يَدْفَعُ الثَّمَنَ",
++"Pembeli membayar harga"
++],
++[
++"بَائِع",
++"bā’i‘",
++"penjual",
++"Persediaan dan pembelian",
++"الْبَائِعُ يَكْتُبُ الْفَاتُورَةَ",
++"Penjual menulis faktur"
++],
++[
++"ثَمَن",
++"ṡaman",
++"harga (nilai bayar)",
++"Persediaan dan pembelian",
++"مَا ثَمَنُ هٰذِهِ السِّلْعَةِ؟",
++"Berapa harga barang ini?"
++],
++[
++"سِلْعَة",
++"sil‘ah",
++"barang / komoditas",
++"Persediaan dan pembelian",
++"السِّلْعَةُ جَيِّدَةٌ",
++"Barangnya bagus"
++],
++[
++"بَيْعٌ بِالْآجِلِ",
++"bay‘un bil-ājil",
++"penjualan kredit",
++"Persediaan dan pembelian",
++"هٰذَا بَيْعٌ بِالْآجِلِ",
++"Ini penjualan kredit"
++],
++[
++"بَيْعٌ نَقْدِيٌّ",
++"bay‘un naqdiyy",
++"penjualan tunai",
++"Persediaan dan pembelian",
++"أُفَضِّلُ الْبَيْعَ النَّقْدِيَّ",
++"Saya lebih suka penjualan tunai"
++],
++[
++"شِرَاءٌ بِالْآجِلِ",
++"syirā’un bil-ājil",
++"pembelian kredit",
++"Persediaan dan pembelian",
++"اشْتَرَيْنَا بِالْآجِلِ",
++"Kami membeli secara kredit"
++],
++[
++"سِعْرُ الْجُمْلَةِ",
++"si‘rul-jumlah",
++"harga grosir",
++"Persediaan dan pembelian",
++"سِعْرُ الْجُمْلَةِ أَرْخَصُ",
++"Harga grosir lebih murah"
++],
++[
++"سِعْرُ التَّجْزِئَةِ",
++"si‘rut-tajzi’ah",
++"harga eceran",
++"Persediaan dan pembelian",
++"سِعْرُ التَّجْزِئَةِ أَغْلَى",
++"Harga eceran lebih mahal"
++],
++[
++"تَاجِرُ جُمْلَةٍ",
++"tājiru jumlah",
++"pedagang grosir",
++"Persediaan dan pembelian",
++"هُوَ تَاجِرُ جُمْلَةٍ",
++"Dia pedagang grosir"
++],
++[
++"سُوق",
++"sūq",
++"pasar",
++"Persediaan dan pembelian",
++"أَذْهَبُ إِلَى السُّوقِ",
++"Saya pergi ke pasar"
++],
++[
++"عَرْض",
++"‘arḍ",
++"penawaran",
++"Persediaan dan pembelian",
++"الْعَرْضُ أَكْثَرُ مِنَ الطَّلَبِ",
++"Penawaran lebih banyak dari permintaan"
++],
++[
++"طَلَب",
++"ṭalab",
++"permintaan",
++"Persediaan dan pembelian",
++"الطَّلَبُ عَلَى الْمُنْتَجِ مُرْتَفِعٌ",
++"Permintaan terhadap produk tinggi"
++],
++[
++"عَرْضُ أَسْعَارٍ",
++"‘arḍu as‘ār",
++"penawaran harga (quotation)",
++"Persediaan dan pembelian",
++"أُرْسِلُ عَرْضَ أَسْعَارٍ",
++"Saya mengirim penawaran harga"
++],
++[
++"مُفَاوَضَة",
++"mufāwaḍah",
++"negosiasi",
++"Persediaan dan pembelian",
++"الْمُفَاوَضَةُ عَلَى السِّعْرِ",
++"Negosiasi soal harga"
++],
++[
++"تَخْزِين",
++"takhzīn",
++"penyimpanan barang",
++"Persediaan dan pembelian",
++"تَخْزِينُ الْبَضَائِعِ فِي الْمَخْزَنِ",
++"Penyimpanan barang di gudang"
++],
++[
++"نِسْبَةُ التَّدَاوُلِ",
++"nisbatut-tadāwul",
++"rasio lancar",
++"Pelaporan dan kerja",
++"نِسْبَةُ التَّدَاوُلِ جَيِّدَةٌ",
++"Rasio lancarnya baik"
++],
++[
++"نِسْبَةُ الْمَدِيُونِيَّةِ",
++"nisbatul-madīūniyyah",
++"rasio utang",
++"Pelaporan dan kerja",
++"نِسْبَةُ الْمَدِيُونِيَّةِ مُنْخَفِضَةٌ",
++"Rasio utangnya rendah"
++],
++[
++"نِسْبَةُ الرِّبْحِيَّةِ",
++"nisbatur-ribḥiyyah",
++"rasio profitabilitas",
++"Pelaporan dan kerja",
++"نِسْبَةُ الرِّبْحِيَّةِ مُرْتَفِعَةٌ",
++"Rasio profitabilitasnya tinggi"
++],
++[
++"الْعَائِدُ عَلَى الِاسْتِثْمَارِ",
++"al-‘ā’id ‘alal-istiṡmār",
++"imbal hasil investasi (ROI)",
++"Pelaporan dan kerja",
++"الْعَائِدُ عَلَى الِاسْتِثْمَارِ جَيِّدٌ",
++"Imbal hasil investasinya bagus"
++],
++[
++"مُعَدَّلُ الدَّوَرَانِ",
++"mu‘addaluddawarān",
++"tingkat perputaran",
++"Pelaporan dan kerja",
++"مُعَدَّلُ الدَّوَرَانِ سَرِيعٌ",
++"Tingkat perputarannya cepat"
++],
++[
++"مُوَازَنَةٌ تَقْدِيرِيَّةٌ",
++"muwāzanah taqdīriyyah",
++"anggaran perkiraan",
++"Pelaporan dan kerja",
++"نُعِدُّ مُوَازَنَةً تَقْدِيرِيَّةً",
++"Kami menyusun anggaran perkiraan"
++],
++[
++"مُوَازَنَةُ الْمَبِيعَاتِ",
++"muwāzanatul-mabī‘āt",
++"anggaran penjualan",
++"Pelaporan dan kerja",
++"مُوَازَنَةُ الْمَبِيعَاتِ لِلسَّنَةِ",
++"Anggaran penjualan untuk setahun"
++],
++[
++"تَقْرِير سَنَوِيّ",
++"taqrīr sanawiyy",
++"laporan tahunan",
++"Pelaporan dan kerja",
++"التَّقْرِيرُ السَّنَوِيُّ جَاهِزٌ",
++"Laporan tahunannya siap"
++],
++[
++"تَقْرِير شَهْرِيّ",
++"taqrīr syahriyy",
++"laporan bulanan",
++"Pelaporan dan kerja",
++"أُرْسِلُ التَّقْرِيرَ الشَّهْرِيَّ",
++"Saya mengirim laporan bulanan"
++],
++[
++"مُؤَشِّرُ الْأَدَاءِ",
++"mu’asysyirul-adā’",
++"indikator kinerja",
++"Pelaporan dan kerja",
++"مُؤَشِّرُ الْأَدَاءِ مُمْتَازٌ",
++"Indikator kinerjanya sangat baik"
++],
++[
++"نُمُوّ",
++"numuww",
++"pertumbuhan",
++"Pelaporan dan kerja",
++"نُمُوُّ الشَّرِكَةِ سَرِيعٌ",
++"Pertumbuhan perusahaan cepat"
++],
++[
++"زِيَادَة",
++"ziyādah",
++"kenaikan",
++"Pelaporan dan kerja",
++"زِيَادَةُ الْأَرْبَاحِ وَاضِحَةٌ",
++"Kenaikan laba terlihat jelas"
++],
++[
++"نَقْص",
++"naqṣ",
++"kekurangan / penurunan",
++"Pelaporan dan kerja",
++"هُنَاكَ نَقْصٌ فِي الصُّنْدُوقِ",
++"Ada kekurangan di kas"
++],
++[
++"فَائِض",
++"fā’iḍ",
++"surplus",
++"Pelaporan dan kerja",
++"يُوجَدُ فَائِضٌ فِي الْمِيزَانِيَّةِ",
++"Ada surplus di anggaran"
++],
++[
++"عَجْز",
++"‘ajz",
++"defisit",
++"Pelaporan dan kerja",
++"الْعَجْزُ كَبِيرٌ",
++"Defisitnya besar"
++],
++[
++"تَوَقُّع",
++"tawaqqu‘",
++"proyeksi",
++"Pelaporan dan kerja",
++"تَوَقُّعُ الْمَبِيعَاتِ جَيِّدٌ",
++"Proyeksi penjualannya bagus"
++],
++[
++"كَفَاءَة",
++"kafā’ah",
++"efisiensi",
++"Pelaporan dan kerja",
++"كَفَاءَةُ الْعَمَلِ مُهِمَّةٌ",
++"Efisiensi kerja itu penting"
++],
++[
++"طَرِيقَةُ الْقِسْطِ الْمُتَنَاقِصِ",
++"ṭarīqatul-qisṭil-mutanāqiṣ",
++"metode saldo menurun",
++"Aset dan penyusutan",
++"نَسْتَخْدِمُ الْقِسْطَ الْمُتَنَاقِصَ",
++"Kami memakai metode saldo menurun"
++],
++[
++"طَرِيقَةُ وَحَدَاتِ الْإِنْتَاجِ",
++"ṭarīqatu waḥadātil-intāj",
++"metode unit produksi",
++"Aset dan penyusutan",
++"تَعْتَمِدُ عَلَى وَحَدَاتِ الْإِنْتَاجِ",
++"Bergantung pada unit produksi"
++],
++[
++"إِهْلَاك",
++"ihlāk",
++"penyusutan (istilah lain)",
++"Aset dan penyusutan",
++"الْإِهْلَاكُ السَّنَوِيُّ وَاضِحٌ",
++"Penyusutan tahunannya jelas"
++],
++[
++"إِعَادَةُ التَّقْيِيمِ",
++"i‘ādatut-taqyīm",
++"revaluasi",
++"Aset dan penyusutan",
++"تَمَّتْ إِعَادَةُ التَّقْيِيمِ",
++"Revaluasi telah dilakukan"
++],
++[
++"تَقْيِيم",
++"taqyīm",
++"penilaian",
++"Aset dan penyusutan",
++"تَقْيِيمُ الْأَصْلِ دَقِيقٌ",
++"Penilaian asetnya teliti"
++],
++[
++"عَقَار",
++"‘aqār",
++"properti",
++"Aset dan penyusutan",
++"اشْتَرَيْنَا عَقَارًا",
++"Kami membeli properti"
++],
++[
++"آلَة",
++"ālah",
++"mesin",
++"Aset dan penyusutan",
++"الْآلَةُ جَدِيدَةٌ",
++"Mesinnya baru"
++],
++[
++"إِيجَارٌ تَمْوِيلِيٌّ",
++"ījārun tamwīliyy",
++"sewa guna usaha (leasing)",
++"Aset dan penyusutan",
++"نَسْتَخْدِمُ إِيجَارًا تَمْوِيلِيًّا",
++"Kami memakai sewa guna usaha"
++],
++[
++"عُمْرُ الْأَصْلِ",
++"‘umrul-aṣl",
++"umur aset",
++"Aset dan penyusutan",
++"عُمْرُ الْأَصْلِ خَمْسُ سَنَوَاتٍ",
++"Umur asetnya lima tahun"
++],
++[
++"تَأْمِين",
++"ta’mīn",
++"asuransi",
++"Aset dan penyusutan",
++"التَّأْمِينُ عَلَى الْمَبْنَى",
++"Asuransi untuk bangunan"
++],
++[
++"تَلَف",
++"talaf",
++"kerusakan",
++"Aset dan penyusutan",
++"حَدَثَ تَلَفٌ فِي الْآلَةِ",
++"Terjadi kerusakan pada mesin"
++],
++[
++"ضَرِيبَةُ الدَّخْلِ عَلَى الرَّوَاتِبِ",
++"ḍarībatud-dakhli ‘alar-rawātib",
++"pajak penghasilan atas gaji (PPh 21)",
++"Pajak",
++"نَخْصِمُ ضَرِيبَةَ الدَّخْلِ مِنَ الرَّاتِبِ",
++"Kami memotong pajak penghasilan dari gaji"
++],
++[
++"ضَرِيبَةُ الْمُدْخَلَاتِ",
++"ḍarībatul-mudkhalāt",
++"PPN masukan",
++"Pajak",
++"نَحْسِبُ ضَرِيبَةَ الْمُدْخَلَاتِ",
++"Kami menghitung PPN masukan"
++],
++[
++"ضَرِيبَةُ الْمُخْرَجَاتِ",
++"ḍarībatul-mukhrajāt",
++"PPN keluaran",
++"Pajak",
++"ضَرِيبَةُ الْمُخْرَجَاتِ أَكْبَرُ",
++"PPN keluarannya lebih besar"
++],
++[
++"فَاتُورَة إِلِكْتْرُونِيَّة",
++"fātūrah iliktrūniyyah",
++"faktur elektronik",
++"Pajak",
++"أُصْدِرُ فَاتُورَةً إِلِكْتْرُونِيَّةً",
++"Saya menerbitkan faktur elektronik"
++],
++[
++"إِقْرَارٌ سَنَوِيٌّ",
++"iqrārun sanawiyy",
++"SPT tahunan",
++"Pajak",
++"الْإِقْرَارُ السَّنَوِيُّ قَبْلَ مَارِس",
++"SPT tahunan sebelum Maret"
++],
++[
++"إِقْرَارٌ شَهْرِيٌّ",
++"iqrārun syahriyy",
++"SPT masa (bulanan)",
++"Pajak",
++"الْإِقْرَارُ الشَّهْرِيُّ كُلَّ شَهْرٍ",
++"SPT masa tiap bulan"
++],
++[
++"شَهَادَةُ خَصْمٍ",
++"syahādatu khaṣm",
++"bukti potong pajak",
++"Pajak",
++"أَسْتَلِمُ شَهَادَةَ الْخَصْمِ",
++"Saya menerima bukti potong"
++],
++[
++"ضَرِيبَة تَصَاعُدِيَّة",
++"ḍarībah taṣā‘udiyyah",
++"pajak progresif",
++"Pajak",
++"الضَّرِيبَةُ التَّصَاعُدِيَّةُ تَزِيدُ مَعَ الدَّخْلِ",
++"Pajak progresif naik seiring penghasilan"
++],
++[
++"شَرِيحَة",
++"syarīḥah",
++"lapisan tarif",
++"Pajak",
++"هٰذِهِ الشَّرِيحَةُ خَمْسَةٌ بِالْمِائَةِ",
++"Lapisan ini lima persen"
++],
++[
++"مَوْعِدُ التَّقْدِيمِ",
++"maw‘idut-taqdīm",
++"batas pelaporan",
++"Pajak",
++"مَوْعِدُ التَّقْدِيمِ قَرِيبٌ",
++"Batas pelaporan sudah dekat"
++],
++[
++"رُسُوم",
++"rusūm",
++"biaya / bea",
++"Pajak",
++"الرُّسُومُ مُرْتَفِعَةٌ",
++"Biayanya tinggi"
++],
++[
++"رَسْمُ الطَّابَعِ",
++"rasmuṭ-ṭābi‘",
++"bea meterai",
++"Pajak",
++"عَلَى الْعَقْدِ رَسْمُ الطَّابَعِ",
++"Kontrak itu kena bea meterai"
++],
++[
++"رُسُوم جُمْرُكِيَّة",
++"rusūm jumrukiyyah",
++"bea cukai",
++"Pajak",
++"نَدْفَعُ رُسُومًا جُمْرُكِيَّةً",
++"Kami membayar bea cukai"
++],
++[
++"إِعْفَاء",
++"i‘fā’",
++"pembebasan",
++"Pajak",
++"هُنَاكَ إِعْفَاءٌ ضَرِيبِيٌّ",
++"Ada pembebasan pajak"
++],
++[
++"حَافِز ضَرِيبِيّ",
++"ḥāfiz ḍarībiyy",
++"insentif pajak",
++"Pajak",
++"الْحَافِزُ الضَّرِيبِيُّ يُشَجِّعُ الْمَشَارِيعَ",
++"Insentif pajak mendorong usaha"
++],
++[
++"مُسْتَشَار ضَرِيبِيّ",
++"mustasyār ḍarībiyy",
++"konsultan pajak",
++"Pajak",
++"نَسْأَلُ الْمُسْتَشَارَ الضَّرِيبِيَّ",
++"Kami bertanya ke konsultan pajak"
++],
++[
++"ضَرِيبَةُ الدَّخْلِ النِّهَائِيَّةُ",
++"ḍarībatud-dakhlin-nihā’iyyah",
++"pajak penghasilan final",
++"Pajak",
++"هٰذِهِ ضَرِيبَةٌ نِهَائِيَّةٌ",
++"Ini pajak final"
++],
++[
++"الضَّمَانُ الِاجْتِمَاعِيُّ لِلْعَمَالَةِ",
++"aḍ-ḍamānul-ijtimā‘iyyu lil-‘amālah",
++"jaminan sosial ketenagakerjaan",
++"Gaji dan penggajian",
++"الْعَامِلُ مُشْتَرِكٌ فِي الضَّمَانِ",
++"Pekerja ikut jaminan sosial"
++],
++[
++"اِشْتِرَاكَات",
++"isytirākāt",
++"iuran",
++"Gaji dan penggajian",
++"نَدْفَعُ الِاشْتِرَاكَاتِ شَهْرِيًّا",
++"Kami membayar iuran tiap bulan"
++],
++[
++"مُسَاهَمَةُ صَاحِبِ الْعَمَلِ",
++"musāhamatu ṣāḥibil-‘amal",
++"iuran pemberi kerja",
++"Gaji dan penggajian",
++"مُسَاهَمَةُ صَاحِبِ الْعَمَلِ ثَابِتَةٌ",
++"Iuran pemberi kerja tetap"
++],
++[
++"مُكَافَأَةُ الْعِيدِ",
++"mukāfa’atul-‘īd",
++"tunjangan hari raya (THR)",
++"Gaji dan penggajian",
++"نَسْتَلِمُ مُكَافَأَةَ الْعِيدِ قَبْلَ رَمَضَانَ",
++"Kami menerima THR sebelum Ramadan"
++],
++[
++"بَدَلُ الْوَجْبَةِ",
++"badalul-wajbah",
++"tunjangan makan",
++"Gaji dan penggajian",
++"بَدَلُ الْوَجْبَةِ يَوْمِيٌّ",
++"Tunjangan makan harian"
++],
++[
++"نِظَامُ الْمُنَاوَبَةِ",
++"niẓāmul-munāwabah",
++"sistem shift",
++"Gaji dan penggajian",
++"نَعْمَلُ بِنِظَامِ الْمُنَاوَبَةِ",
++"Kami bekerja dengan sistem shift"
++],
++[
++"دَوَام",
++"dawām",
++"jam kerja",
++"Gaji dan penggajian",
++"الدَّوَامُ مِنَ الثَّامِنَةِ",
++"Jam kerja mulai pukul delapan"
++],
++[
++"دَوَامٌ كَامِلٌ",
++"dawāmun kāmil",
++"kerja penuh waktu",
++"Gaji dan penggajian",
++"هُوَ يَعْمَلُ دَوَامًا كَامِلًا",
++"Dia bekerja penuh waktu"
++],
++[
++"دَوَامٌ جُزْئِيٌّ",
++"dawāmun juz’iyy",
++"kerja paruh waktu",
++"Gaji dan penggajian",
++"أَعْمَلُ دَوَامًا جُزْئِيًّا",
++"Saya bekerja paruh waktu"
++],
++[
++"تَأَخُّر",
++"ta’akhkhur",
++"keterlambatan",
++"Gaji dan penggajian",
++"التَّأَخُّرُ يَخْصِمُ مِنَ الرَّاتِبِ",
++"Keterlambatan memotong gaji"
++],
++[
++"إِجَازَة سَنَوِيَّة",
++"ijāzah sanawiyyah",
++"cuti tahunan",
++"Gaji dan penggajian",
++"إِجَازَتِي السَّنَوِيَّةُ فِي الصَّيْفِ",
++"Cuti tahunan saya di musim panas"
++],
++[
++"إِنْهَاءُ الْخِدْمَةِ",
++"inhā’ul-khidmah",
++"pemutusan hubungan kerja",
++"Gaji dan penggajian",
++"حَصَلَ إِنْهَاءُ الْخِدْمَةِ",
++"Terjadi pemutusan hubungan kerja"
++],
++[
++"تَقَاعُد",
++"taqā‘ud",
++"pensiun",
++"Gaji dan penggajian",
++"سَيَتَقَاعَدُ أَبِي قَرِيبًا",
++"Ayah saya akan segera pensiun"
++],
++[
++"عَامِل",
++"‘āmil",
++"pekerja",
++"Gaji dan penggajian",
++"الْعَامِلُ يَصِلُ مُبَكِّرًا",
++"Pekerja datang lebih awal"
++],
++[
++"صَاحِبُ الْعَمَلِ",
++"ṣāḥibul-‘amal",
++"pemberi kerja",
++"Gaji dan penggajian",
++"صَاحِبُ الْعَمَلِ يَدْفَعُ الرَّاتِبَ",
++"Pemberi kerja membayar gaji"
++],
++[
++"مُدِير",
++"mudīr",
++"manajer / direktur",
++"Gaji dan penggajian",
++"الْمُدِيرُ فِي مَكْتَبِهِ",
++"Manajer ada di kantornya"
++],
++[
++"قِسْمُ الْمُحَاسَبَةِ",
++"qismul-muḥāsabah",
++"bagian akuntansi",
++"Gaji dan penggajian",
++"أَعْمَلُ فِي قِسْمِ الْمُحَاسَبَةِ",
++"Saya bekerja di bagian akuntansi"
++],
++[
++"قِسْمُ الْمَالِيَّةِ",
++"qismul-māliyyah",
++"bagian keuangan",
++"Gaji dan penggajian",
++"قِسْمُ الْمَالِيَّةِ فِي الطَّابِقِ الثَّانِي",
++"Bagian keuangan ada di lantai dua"
++],
++[
++"فَتْرَةُ التَّجْرِبَةِ",
++"fatratut-tajribah",
++"masa percobaan",
++"Gaji dan penggajian",
++"فَتْرَةُ التَّجْرِبَةِ ثَلَاثَةُ أَشْهُرٍ",
++"Masa percobaannya tiga bulan"
++],
++[
++"عَقْدٌ دَائِمٌ",
++"‘aqdun dā’im",
++"kontrak tetap",
++"Gaji dan penggajian",
++"وَقَّعْتُ عَقْدًا دَائِمًا",
++"Saya menandatangani kontrak tetap"
++],
++[
++"عَقْدٌ مُؤَقَّتٌ",
++"‘aqdun mu’aqqat",
++"kontrak sementara",
++"Gaji dan penggajian",
++"هٰذَا عَقْدٌ مُؤَقَّتٌ",
++"Ini kontrak sementara"
++],
++[
++"وَظِيفَة",
++"waẓīfah",
++"jabatan / pekerjaan",
++"Gaji dan penggajian",
++"أَبْحَثُ عَنْ وَظِيفَةٍ",
++"Saya mencari pekerjaan"
++],
++[
++"تَقْيِيمُ الْأَدَاءِ",
++"taqyīmul-adā’",
++"penilaian kinerja",
++"Gaji dan penggajian",
++"تَقْيِيمُ الْأَدَاءِ كُلَّ سَنَةٍ",
++"Penilaian kinerja tiap tahun"
++],
++[
++"تَرْقِيَة",
++"tarqiyah",
++"promosi jabatan",
++"Gaji dan penggajian",
++"حَصَلَ عَلَى تَرْقِيَةٍ",
++"Dia mendapat promosi"
++],
++[
++"بِطَاقَةُ ائْتِمَانٍ",
++"biṭāqatu i’timān",
++"kartu kredit",
++"Kas dan bank",
++"أَدْفَعُ بِبِطَاقَةِ ائْتِمَانٍ",
++"Saya membayar dengan kartu kredit"
++],
++[
++"بِطَاقَةُ خَصْمٍ",
++"biṭāqatu khaṣm",
++"kartu debit",
++"Kas dan bank",
++"بِطَاقَةُ الْخَصْمِ فِي مَحْفَظَتِي",
++"Kartu debit ada di dompet saya"
++],
++[
++"مَحْفَظَة إِلِكْتْرُونِيَّة",
++"maḥfaẓah iliktrūniyyah",
++"dompet digital (e-wallet)",
++"Kas dan bank",
++"أَدْفَعُ بِالْمَحْفَظَةِ الْإِلِكْتْرُونِيَّةِ",
++"Saya membayar dengan dompet digital"
++],
++[
++"رَمْزُ الدَّفْعِ",
++"ramzud-daf‘",
++"kode pembayaran (QR)",
++"Kas dan bank",
++"امْسَحْ رَمْزَ الدَّفْعِ",
++"Pindai kode pembayarannya"
++],
++[
++"مُقَاصَّة",
++"muqāṣṣah",
++"kliring",
++"Kas dan bank",
++"الْمُقَاصَّةُ تَسْتَغْرِقُ يَوْمًا",
++"Kliring butuh satu hari"
++],
++[
++"حَدُّ الِائْتِمَانِ",
++"ḥaddul-i’timān",
++"batas kredit",
++"Kas dan bank",
++"حَدُّ الِائْتِمَانِ مُرْتَفِعٌ",
++"Batas kreditnya tinggi"
++],
++[
++"حَدٌّ أَدْنَى لِلرَّصِيدِ",
++"ḥaddun adnā lir-raṣīd",
++"saldo minimum",
++"Kas dan bank",
++"الْحَدُّ الْأَدْنَى لِلرَّصِيدِ مِئَةُ أَلْفٍ",
++"Saldo minimumnya seratus ribu"
++],
++[
++"سِعْرُ الصَّرْفِ",
++"si‘ruṣ-ṣarf",
++"kurs",
++"Kas dan bank",
++"سِعْرُ الصَّرْفِ يَتَغَيَّرُ يَوْمِيًّا",
++"Kurs berubah setiap hari"
++],
++[
++"عُمْلَة أَجْنَبِيَّة",
++"‘umlah ajnabiyyah",
++"mata uang asing",
++"Kas dan bank",
++"أُغَيِّرُ عُمْلَةً أَجْنَبِيَّةً",
++"Saya menukar mata uang asing"
++],
++[
++"رُوبِيَّة",
++"rūbiyyah",
++"rupiah",
++"Kas dan bank",
++"الرُّوبِيَّةُ عُمْلَةُ إِنْدُونِيسِيَا",
++"Rupiah adalah mata uang Indonesia"
++],
++[
++"دُولَار",
++"dūlār",
++"dolar",
++"Kas dan bank",
++"سِعْرُ الدُّولَارِ مُرْتَفِعٌ",
++"Harga dolar tinggi"
++],
++[
++"خِزَانَة",
++"khizānah",
++"brankas",
++"Kas dan bank",
++"الْمَالُ فِي الْخِزَانَةِ",
++"Uangnya ada di brankas"
++],
++[
++"رَصِيدُ الصُّنْدُوقِ",
++"raṣīduṣ-ṣundūq",
++"saldo kas",
++"Kas dan bank",
++"رَصِيدُ الصُّنْدُوقِ صَحِيحٌ",
++"Saldo kasnya benar"
++],
++[
++"إِيصَالُ إِيدَاعٍ",
++"īṣālu īdā‘",
++"slip setoran",
++"Kas dan bank",
++"أَكْتُبُ إِيصَالَ إِيدَاعٍ",
++"Saya mengisi slip setoran"
++],
++[
++"إِيصَالُ سَحْبٍ",
++"īṣālu saḥb",
++"slip penarikan",
++"Kas dan bank",
++"هٰذَا إِيصَالُ سَحْبٍ",
++"Ini slip penarikan"
++],
++[
++"رَقَمٌ سِرِّيٌّ",
++"raqamun sirriyy",
++"PIN / kode rahasia",
++"Kas dan bank",
++"لَا تُخْبِرْ أَحَدًا بِالرَّقَمِ السِّرِّيِّ",
++"Jangan beri tahu siapa pun PIN-mu"
++],
++[
++"الْخِدْمَةُ الْمَصْرِفِيَّةُ عَبْرَ الْإِنْتَرْنِت",
++"al-khidmatul-maṣrifiyyah ‘abral-intarnit",
++"layanan perbankan internet",
++"Kas dan bank",
++"أَسْتَخْدِمُ الْخِدْمَةَ الْمَصْرِفِيَّةَ عَبْرَ الْإِنْتَرْنِت",
++"Saya memakai layanan perbankan internet"
++],
++[
++"عَمِيلُ الْبَنْكِ",
++"‘amīlul-bank",
++"nasabah bank",
++"Kas dan bank",
++"الْعَمِيلُ يَنْتَظِرُ دَوْرَهُ",
++"Nasabah menunggu gilirannya"
++],
++[
++"مُوَظَّفُ الْبَنْكِ",
++"muwaẓẓaful-bank",
++"pegawai bank",
++"Kas dan bank",
++"مُوَظَّفُ الْبَنْكِ يُسَاعِدُنِي",
++"Pegawai bank membantu saya"
++],
++[
++"فَتْحُ حِسَابٍ",
++"fatḥu ḥisāb",
++"pembukaan rekening",
++"Kas dan bank",
++"أُرِيدُ فَتْحَ حِسَابٍ",
++"Saya ingin membuka rekening"
++],
++[
++"إِغْلَاقُ الْحِسَابِ",
++"ighlāqul-ḥisāb",
++"penutupan rekening",
++"Kas dan bank",
++"طَلَبْتُ إِغْلَاقَ الْحِسَابِ",
++"Saya meminta penutupan rekening"
++],
++[
++"شِيك مَرْفُوض",
++"syīk marfūḍ",
++"cek ditolak",
++"Kas dan bank",
++"الشِّيكُ مَرْفُوضٌ",
++"Cek itu ditolak"
++],
++[
++"زَكَاة",
++"zakāh",
++"zakat",
++"Syariah dan zakat",
++"الزَّكَاةُ رُكْنٌ مِنْ أَرْكَانِ الْإِسْلَامِ",
++"Zakat adalah salah satu rukun Islam"
++],
++[
++"زَكَاةُ التِّجَارَةِ",
++"zakātut-tijārah",
++"zakat perdagangan",
++"Syariah dan zakat",
++"نَحْسُبُ زَكَاةَ التِّجَارَةِ كُلَّ سَنَةٍ",
++"Kami menghitung zakat perdagangan tiap tahun"
++],
++[
++"زَكَاةُ الْمَالِ",
++"zakātul-māl",
++"zakat harta",
++"Syariah dan zakat",
++"أُخْرِجُ زَكَاةَ الْمَالِ",
++"Saya mengeluarkan zakat harta"
++],
++[
++"نِصَاب",
++"niṣāb",
++"nisab (batas minimal zakat)",
++"Syariah dan zakat",
++"بَلَغَ الْمَالُ النِّصَابَ",
++"Hartanya telah mencapai nisab"
++],
++[
++"حَوْل",
++"ḥawl",
++"haul (genap satu tahun)",
++"Syariah dan zakat",
++"مَرَّ عَلَى الْمَالِ حَوْلٌ",
++"Harta itu telah genap satu tahun"
++],
++[
++"صَدَقَة",
++"ṣadaqah",
++"sedekah",
++"Syariah dan zakat",
++"الصَّدَقَةُ تَطْفِئُ الْخَطِيئَةَ",
++"Sedekah menghapus kesalahan"
++],
++[
++"إِنْفَاق",
++"infāq",
++"infak",
++"Syariah dan zakat",
++"الْإِنْفَاقُ فِي سَبِيلِ اللهِ",
++"Berinfak di jalan Allah"
++],
++[
++"وَقْف",
++"waqf",
++"wakaf",
++"Syariah dan zakat",
++"هٰذَا الْمَسْجِدُ وَقْفٌ",
++"Masjid ini wakaf"
++],
++[
++"رِبَا",
++"ribā",
++"riba",
++"Syariah dan zakat",
++"الرِّبَا حَرَامٌ",
++"Riba itu haram"
++],
++[
++"مُضَارَبَة",
++"muḍārabah",
++"mudarabah (bagi hasil modal-usaha)",
++"Syariah dan zakat",
++"نَعْمَلُ بِالْمُضَارَبَةِ",
++"Kami bekerja dengan akad mudarabah"
++],
++[
++"مُشَارَكَة",
++"musyārakah",
++"musyarakah (kemitraan modal)",
++"Syariah dan zakat",
++"الْمُشَارَكَةُ بَيْنَ شَرِيكَيْنِ",
++"Musyarakah antara dua mitra"
++],
++[
++"مُرَابَحَة",
++"murābaḥah",
++"murabahah (jual beli dengan margin)",
++"Syariah dan zakat",
++"اشْتَرَيْتُ بِالْمُرَابَحَةِ",
++"Saya membeli dengan murabahah"
++],
++[
++"إِجَارَة",
++"ijārah",
++"ijarah (sewa-jasa)",
++"Syariah dan zakat",
++"الْإِجَارَةُ عَقْدٌ مَشْرُوعٌ",
++"Ijarah adalah akad yang sah"
++],
++[
++"بَنْكٌ إِسْلَامِيٌّ",
++"bankun islāmiyy",
++"bank syariah",
++"Syariah dan zakat",
++"حِسَابِي فِي بَنْكٍ إِسْلَامِيٍّ",
++"Rekening saya di bank syariah"
++],
++[
++"تَمْوِيلٌ إِسْلَامِيٌّ",
++"tamwīlun islāmiyy",
++"pembiayaan syariah",
++"Syariah dan zakat",
++"التَّمْوِيلُ الْإِسْلَامِيُّ بِلَا رِبًا",
++"Pembiayaan syariah tanpa riba"
++],
++[
++"تَقَاسُمُ الْأَرْبَاحِ",
++"taqāsumul-arbāḥ",
++"bagi hasil",
++"Syariah dan zakat",
++"التَّقَاسُمُ نِصْفٌ بِنِصْفٍ",
++"Bagi hasilnya separuh-separuh"
++],
++[
++"حَلَال",
++"ḥalāl",
++"halal",
++"Syariah dan zakat",
++"هٰذَا الْكَسْبُ حَلَالٌ",
++"Penghasilan ini halal"
++],
++[
++"حَرَام",
++"ḥarām",
++"haram",
++"Syariah dan zakat",
++"الْغِشُّ حَرَامٌ",
++"Menipu itu haram"
++],
++[
++"مُعَامَلَة",
++"mu‘āmalah",
++"muamalah (transaksi)",
++"Syariah dan zakat",
++"الْمُعَامَلَةُ بِالصِّدْقِ",
++"Bermuamalah dengan kejujuran"
++],
++[
++"عَقْد",
++"‘aqd",
++"akad / kontrak",
++"Syariah dan zakat",
++"الْعَقْدُ وَاضِحٌ",
++"Akadnya jelas"
++],
++[
++"صِدْق",
++"ṣidq",
++"kejujuran",
++"Syariah dan zakat",
++"الصِّدْقُ فِي التِّجَارَةِ",
++"Jujur dalam berdagang"
++],
++[
++"عَدْل",
++"‘adl",
++"keadilan",
++"Syariah dan zakat",
++"الْعَدْلُ فِي الْمِيزَانِ",
++"Adil dalam timbangan"
++],
++[
++"مُحَاسَبَة شَرْعِيَّة",
++"muḥāsabah syar‘iyyah",
++"akuntansi syariah",
++"Syariah dan zakat",
++"أَدْرُسُ الْمُحَاسَبَةَ الشَّرْعِيَّةَ",
++"Saya belajar akuntansi syariah"
++],
++[
++"قَرْضٌ حَسَنٌ",
++"qarḍun ḥasan",
++"pinjaman kebajikan",
++"Syariah dan zakat",
++"أَعْطَانِي قَرْضًا حَسَنًا",
++"Dia memberi saya pinjaman kebajikan"
++],
++[
++"مُسْتَحِقُّو الزَّكَاةِ",
++"mustaḥiqqūz-zakāh",
++"penerima zakat",
++"Syariah dan zakat",
++"الْفُقَرَاءُ مِنْ مُسْتَحِقِّي الزَّكَاةِ",
++"Fakir termasuk penerima zakat"
++],
++[
++"عَامِلُ الزَّكَاةِ",
++"‘āmilaz-zakāh",
++"amil zakat",
++"Syariah dan zakat",
++"عَامِلُ الزَّكَاةِ يَجْمَعُ الْأَمْوَالَ",
++"Amil zakat mengumpulkan dana"
++],
++[
++"بَيْتُ الْمَالِ",
++"baitul-māl",
++"baitul mal (lembaga dana umat)",
++"Syariah dan zakat",
++"أَضَعُ الْمَبْلَغَ فِي بَيْتِ الْمَالِ",
++"Saya menaruh dana di baitul mal"
++],
++[
++"اِقْتِصَاد",
++"iqtiṣād",
++"ekonomi",
++"Ekonomi dan keuangan",
++"أُحِبُّ دِرَاسَةَ الِاقْتِصَادِ",
++"Saya suka belajar ekonomi"
++],
++[
++"تَضَخُّم",
++"taḍakhkhum",
++"inflasi",
++"Ekonomi dan keuangan",
++"التَّضَخُّمُ يَرْفَعُ الْأَسْعَارَ",
++"Inflasi menaikkan harga"
++],
++[
++"فَائِدَة",
++"fā’idah",
++"bunga / manfaat",
++"Ekonomi dan keuangan",
++"الْفَائِدَةُ عَلَى الْقَرْضِ",
++"Bunga atas pinjaman"
++],
++[
++"اِسْتِثْمَار",
++"istiṡmār",
++"investasi",
++"Ekonomi dan keuangan",
++"الِاسْتِثْمَارُ يَحْتَاجُ صَبْرًا",
++"Investasi butuh kesabaran"
++],
++[
++"اِدِّخَار",
++"iddikhār",
++"menabung",
++"Ekonomi dan keuangan",
++"الِادِّخَارُ عَادَةٌ جَيِّدَةٌ",
++"Menabung adalah kebiasaan baik"
++],
++[
++"تَوْفِير",
++"tawfīr",
++"penghematan",
++"Ekonomi dan keuangan",
++"أَهْتَمُّ بِتَوْفِيرِ الْمَالِ",
++"Saya peduli menghemat uang"
++],
++[
++"مِيزَانِيَّة شَخْصِيَّة",
++"mīzāniyyah syakhṣiyyah",
++"anggaran pribadi",
++"Ekonomi dan keuangan",
++"أَكْتُبُ مِيزَانِيَّتِي الشَّخْصِيَّةَ",
++"Saya menulis anggaran pribadi saya"
++],
++[
++"دَخْل",
++"dakhl",
++"penghasilan",
++"Ekonomi dan keuangan",
++"دَخْلِي شَهْرِيٌّ",
++"Penghasilan saya bulanan"
++],
++[
++"نَفَقَات",
++"nafaqāt",
++"pengeluaran / belanja",
++"Ekonomi dan keuangan",
++"النَّفَقَاتُ أَكْثَرُ هٰذَا الشَّهْرَ",
++"Pengeluaran lebih banyak bulan ini"
++],
++[
++"مُسْتَهْلِك",
++"mustahlik",
++"konsumen",
++"Ekonomi dan keuangan",
++"الْمُسْتَهْلِكُ يَشْتَرِي السِّلْعَةَ",
++"Konsumen membeli barang"
++],
++[
++"مُنْتِج",
++"muntij",
++"produsen",
++"Ekonomi dan keuangan",
++"الْمُنْتِجُ يَبِيعُ لِلْمُوَزِّعِ",
++"Produsen menjual ke distributor"
++],
++[
++"مُنَافَسَة",
++"munāfasah",
++"persaingan",
++"Ekonomi dan keuangan",
++"الْمُنَافَسَةُ قَوِيَّةٌ",
++"Persaingannya ketat"
++],
++[
++"مَشْرُوعٌ صَغِيرٌ",
++"masyrū‘un ṣaghīr",
++"usaha kecil",
++"Ekonomi dan keuangan",
++"عِنْدِي مَشْرُوعٌ صَغِيرٌ",
++"Saya punya usaha kecil"
++],
++[
++"مَشَارِيعُ صَغِيرَةٌ وَمُتَوَسِّطَةٌ",
++"masyārī‘u ṣaghīrah wa mutawassiṭah",
++"UMKM",
++"Ekonomi dan keuangan",
++"الْمَشَارِيعُ الصَّغِيرَةُ تَدْعَمُ الِاقْتِصَادَ",
++"Usaha kecil menopang ekonomi"
++],
++[
++"تَعَاوُنِيَّة",
++"ta‘āwuniyyah",
++"koperasi",
++"Ekonomi dan keuangan",
++"أَنَا عُضْوٌ فِي التَّعَاوُنِيَّةِ",
++"Saya anggota koperasi"
++],
++[
++"حِصَّةُ الْأَرْبَاحِ",
++"ḥiṣṣatul-arbāḥ",
++"sisa hasil usaha (bagian laba)",
++"Ekonomi dan keuangan",
++"نَتَسَلَّمُ حِصَّةَ الْأَرْبَاحِ سَنَوِيًّا",
++"Kami menerima bagian laba tiap tahun"
++],
++[
++"تِجَارَة إِلِكْتْرُونِيَّة",
++"tijārah iliktrūniyyah",
++"perdagangan elektronik",
++"Ekonomi dan keuangan",
++"التِّجَارَةُ الْإِلِكْتْرُونِيَّةُ تَنْمُو",
++"Perdagangan elektronik berkembang"
++],
++[
++"أَسْعَار",
++"as‘ār",
++"harga-harga",
++"Ekonomi dan keuangan",
++"الْأَسْعَارُ مُنَاسِبَةٌ",
++"Harga-harganya wajar"
++],
++[
++"غَلَاء",
++"ghalā’",
++"kenaikan harga / mahal",
++"Ekonomi dan keuangan",
++"الْغَلَاءُ يُؤْلِمُ النَّاسَ",
++"Harga mahal membebani orang"
++],
++[
++"أَخْلَاقِيَّاتُ الْمِهْنَةِ",
++"akhlāqiyyātul-mihnah",
++"etika profesi",
++"Etika dan pengendalian",
++"أَخْلَاقِيَّاتُ الْمِهْنَةِ مُهِمَّةٌ لِلْمُحَاسِبِ",
++"Etika profesi penting bagi akuntan"
++],
++[
++"نَزَاهَة",
++"nazāhah",
++"integritas",
++"Etika dan pengendalian",
++"النَّزَاهَةُ أَسَاسُ الثِّقَةِ",
++"Integritas adalah dasar kepercayaan"
++],
++[
++"مَوْضُوعِيَّة",
++"mawḍū‘iyyah",
++"objektivitas",
++"Etika dan pengendalian",
++"يَكْتُبُ التَّقْرِيرَ بِمَوْضُوعِيَّةٍ",
++"Dia menulis laporan secara objektif"
++],
++[
++"سِرِّيَّة",
++"sirriyyah",
++"kerahasiaan",
++"Etika dan pengendalian",
++"سِرِّيَّةُ الْبَيَانَاتِ وَاجِبَةٌ",
++"Kerahasiaan data itu wajib"
++],
++[
++"احْتِيَال",
++"iḥtiyāl",
++"penipuan (fraud)",
++"Etika dan pengendalian",
++"الِاحْتِيَالُ جَرِيمَةٌ",
++"Penipuan adalah kejahatan"
++],
++[
++"رَقَابَة دَاخِلِيَّة",
++"raqābah dākhiliyyah",
++"pengendalian internal",
++"Etika dan pengendalian",
++"الرَّقَابَةُ الدَّاخِلِيَّةُ تَمْنَعُ الْخَطَأَ",
++"Pengendalian internal mencegah kesalahan"
++],
++[
++"تَفْوِيض",
++"tafwīḍ",
++"pelimpahan wewenang",
++"Etika dan pengendalian",
++"التَّفْوِيضُ مَكْتُوبٌ",
++"Pelimpahan wewenangnya tertulis"
++],
++[
++"فَصْلُ الْمَهَامِّ",
++"faṣlul-mahām",
++"pemisahan tugas",
++"Etika dan pengendalian",
++"فَصْلُ الْمَهَامِّ يَحْمِي الْمَالَ",
++"Pemisahan tugas menjaga uang"
++],
++[
++"تَصْرِيح",
++"taṣrīḥ",
++"otorisasi / izin",
++"Etika dan pengendalian",
++"لَا صَرْفَ بِدُونِ تَصْرِيحٍ",
++"Tidak ada pengeluaran tanpa otorisasi"
++],
++[
++"مَسْؤُولِيَّة",
++"mas’ūliyyah",
++"tanggung jawab",
++"Etika dan pengendalian",
++"هٰذِهِ مَسْؤُولِيَّتِي",
++"Ini tanggung jawab saya"
++],
++[
++"اِنْضِبَاط",
++"inḍibāṭ",
++"disiplin",
++"Etika dan pengendalian",
++"الِانْضِبَاطُ فِي الْوَقْتِ مُهِمٌّ",
++"Disiplin waktu itu penting"
++],
++[
++"تَضَارُبُ الْمَصَالِحِ",
++"taḍārubul-maṣāliḥ",
++"konflik kepentingan",
++"Etika dan pengendalian",
++"نَتَجَنَّبُ تَضَارُبَ الْمَصَالِحِ",
++"Kami menghindari konflik kepentingan"
++],
++[
++"إِشْعَارُ مَدِينٍ",
++"isy‘āru madīn",
++"nota debit",
++"Dokumen",
++"أُصْدِرُ إِشْعَارَ مَدِينٍ",
++"Saya menerbitkan nota debit"
++],
++[
++"إِشْعَارُ دَائِنٍ",
++"isy‘āru dā’in",
++"nota kredit",
++"Dokumen",
++"وَصَلَنَا إِشْعَارُ دَائِنٍ",
++"Kami menerima nota kredit"
++],
++[
++"مُذَكِّرَة",
++"mużakkirah",
++"memo",
++"Dokumen",
++"أَكْتُبُ مُذَكِّرَةً دَاخِلِيَّةً",
++"Saya menulis memo internal"
++],
++[
++"بَيَان",
++"bayān",
++"pernyataan / rincian",
++"Dokumen",
++"هٰذَا بَيَانٌ بِالْمَبَالِغِ",
++"Ini rincian jumlah-jumlahnya"
++],
++[
++"نَمُوذَج",
++"namūżaj",
++"formulir",
++"Dokumen",
++"اِمْلَأِ النَّمُوذَجَ",
++"Isi formulirnya"
++],
++[
++"خَتْم",
++"khatm",
++"stempel",
++"Dokumen",
++"عَلَى الْوَرَقَةِ خَتْمُ الشَّرِكَةِ",
++"Di kertas ada stempel perusahaan"
++],
++[
++"طَابَع",
++"ṭābi‘",
++"meterai",
++"Dokumen",
++"أُلْصِقُ الطَّابَعَ عَلَى الْعَقْدِ",
++"Saya menempel meterai pada kontrak"
++],
++[
++"وَصْل",
++"waṣl",
++"tanda terima",
++"Dokumen",
++"أُعْطِيكَ وَصْلًا",
++"Saya beri Anda tanda terima"
++],
++[
++"بَوْلِيصَة",
++"būlīṣah",
++"polis asuransi",
++"Dokumen",
++"بَوْلِيصَةُ التَّأْمِينِ فِي الْمِلَفِّ",
++"Polis asuransi ada di berkas"
++],
++[
++"مِلَفُّ الْعَمِيلِ",
++"milaffu ‘amīl",
++"berkas pelanggan",
++"Dokumen",
++"أَفْتَحُ مِلَفَّ الْعَمِيلِ",
++"Saya membuka berkas pelanggan"
++],
++[
++"بَيَانُ أَسْعَارٍ",
++"bayānu as‘ār",
++"daftar harga",
++"Dokumen",
++"هَلْ عِنْدَكُمْ بَيَانُ أَسْعَارٍ؟",
++"Apakah Anda punya daftar harga?"
++],
++[
++"بَيَانُ الشَّحْنِ",
++"bayānusy-syaḥn",
++"surat jalan",
++"Dokumen",
++"بَيَانُ الشَّحْنِ مَعَ السَّائِقِ",
++"Surat jalan dibawa sopir"
++],
++[
++"فَاتُورَة أَوَّلِيَّة",
++"fātūrah awwaliyyah",
++"faktur proforma",
++"Dokumen",
++"أُرْسِلُ فَاتُورَةً أَوَّلِيَّةً",
++"Saya mengirim faktur proforma"
++],
++[
++"شُرُوطُ الدَّفْعِ",
++"syurūṭud-daf‘",
++"syarat pembayaran",
++"Piutang dan utang",
++"مَا شُرُوطُ الدَّفْعِ؟",
++"Apa syarat pembayarannya?"
++],
++[
++"مُهْلَةُ السَّدَادِ",
++"muhlatus-sadād",
++"masa tenggang pembayaran",
++"Piutang dan utang",
++"مُهْلَةُ السَّدَادِ ثَلَاثُونَ يَوْمًا",
++"Masa tenggang pembayaran tiga puluh hari"
++],
++[
++"سَدَاد",
++"sadād",
++"pelunasan",
++"Piutang dan utang",
++"سَدَادُ الدَّيْنِ وَاجِبٌ",
++"Melunasi utang itu wajib"
++],
++[
++"مُتَأَخِّرَات",
++"muta’akhkhirāt",
++"tunggakan",
++"Piutang dan utang",
++"الْمُتَأَخِّرَاتُ كَثِيرَةٌ",
++"Tunggakannya banyak"
++],
++[
++"مُخَصَّصُ الدُّيُونِ الْمَشْكُوكِ فِيهَا",
++"mukhaṣṣaṣud-duyūnil-masykūki fīhā",
++"penyisihan piutang ragu-ragu",
++"Piutang dan utang",
++"نُعِدُّ مُخَصَّصَ الدُّيُونِ الْمَشْكُوكِ فِيهَا",
++"Kami menyiapkan penyisihan piutang ragu-ragu"
++],
++[
++"سَقْفُ الدَّيْنِ",
++"saqfud-dayn",
++"plafon kredit",
++"Piutang dan utang",
++"سَقْفُ الدَّيْنِ مُحَدَّدٌ",
++"Plafon kreditnya ditetapkan"
++],
++[
++"إِبْرَاء",
++"ibrā’",
++"penghapusan utang (pembebasan)",
++"Piutang dan utang",
++"تَمَّ إِبْرَاءُ الدَّيْنِ",
++"Utangnya telah dihapuskan"
++],
++[
++"مُقَاصَّةُ الدُّيُونِ",
++"muqāṣṣatud-duyūn",
++"saling hapus utang-piutang",
++"Piutang dan utang",
++"حَصَلَتْ مُقَاصَّةُ الدُّيُونِ",
++"Terjadi saling hapus utang-piutang"
++],
++[
++"اُكْتُبِ الْقَيْدَ",
++"uktubil-qayd",
++"tulis jurnalnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"رَاجِعِ الْحِسَابَاتِ",
++"rāji‘il-ḥisābāt",
++"periksa kembali akun-akunnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَعِدِّ الْمِيزَانِيَّةَ",
++"a‘iddil-mīzāniyyah",
++"siapkan neracanya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِطْبَعِ التَّقْرِيرَ",
++"iṭba‘it-taqrīr",
++"cetak laporannya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِحْفَظِ الْمِلَفَّ",
++"iḥfaẓil-milaff",
++"simpan berkasnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَيْنَ إِيصَالُ الْقَبْضِ؟",
++"ayna īṣālul-qabḍ?",
++"di mana bukti penerimaan?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَحْتَاجُ إِلَى فَاتُورَةٍ",
++"aḥtāju ilā fātūrah",
++"saya butuh faktur",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هٰذَا الْمَبْلَغُ غَيْرُ صَحِيحٍ",
++"hāżal-mablaghu ghayru ṣaḥīḥ",
++"jumlah ini tidak benar",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ هٰذَا السِّعْرُ شَامِلُ الضَّرِيبَةِ؟",
++"hal hāżas-si‘ru syāmilud-ḍarībah?",
++"apakah harga ini sudah termasuk pajak?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"نَعَمْ، شَامِلُ الضَّرِيبَةِ",
++"na‘am, syāmilud-ḍarībah",
++"ya, sudah termasuk pajak",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الدَّفْعُ نَقْدًا أَمْ بِالْبِطَاقَةِ؟",
++"ad-daf‘u naqdan am bil-biṭāqah?",
++"bayar tunai atau pakai kartu?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ تَقْبَلُونَ التَّحْوِيلَ الْبَنْكِيَّ؟",
++"hal taqbalūnat-taḥwīlal-bankiyy?",
++"apakah menerima transfer bank?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"رَقْمُ الْحِسَابِ مِنْ فَضْلِكَ",
++"raqamul-ḥisābi min faḍlik",
++"nomor rekeningnya, tolong",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"سَنَدْفَعُ فِي نِهَايَةِ الشَّهْرِ",
++"sanadfa‘u fī nihāyatisy-syahr",
++"kami akan membayar di akhir bulan",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ وَصَلَ الدَّفْعُ؟",
++"hal waṣalad-daf‘?",
++"apakah pembayarannya sudah masuk?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"لَمْ يَصِلْ حَتَّى الْآنَ",
++"lam yaṣil ḥattal-ān",
++"belum masuk sampai sekarang",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَرْسِلْ لِي كَشْفَ الْحِسَابِ",
++"arsil lī kasyfal-ḥisāb",
++"kirim saya mutasi rekeningnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الْخَصْمُ عَشَرَةٌ بِالْمِائَةِ",
++"al-khaṣmu ‘asyaratun bil-mi’ah",
++"diskonnya sepuluh persen",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ يُمْكِنُ تَخْفِيضُ السِّعْرِ؟",
++"hal yumkinu takhfīḍus-si‘r?",
++"bisakah harganya dikurangi?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"سَجِّلْ كُلَّ مُعَامَلَةٍ",
++"sajjil kulla mu‘āmalah",
++"catat setiap transaksi",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"كُنْ صَادِقًا فِي الْأَرْقَامِ",
++"kun ṣādiqan fil-arqām",
++"jujurlah dalam angka-angka",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلِ الْأَرْقَامُ مُطَابِقَةٌ؟",
++"halil-arqāmu muṭābiqah?",
++"apakah angka-angkanya cocok?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الْأَرْقَامُ مُطَابِقَةٌ",
++"al-arqāmu muṭābiqah",
++"angkanya cocok",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هُنَاكَ فَرْقٌ فِي الرَّصِيدِ",
++"hunāka farqun fir-raṣīd",
++"ada selisih saldo",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"سَأَبْحَثُ عَنِ السَّبَبِ",
++"sa’abḥaṡu ‘anis-sabab",
++"akan saya cari penyebabnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"التَّقْرِيرُ جَاهِزٌ لِلْمُدِيرِ",
++"at-taqrīru jāhizun lil-mudīr",
++"laporannya siap untuk manajer",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الِاجْتِمَاعُ الْمَالِيُّ غَدًا",
++"al-ijtimā‘ul-māliyyu ghadan",
++"rapat keuangan besok",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"شُكْرًا عَلَى الدَّفْعِ",
++"syukran ‘alad-daf‘",
++"terima kasih atas pembayarannya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"مَرْحَبًا، كَيْفَ أُسَاعِدُكَ؟",
++"marḥaban, kaifa usā‘iduk?",
++"selamat datang, ada yang bisa saya bantu?",
++"Ungkapan kerja",
++"",
++""
+ ]
+ ],
+ "TBKR":[
+@@ -7339,6 +11867,1926 @@
+ "Ungkapan kerja",
+ "",
+ ""
++],
++[
++"لَوْحَة جَانِبِيَّة",
++"lawḥah jānibiyyah",
++"panel samping",
++"Bodi kendaraan",
++"اللَّوْحَةُ الْجَانِبِيَّةُ مَضْغُوطَةٌ",
++"Panel sampingnya penyok"
++],
++[
++"لَوْحَة أَمَامِيَّة",
++"lawḥah amāmiyyah",
++"panel depan",
++"Bodi kendaraan",
++"أَسْتَبْدِلُ اللَّوْحَةَ الْأَمَامِيَّةَ",
++"Saya mengganti panel depan"
++],
++[
++"لَوْحَة خَلْفِيَّة",
++"lawḥah khalfiyyah",
++"panel belakang",
++"Bodi kendaraan",
++"اللَّوْحَةُ الْخَلْفِيَّةُ سَلِيمَةٌ",
++"Panel belakangnya utuh"
++],
++[
++"لَوْحَةُ السَّقْفِ",
++"lawḥatus-saqf",
++"panel atap",
++"Bodi kendaraan",
++"لَوْحَةُ السَّقْفِ مَخْدُوشَةٌ",
++"Panel atapnya tergores"
++],
++[
++"لَوْحَةُ الْبَابِ",
++"lawḥatul-bāb",
++"panel pintu",
++"Bodi kendaraan",
++"أَصْلِحُ لَوْحَةَ الْبَابِ",
++"Saya memperbaiki panel pintu"
++],
++[
++"هَيْكَل ذَاتِيُّ الْحَمْلِ",
++"haykal żātiyyul-ḥaml",
++"bodi monokok",
++"Bodi kendaraan",
++"هٰذِهِ السَّيَّارَةُ ذَاتُ هَيْكَلٍ ذَاتِيِّ الْحَمْلِ",
++"Mobil ini berbodi monokok"
++],
++[
++"إِطَارُ السَّيَّارَةِ",
++"iṭārus-sayyārah",
++"rangka mobil",
++"Bodi kendaraan",
++"إِطَارُ السَّيَّارَةِ قَوِيٌّ",
++"Rangka mobilnya kuat"
++],
++[
++"مِنْطَقَةُ الِانْهِيَارِ",
++"minṭaqatul-inhiyār",
++"zona remuk (crumple zone)",
++"Bodi kendaraan",
++"مِنْطَقَةُ الِانْهِيَارِ تَمْتَصُّ الصَّدْمَةَ",
++"Zona remuk menyerap benturan"
++],
++[
++"عَارِضَة",
++"‘āriḍah",
++"balok melintang",
++"Bodi kendaraan",
++"الْعَارِضَةُ الْأَمَامِيَّةُ مَكْسُورَةٌ",
++"Balok melintang depan patah"
++],
++[
++"دِعَامَة",
++"di‘āmah",
++"penguat / tiang penopang",
++"Bodi kendaraan",
++"الدِّعَامَةُ تَحْمِي الرَّاكِبَ",
++"Penguat melindungi penumpang"
++],
++[
++"سَقْفٌ مُنْزَلِقٌ",
++"saqfun munzaliq",
++"atap geser (sunroof)",
++"Bodi kendaraan",
++"أَفْتَحُ السَّقْفَ الْمُنْزَلِقَ",
++"Saya membuka sunroof"
++],
++[
++"غِطَاءُ الْخَزَّانِ",
++"ghiṭā’ul-khazzān",
++"tutup tangki bensin",
++"Bodi kendaraan",
++"غِطَاءُ الْخَزَّانِ مَفْتُوحٌ",
++"Tutup tangki bensinnya terbuka"
++],
++[
++"خَزَّانُ الْوَقُودِ",
++"khazzānul-waqūd",
++"tangki bahan bakar",
++"Bodi kendaraan",
++"خَزَّانُ الْوَقُودِ مُمْتَلِئٌ",
++"Tangki bahan bakarnya penuh"
++],
++[
++"شَرِيطُ زِينَةٍ",
++"syarīṭu zīnah",
++"list hiasan",
++"Bodi kendaraan",
++"أُرَكِّبُ شَرِيطَ زِينَةٍ",
++"Saya memasang list hiasan"
++],
++[
++"شِعَار",
++"syi‘ār",
++"emblem / logo",
++"Bodi kendaraan",
++"الشِّعَارُ عَلَى الْغِطَاءِ",
++"Emblemnya ada di kap"
++],
++[
++"مَطَّاطُ الْبَابِ",
++"maṭṭāṭul-bāb",
++"karet pintu",
++"Bodi kendaraan",
++"مَطَّاطُ الْبَابِ قَدِيمٌ",
++"Karet pintunya sudah tua"
++],
++[
++"حَامِل",
++"ḥāmil",
++"dudukan / braket",
++"Bodi kendaraan",
++"الْحَامِلُ مَكْسُورٌ",
++"Dudukannya patah"
++],
++[
++"غِطَاءُ الْعَجَلَةِ",
++"ghiṭā’ul-‘ajalah",
++"tutup roda (dop)",
++"Bodi kendaraan",
++"غِطَاءُ الْعَجَلَةِ مَفْقُودٌ",
++"Dop rodanya hilang"
++],
++[
++"عَجَلَة احْتِيَاطِيَّة",
++"‘ajalah iḥtiyāṭiyyah",
++"ban cadangan",
++"Bodi kendaraan",
++"الْعَجَلَةُ الِاحْتِيَاطِيَّةُ فِي الصُّنْدُوقِ",
++"Ban cadangan ada di bagasi"
++],
++[
++"مِغْلَاق",
++"mighlāq",
++"pengunci / kait",
++"Bodi kendaraan",
++"مِغْلَاقُ الْغِطَاءِ مُعَطَّلٌ",
++"Kait kap rusak"
++],
++[
++"نُقْطَةُ قِيَاسٍ",
++"nuqṭatu qiyās",
++"titik ukur",
++"Pengukuran dan rangka",
++"أُحَدِّدُ نُقْطَةَ الْقِيَاسِ",
++"Saya menentukan titik ukur"
++],
++[
++"جِهَازُ قِيَاسِ الْهَيْكَلِ",
++"jihāzu qiyāsil-haykal",
++"alat ukur bodi",
++"Pengukuran dan rangka",
++"أَسْتَخْدِمُ جِهَازَ قِيَاسِ الْهَيْكَلِ",
++"Saya memakai alat ukur bodi"
++],
++[
++"جِهَازُ شَدِّ الْهَيْكَلِ",
++"jihāzu syaddil-haykal",
++"mesin penarik bodi",
++"Pengukuran dan rangka",
++"جِهَازُ شَدِّ الْهَيْكَلِ قَوِيٌّ",
++"Mesin penarik bodi itu kuat"
++],
++[
++"سِلْسِلَةُ الشَّدِّ",
++"silsilatusy-syadd",
++"rantai penarik",
++"Pengukuran dan rangka",
++"أُثَبِّتُ سِلْسِلَةَ الشَّدِّ",
++"Saya memasang rantai penarik"
++],
++[
++"مِشْبَكُ تَثْبِيتٍ",
++"misybaku taṡbīt",
++"klem penjepit",
++"Pengukuran dan rangka",
++"الْمِشْبَكُ يُثَبِّتُ الْهَيْكَلَ",
++"Klem menahan bodi"
++],
++[
++"قِيَاسٌ قُطْرِيٌّ",
++"qiyāsun quṭriyy",
++"pengukuran diagonal",
++"Pengukuran dan rangka",
++"نُجْرِي قِيَاسًا قُطْرِيًّا",
++"Kami melakukan pengukuran diagonal"
++],
++[
++"خَطُّ الْمُنْتَصَفِ",
++"khaṭṭul-muntaṣaf",
++"garis tengah",
++"Pengukuran dan rangka",
++"خَطُّ الْمُنْتَصَفِ مُنْحَرِفٌ",
++"Garis tengahnya bergeser"
++],
++[
++"ارْتِفَاع",
++"irtifā‘",
++"tinggi",
++"Pengukuran dan rangka",
++"ارْتِفَاعُ السَّيَّارَةِ مُنَاسِبٌ",
++"Tinggi mobilnya pas"
++],
++[
++"عَرْض",
++"‘arḍ",
++"lebar",
++"Pengukuran dan rangka",
++"عَرْضُ الْبَابِ سِتُّونَ سَنْتِيمِتْرًا",
++"Lebar pintunya enam puluh sentimeter"
++],
++[
++"طُول",
++"ṭūl",
++"panjang",
++"Pengukuran dan rangka",
++"طُولُ السَّيَّارَةِ أَرْبَعَةُ أَمْتَارٍ",
++"Panjang mobilnya empat meter"
++],
++[
++"زَاوِيَة",
++"zāwiyah",
++"sudut",
++"Pengukuran dan rangka",
++"الزَّاوِيَةُ غَيْرُ صَحِيحَةٍ",
++"Sudutnya tidak tepat"
++],
++[
++"الْتِوَاء",
++"iltiwā’",
++"puntiran",
++"Pengukuran dan rangka",
++"هُنَاكَ الْتِوَاءٌ فِي الْهَيْكَلِ",
++"Ada puntiran pada bodi"
++],
++[
++"انْحِنَاء",
++"inḥinā’",
++"lengkungan",
++"Pengukuran dan rangka",
++"الِانْحِنَاءُ وَاضِحٌ",
++"Lengkungannya terlihat jelas"
++],
++[
++"تَصَادُم",
++"taṣādum",
++"tabrakan",
++"Pengukuran dan rangka",
++"حَدَثَ تَصَادُمٌ أَمْسِ",
++"Tabrakan terjadi kemarin"
++],
++[
++"تَصَادُمٌ أَمَامِيٌّ",
++"taṣādumun amāmiyy",
++"tabrakan depan",
++"Pengukuran dan rangka",
++"التَّصَادُمُ الْأَمَامِيُّ شَدِيدٌ",
++"Tabrakan depannya keras"
++],
++[
++"تَصَادُمٌ جَانِبِيٌّ",
++"taṣādumun jānibiyy",
++"tabrakan samping",
++"Pengukuran dan rangka",
++"التَّصَادُمُ الْجَانِبِيُّ أَضَرَّ بِالْبَابِ",
++"Tabrakan samping merusak pintu"
++],
++[
++"تَصَادُمٌ خَلْفِيٌّ",
++"taṣādumun khalfiyy",
++"tabrakan belakang",
++"Pengukuran dan rangka",
++"حَدَثَ تَصَادُمٌ خَلْفِيٌّ",
++"Terjadi tabrakan belakang"
++],
++[
++"تَلَفٌ جُزْئِيٌّ",
++"talafun juz’iyy",
++"kerusakan sebagian",
++"Pengukuran dan rangka",
++"التَّلَفُ جُزْئِيٌّ فَقَطْ",
++"Kerusakannya hanya sebagian"
++],
++[
++"تَلَفٌ كُلِّيٌّ",
++"talafun kulliyy",
++"kerusakan total",
++"Pengukuran dan rangka",
++"السَّيَّارَةُ فِي حَالَةِ تَلَفٍ كُلِّيٍّ",
++"Mobilnya rusak total"
++],
++[
++"ضَرَر",
++"ḍarar",
++"kerusakan / kerugian",
++"Pengukuran dan rangka",
++"الضَّرَرُ كَبِيرٌ",
++"Kerusakannya besar"
++],
++[
++"اِنْضِغَاط",
++"inḍighāṭ",
++"tertekan (penyok ke dalam)",
++"Pengukuran dan rangka",
++"الِانْضِغَاطُ فِي الْمُقَدِّمَةِ",
++"Bagian depan tertekan"
++],
++[
++"لَدَائِن",
++"ladā’in",
++"resin / plastik cetak",
++"Bahan dan material",
++"الْمُصَدِّمُ مِنَ اللَّدَائِنِ",
++"Bumpernya dari resin"
++],
++[
++"سِيلِيكُون",
++"sīlīkūn",
++"silikon",
++"Bahan dan material",
++"أَضَعُ السِّيلِيكُونَ حَوْلَ الزُّجَاجِ",
++"Saya mengoleskan silikon di sekitar kaca"
++],
++[
++"مُنَظِّف",
++"munaẓẓif",
++"pembersih",
++"Bahan dan material",
++"هٰذَا مُنَظِّفٌ قَوِيٌّ",
++"Ini pembersih yang kuat"
++],
++[
++"مُزِيلُ الصَّدَأِ",
++"muzīluṣ-ṣada’",
++"penghilang karat",
++"Bahan dan material",
++"أَسْتَخْدِمُ مُزِيلَ الصَّدَأِ",
++"Saya memakai penghilang karat"
++],
++[
++"مَانِعُ الصَّدَأِ",
++"māni‘uṣ-ṣada’",
++"anti karat",
++"Bahan dan material",
++"أَرُشُّ مَانِعَ الصَّدَأِ",
++"Saya menyemprot anti karat"
++],
++[
++"أَكْسَدَة",
++"aksadah",
++"oksidasi",
++"Bahan dan material",
++"الْأَكْسَدَةُ تُتْلِفُ الْمَعْدِنَ",
++"Oksidasi merusak logam"
++],
++[
++"لَاصِقٌ إِيبُوكْسِيٌّ",
++"lāṣiqun ibūksiyy",
++"perekat epoksi",
++"Bahan dan material",
++"اللَّاصِقُ الْإِيبُوكْسِيُّ قَوِيٌّ",
++"Perekat epoksi itu kuat"
++],
++[
++"مَعْجُونٌ سَائِلٌ",
++"ma‘jūnun sā’il",
++"dempul cair",
++"Bahan dan material",
++"أَضَعُ مَعْجُونًا سَائِلًا",
++"Saya memakai dempul cair"
++],
++[
++"مَعْجُونٌ خَشِنٌ",
++"ma‘jūnun khasyin",
++"dempul kasar",
++"Bahan dan material",
++"أَبْدَأُ بِالْمَعْجُونِ الْخَشِنِ",
++"Saya mulai dengan dempul kasar"
++],
++[
++"مَعْجُونٌ نَاعِمٌ",
++"ma‘jūnun nā‘im",
++"dempul halus",
++"Bahan dan material",
++"ثُمَّ الْمَعْجُونُ النَّاعِمُ",
++"Lalu dempul halus"
++],
++[
++"وَرَقُ صَنْفَرَةٍ",
++"waraqu ṣanfarah",
++"kertas amplas",
++"Bahan dan material",
++"وَرَقُ الصَّنْفَرَةِ نَاعِمٌ",
++"Kertas amplasnya halus"
++],
++[
++"رَقَمُ الْحُبَيْبَاتِ",
++"raqamul-ḥubaybāt",
++"nomor grit (kekasaran)",
++"Bahan dan material",
++"رَقَمُ الْحُبَيْبَاتِ أَلْفٌ",
++"Nomor grit-nya seribu"
++],
++[
++"صَابُون",
++"ṣābūn",
++"sabun",
++"Bahan dan material",
++"أَغْسِلُ السَّيَّارَةَ بِالصَّابُونِ",
++"Saya mencuci mobil dengan sabun"
++],
++[
++"كِيمْيَاء",
++"kīmiyā’",
++"bahan kimia",
++"Bahan dan material",
++"احْذَرِ الْكِيمْيَاءَ",
++"Waspadai bahan kimia"
++],
++[
++"زُجَاجٌ مُقَوًّى",
++"zujājun muqawwan",
++"kaca tempa (tahan benturan)",
++"Bahan dan material",
++"الزُّجَاجُ الْمُقَوَّى آمِنٌ",
++"Kaca tempa itu aman"
++],
++[
++"غَازُ الْحِمَايَةِ",
++"ghāzul-ḥimāyah",
++"gas pelindung",
++"Pengelasan",
++"غَازُ الْحِمَايَةِ يَمْنَعُ الْأَكْسَدَةَ",
++"Gas pelindung mencegah oksidasi"
++],
++[
++"غَازُ الْأَرْغُونِ",
++"ghāzul-arghūn",
++"gas argon",
++"Pengelasan",
++"الْأَرْغُونُ لِلَّحَامِ تِيجْ",
++"Argon untuk las TIG"
++],
++[
++"غَازُ الْأُكْسُجِينِ",
++"ghāzul-uksujīn",
++"gas oksigen",
++"Pengelasan",
++"أُسْطُوَانَةُ الْأُكْسُجِينِ ثَقِيلَةٌ",
++"Tabung oksigennya berat"
++],
++[
++"غَازُ الْأَسِيتِيلِينِ",
++"ghāzul-asītīlīn",
++"gas asetilena",
++"Pengelasan",
++"الْأَسِيتِيلِينُ قَابِلٌ لِلِاشْتِعَالِ",
++"Asetilena mudah terbakar"
++],
++[
++"مِقْبَضُ اللِّحَامِ",
++"miqbaḍul-liḥām",
++"pegangan las",
++"Pengelasan",
++"أُمْسِكُ مِقْبَضَ اللِّحَامِ",
++"Saya memegang pegangan las"
++],
++[
++"كَابِلُ اللِّحَامِ",
++"kābilul-liḥām",
++"kabel las",
++"Pengelasan",
++"كَابِلُ اللِّحَامِ طَوِيلٌ",
++"Kabel lasnya panjang"
++],
++[
++"مِلْقَطُ الْأَرْضِيَّةِ",
++"milqaṭul-arḍiyyah",
++"penjepit massa",
++"Pengelasan",
++"أُثَبِّتُ مِلْقَطَ الْأَرْضِيَّةِ",
++"Saya memasang penjepit massa"
++],
++[
++"خَرَزُ اللِّحَامِ",
++"kharazul-liḥām",
++"manik las (bead)",
++"Pengelasan",
++"خَرَزُ اللِّحَامِ مُنْتَظِمٌ",
++"Manik lasnya rata"
++],
++[
++"ثُقْب",
++"ṡuqb",
++"lubang",
++"Pengelasan",
++"هُنَاكَ ثُقْبٌ فِي اللَّوْحِ",
++"Ada lubang di pelat"
++],
++[
++"قَطْعٌ بِالْبَلَازْمَا",
++"qaṭ‘un bil-balāzmā",
++"pemotongan plasma",
++"Pengelasan",
++"الْقَطْعُ بِالْبَلَازْمَا سَرِيعٌ",
++"Pemotongan plasma itu cepat"
++],
++[
++"انْصِهَار",
++"inṣihār",
++"peleburan",
++"Pengelasan",
++"دَرَجَةُ الِانْصِهَارِ مُرْتَفِعَةٌ",
++"Suhu leburnya tinggi"
++],
++[
++"تَشَوُّهٌ حَرَارِيٌّ",
++"tasyawwuhun ḥarāriyy",
++"distorsi akibat panas",
++"Pengelasan",
++"الْحَرَارَةُ تُسَبِّبُ تَشَوُّهًا",
++"Panas menyebabkan distorsi"
++],
++[
++"تَنْظِيفُ الْوُصْلَةِ",
++"tanẓīful-wuṣlah",
++"pembersihan sambungan",
++"Pengelasan",
++"تَنْظِيفُ الْوُصْلَةِ قَبْلَ اللِّحَامِ",
++"Bersihkan sambungan sebelum mengelas"
++],
++[
++"بِطَانِيَّةٌ مُقَاوِمَةٌ لِلنَّارِ",
++"biṭāniyyah muqāwimah lin-nār",
++"selimut tahan api",
++"Pengelasan",
++"أَضَعُ بِطَانِيَّةً مُقَاوِمَةً لِلنَّارِ",
++"Saya menaruh selimut tahan api"
++],
++[
++"لِحَامُ الْأَرْغُونِ",
++"liḥāmul-arghūn",
++"las argon",
++"Pengelasan",
++"لِحَامُ الْأَرْغُونِ نَظِيفٌ",
++"Las argon itu bersih"
++],
++[
++"تَثْبِيتٌ مُؤَقَّتٌ",
++"taṡbītun mu’aqqat",
++"pengunci sementara",
++"Pengelasan",
++"أَعْمَلُ تَثْبِيتًا مُؤَقَّتًا أَوَّلًا",
++"Saya mengunci sementara dulu"
++],
++[
++"اللِّحَامُ الْمُتَقَطِّعُ",
++"al-liḥāmul-mutaqaṭṭi‘",
++"las putus-putus",
++"Pengelasan",
++"نَسْتَخْدِمُ اللِّحَامَ الْمُتَقَطِّعَ",
++"Kami memakai las putus-putus"
++],
++[
++"جَوْدَةُ اللِّحَامِ",
++"jawdatul-liḥām",
++"mutu las",
++"Pengelasan",
++"جَوْدَةُ اللِّحَامِ مُمْتَازَةٌ",
++"Mutu lasnya sangat baik"
++],
++[
++"طَبَقَةُ أَسَاسٍ",
++"ṭabaqatu asās",
++"lapisan dasar",
++"Perbaikan dan pengecatan",
++"أَضَعُ طَبَقَةَ أَسَاسٍ أَوَّلًا",
++"Saya mengoleskan lapisan dasar dulu"
++],
++[
++"طَبَقَةُ اللَّوْنِ",
++"ṭabaqatul-lawn",
++"lapisan warna (basecoat)",
++"Perbaikan dan pengecatan",
++"طَبَقَةُ اللَّوْنِ حَمْرَاءُ",
++"Lapisan warnanya merah"
++],
++[
++"طَبَقَةٌ شَفَّافَةٌ",
++"ṭabaqah syaffāfah",
++"lapisan bening (clearcoat)",
++"Perbaikan dan pengecatan",
++"الطَّبَقَةُ الشَّفَّافَةُ تَحْمِي اللَّوْنَ",
++"Clearcoat melindungi warna"
++],
++[
++"نِسْبَةُ الْخَلْطِ",
++"nisbatul-khalṭ",
++"rasio campuran",
++"Perbaikan dan pengecatan",
++"نِسْبَةُ الْخَلْطِ وَاحِدٌ لِوَاحِدٍ",
++"Rasio campurannya satu banding satu"
++],
++[
++"لُزُوجَة",
++"luzūjah",
++"kekentalan (viskositas)",
++"Perbaikan dan pengecatan",
++"لُزُوجَةُ الطِّلَاءِ مُنَاسِبَةٌ",
++"Kekentalan catnya pas"
++],
++[
++"فُوَّهَة",
++"fuwwahah",
++"nosel",
++"Perbaikan dan pengecatan",
++"الْفُوَّهَةُ مَسْدُودَةٌ",
++"Noselnya tersumbat"
++],
++[
++"مُرَشِّحُ الْهَوَاءِ",
++"murasysyiḥul-hawā’",
++"filter udara kompresor",
++"Perbaikan dan pengecatan",
++"أُنَظِّفُ مُرَشِّحَ الْهَوَاءِ",
++"Saya membersihkan filter udara kompresor"
++],
++[
++"فَاصِلُ الْمَاءِ",
++"fāṣilul-mā’",
++"pemisah air",
++"Perbaikan dan pengecatan",
++"فَاصِلُ الْمَاءِ مُهِمٌّ لِلطِّلَاءِ",
++"Pemisah air penting untuk pengecatan"
++],
++[
++"مِصْبَاحٌ بِالْأَشِعَّةِ تَحْتَ الْحَمْرَاءِ",
++"miṣbāḥun bil-asyi‘‘ati taḥtal-ḥamrā’",
++"lampu infra merah",
++"Perbaikan dan pengecatan",
++"أُجَفِّفُ الطِّلَاءَ بِمِصْبَاحٍ",
++"Saya mengeringkan cat dengan lampu"
++],
++[
++"طَبَقَةٌ رَقِيقَةٌ",
++"ṭabaqah raqīqah",
++"lapisan tipis",
++"Perbaikan dan pengecatan",
++"الطَّبَقَةُ الرَّقِيقَةُ أَحْسَنُ",
++"Lapisan tipis lebih baik"
++],
++[
++"طَبَقَةٌ سَمِيكَةٌ",
++"ṭabaqah samīkah",
++"lapisan tebal",
++"Perbaikan dan pengecatan",
++"الطَّبَقَةُ السَّمِيكَةُ تَسِيلُ",
++"Lapisan tebal bisa meler"
++],
++[
++"جَفَاف",
++"jafāf",
++"kering",
++"Perbaikan dan pengecatan",
++"الْجَفَافُ يَحْتَاجُ سَاعَةً",
++"Pengeringan butuh satu jam"
++],
++[
++"زَمَنُ التَّجْفِيفِ",
++"zamanut-tajfīf",
++"waktu pengeringan",
++"Perbaikan dan pengecatan",
++"زَمَنُ التَّجْفِيفِ قَصِيرٌ",
++"Waktu pengeringannya singkat"
++],
++[
++"غُبَار",
++"ghubār",
++"debu",
++"Perbaikan dan pengecatan",
++"الْغُبَارُ يُفْسِدُ الطِّلَاءَ",
++"Debu merusak cat"
++],
++[
++"شَوَائِب",
++"syawā’ib",
++"kotoran / partikel",
++"Perbaikan dan pengecatan",
++"هُنَاكَ شَوَائِبُ فِي الطِّلَاءِ",
++"Ada kotoran di cat"
++],
++[
++"سَيَلَان",
++"sayalān",
++"cat meler",
++"Perbaikan dan pengecatan",
++"حَدَثَ سَيَلَانٌ فِي الطِّلَاءِ",
++"Terjadi meler pada cat"
++],
++[
++"بُقَع",
++"buqa‘",
++"noda / bercak",
++"Perbaikan dan pengecatan",
++"الْبُقَعُ عَلَى الْبَابِ",
++"Ada noda di pintu"
++],
++[
++"بَهَتَانُ اللَّوْنِ",
++"bahatānul-lawn",
++"pudar warna",
++"Perbaikan dan pengecatan",
++"الشَّمْسُ تُسَبِّبُ بَهَتَانَ اللَّوْنِ",
++"Matahari membuat warna pudar"
++],
++[
++"تَقَشُّر",
++"taqasysyur",
++"mengelupas",
++"Perbaikan dan pengecatan",
++"تَقَشُّرُ الطِّلَاءِ وَاضِحٌ",
++"Cat yang mengelupas terlihat jelas"
++],
++[
++"حِمَايَة",
++"ḥimāyah",
++"perlindungan",
++"Perbaikan dan pengecatan",
++"الطِّلَاءُ يُوَفِّرُ حِمَايَةً",
++"Cat memberi perlindungan"
++],
++[
++"طِلَاءٌ سِيرَامِيكِيٌّ",
++"ṭilā’un sīrāmīkiyy",
++"pelapis keramik",
++"Perbaikan dan pengecatan",
++"الطِّلَاءُ السِّيرَامِيكِيُّ يَدُومُ",
++"Pelapis keramik tahan lama"
++],
++[
++"إِزَالَةُ الْخُدُوشِ",
++"izālatul-khudūsy",
++"penghilangan goresan",
++"Perbaikan dan pengecatan",
++"إِزَالَةُ الْخُدُوشِ بِالْمِلْمِعِ",
++"Menghilangkan goresan dengan poles"
++],
++[
++"وَرَقُ تَغْطِيَةٍ",
++"waraqu taghṭiyah",
++"kertas masking",
++"Perbaikan dan pengecatan",
++"أُغَطِّي الزُّجَاجَ بِوَرَقِ التَّغْطِيَةِ",
++"Saya menutup kaca dengan kertas masking"
++],
++[
++"بِلَاسْتِيكُ التَّغْطِيَةِ",
++"bilāstīkut-taghṭiyah",
++"plastik penutup",
++"Perbaikan dan pengecatan",
++"أَضَعُ بِلَاسْتِيكَ التَّغْطِيَةِ",
++"Saya memasang plastik penutup"
++],
++[
++"إِصْلَاحُ الْمَصَدِّ",
++"iṣlāḥul-maṣadd",
++"perbaikan bumper",
++"Perbaikan dan pengecatan",
++"إِصْلَاحُ الْمَصَدِّ يَسِيرٌ",
++"Perbaikan bumper itu mudah"
++],
++[
++"شَدُّ الْهَيْكَلِ",
++"syaddul-haykal",
++"penarikan bodi",
++"Perbaikan dan pengecatan",
++"شَدُّ الْهَيْكَلِ يَحْتَاجُ خِبْرَةً",
++"Menarik bodi butuh pengalaman"
++],
++[
++"فَكُّ الْقِطْعَةِ",
++"fakkul-qiṭ‘ah",
++"pelepasan komponen",
++"Perbaikan dan pengecatan",
++"فَكُّ الْقِطْعَةِ بِحَذَرٍ",
++"Lepas komponen dengan hati-hati"
++],
++[
++"تَرْكِيبُ الْقِطْعَةِ",
++"tarkībul-qiṭ‘ah",
++"pemasangan komponen",
++"Perbaikan dan pengecatan",
++"تَرْكِيبُ الْقِطْعَةِ سَهْلٌ",
++"Memasang komponen itu mudah"
++],
++[
++"قِطْعَةُ غِيَارٍ",
++"qiṭ‘atu ghiyār",
++"suku cadang",
++"Perbaikan dan pengecatan",
++"هَلْ تَتَوَفَّرُ قِطْعَةُ الْغِيَارِ؟",
++"Apakah suku cadangnya tersedia?"
++],
++[
++"قِطْعَةٌ أَصْلِيَّةٌ",
++"qiṭ‘ah aṣliyyah",
++"suku cadang asli",
++"Perbaikan dan pengecatan",
++"أُفَضِّلُ قِطْعَةً أَصْلِيَّةً",
++"Saya pilih suku cadang asli"
++],
++[
++"قِطْعَةٌ بَدِيلَةٌ",
++"qiṭ‘ah badīlah",
++"suku cadang pengganti (non-asli)",
++"Perbaikan dan pengecatan",
++"الْقِطْعَةُ الْبَدِيلَةُ أَرْخَصُ",
++"Suku cadang pengganti lebih murah"
++],
++[
++"قِطْعَةٌ مُسْتَعْمَلَةٌ",
++"qiṭ‘ah musta‘malah",
++"suku cadang bekas",
++"Perbaikan dan pengecatan",
++"الْقِطْعَةُ الْمُسْتَعْمَلَةُ بِحَالَةٍ جَيِّدَةٍ",
++"Suku cadang bekasnya masih bagus"
++],
++[
++"آلَةُ صَنْفَرَةٍ",
++"ālatu ṣanfarah",
++"mesin amplas",
++"Peralatan bengkel",
++"آلَةُ الصَّنْفَرَةِ تَعْمَلُ بِالْهَوَاءِ",
++"Mesin amplas ini pakai udara"
++],
++[
++"رَافِعَةٌ هَيْدْرُولِيكِيَّةٌ",
++"rāfi‘ah haydrūlīkiyyah",
++"dongkrak hidrolik",
++"Peralatan bengkel",
++"الرَّافِعَةُ الْهَيْدْرُولِيكِيَّةُ تَرْفَعُ السَّيَّارَةَ",
++"Dongkrak hidrolik mengangkat mobil"
++],
++[
++"مِنَصَّةُ رَفْعٍ",
++"minaṣṣatu raf‘",
++"lift mobil",
++"Peralatan bengkel",
++"السَّيَّارَةُ عَلَى مِنَصَّةِ الرَّفْعِ",
++"Mobilnya ada di atas lift"
++],
++[
++"مِكْنَسَة",
++"miknasah",
++"sapu",
++"Peralatan bengkel",
++"أَكْنُسُ الْأَرْضَ بِالْمِكْنَسَةِ",
++"Saya menyapu lantai"
++],
++[
++"فَرْجَار",
++"farjār",
++"jangka",
++"Peralatan bengkel",
++"أَرْسُمُ بِالْفَرْجَارِ",
++"Saya menggambar dengan jangka"
++],
++[
++"مِقْيَاس",
++"miqyās",
++"alat ukur / skala",
++"Peralatan bengkel",
++"الْمِقْيَاسُ دَقِيقٌ",
++"Alat ukurnya akurat"
++],
++[
++"جِهَازُ فَحْصٍ",
++"jihāzu faḥṣ",
++"alat pemeriksa",
++"Peralatan bengkel",
++"جِهَازُ الْفَحْصِ جَدِيدٌ",
++"Alat pemeriksanya baru"
++],
++[
++"كَاشِفُ التَّسَرُّبِ",
++"kāsyifut-tasarrub",
++"pendeteksi kebocoran",
++"Peralatan bengkel",
++"كَاشِفُ التَّسَرُّبِ يُصْدِرُ صَوْتًا",
++"Pendeteksi kebocoran berbunyi"
++],
++[
++"مِصْبَاحُ الْفَحْصِ",
++"miṣbāḥul-faḥṣ",
++"lampu periksa",
++"Peralatan bengkel",
++"مِصْبَاحُ الْفَحْصِ سَاطِعٌ",
++"Lampu periksanya terang"
++],
++[
++"شَاحِنُ الْبَطَّارِيَّةِ",
++"syāḥinul-baṭṭāriyyah",
++"pengisi aki",
++"Peralatan bengkel",
++"أَشْحَنُ الْبَطَّارِيَّةَ بِالشَّاحِنِ",
++"Saya mengisi aki dengan pengisi aki"
++],
++[
++"مُثَقِّب",
++"muṡaqqib",
++"mesin bor",
++"Peralatan bengkel",
++"الْمُثَقِّبُ يَحْفِرُ الْمَعْدِنَ",
++"Mesin bor melubangi logam"
++],
++[
++"مِقْوَاس زَاوِيَةٍ",
++"miqwās zāwiyah",
++"busur derajat",
++"Peralatan bengkel",
++"أُقِيسُ الزَّاوِيَةَ بِالْمِقْوَاسِ",
++"Saya mengukur sudut dengan busur"
++],
++[
++"مِفْتَاحُ الرَّبْطِ",
++"miftāḥur-rabṭ",
++"kunci pengencang",
++"Peralatan bengkel",
++"أَشُدُّ بِمِفْتَاحِ الرَّبْطِ",
++"Saya mengencangkan dengan kunci"
++],
++[
++"وِعَاءُ الْخَلْطِ",
++"wi‘ā’ul-khalṭ",
++"wadah pencampur",
++"Peralatan bengkel",
++"وِعَاءُ الْخَلْطِ نَظِيفٌ",
++"Wadah pencampurnya bersih"
++],
++[
++"كُوبُ قِيَاسٍ",
++"kūbu qiyās",
++"gelas ukur",
++"Peralatan bengkel",
++"أَسْتَخْدِمُ كُوبَ الْقِيَاسِ لِلْخَلْطِ",
++"Saya memakai gelas ukur untuk mencampur"
++],
++[
++"مُعِدَّاتُ الْوِقَايَةِ الشَّخْصِيَّةِ",
++"mu‘iddātul-wiqāyatisy-syakhṣiyyah",
++"alat pelindung diri (APD)",
++"K3 bengkel",
++"نَلْبَسُ مُعِدَّاتِ الْوِقَايَةِ الشَّخْصِيَّةِ",
++"Kami memakai alat pelindung diri"
++],
++[
++"قِنَاعُ الْغُبَارِ",
++"qinā‘ul-ghubār",
++"masker debu",
++"K3 bengkel",
++"قِنَاعُ الْغُبَارِ ضَرُورِيٌّ",
++"Masker debu itu perlu"
++],
++[
++"مَلَابِسُ وَاقِيَةٌ",
++"malābisu wāqiyah",
++"pakaian pelindung",
++"K3 bengkel",
++"الْمَلَابِسُ الْوَاقِيَةُ مُرِيحَةٌ",
++"Pakaian pelindungnya nyaman"
++],
++[
++"قُفَّازَاتٌ كِيمْيَائِيَّةٌ",
++"quffāzāt kīmiyā’iyyah",
++"sarung tangan kimia",
++"K3 bengkel",
++"أَلْبَسُ قُفَّازَاتٍ كِيمْيَائِيَّةً مَعَ التِّنَرِ",
++"Saya memakai sarung tangan kimia saat memakai tiner"
++],
++[
++"أَبْخِرَة",
++"abkhirah",
++"uap / asap kimia",
++"K3 bengkel",
++"الْأَبْخِرَةُ ضَارَّةٌ",
++"Uap kimia itu berbahaya"
++],
++[
++"خُطَّةُ الْإِخْلَاءِ",
++"khuṭṭatul-ikhlā’",
++"rencana evakuasi",
++"K3 bengkel",
++"خُطَّةُ الْإِخْلَاءِ عَلَى الْجِدَارِ",
++"Rencana evakuasi ada di dinding"
++],
++[
++"غَسْلُ الْعَيْنَيْنِ",
++"ghaslul-‘aynayn",
++"membasuh mata",
++"K3 bengkel",
++"أَغْسِلُ عَيْنَيَّ بِالْمَاءِ",
++"Saya membasuh mata dengan air"
++],
++[
++"حَرْق",
++"ḥarq",
++"luka bakar",
++"K3 bengkel",
++"أُصِيبَ بِحَرْقٍ بَسِيطٍ",
++"Dia mengalami luka bakar ringan"
++],
++[
++"جُرْح",
++"jurḥ",
++"luka",
++"K3 bengkel",
++"الْجُرْحُ عَمِيقٌ",
++"Lukanya dalam"
++],
++[
++"رَقْمُ الطَّوَارِئِ",
++"raqamuṭ-ṭawāri’",
++"nomor darurat",
++"K3 bengkel",
++"اِحْفَظْ رَقْمَ الطَّوَارِئِ",
++"Hafalkan nomor darurat"
++],
++[
++"مُشْرِفُ السَّلَامَةِ",
++"musyrifus-salāmah",
++"pengawas keselamatan",
++"K3 bengkel",
++"مُشْرِفُ السَّلَامَةِ يُفَتِّشُ الْوَرْشَةَ",
++"Pengawas keselamatan memeriksa bengkel"
++],
++[
++"تَفْتِيش",
++"taftīsy",
++"inspeksi",
++"K3 bengkel",
++"التَّفْتِيشُ كُلَّ أُسْبُوعٍ",
++"Inspeksi tiap minggu"
++],
++[
++"تَقْيِيمُ الْمَخَاطِرِ",
++"taqyīmul-makhāṭir",
++"penilaian risiko",
++"K3 bengkel",
++"نَبْدَأُ بِتَقْيِيمِ الْمَخَاطِرِ",
++"Kami mulai dengan menilai risiko"
++],
++[
++"سَلَامَة",
++"salāmah",
++"keselamatan",
++"K3 bengkel",
++"السَّلَامَةُ أَوَّلًا",
++"Utamakan keselamatan"
++],
++[
++"تَلَوُّث",
++"talawwuṡ",
++"pencemaran",
++"K3 bengkel",
++"التَّلَوُّثُ يُضِرُّ بِالْبِيئَةِ",
++"Pencemaran merusak lingkungan"
++],
++[
++"بِيئَة",
++"bī’ah",
++"lingkungan",
++"K3 bengkel",
++"نَحْمِي الْبِيئَةَ",
++"Kami menjaga lingkungan"
++],
++[
++"مَخْلَفَاتٌ خَطِرَةٌ",
++"makhlafāt khaṭirah",
++"limbah berbahaya",
++"K3 bengkel",
++"نَضَعُ الْمَخْلَفَاتِ الْخَطِرَةَ فِي حَاوِيَةٍ",
++"Kami menaruh limbah berbahaya di wadah khusus"
++],
++[
++"تَدْوِير",
++"tadwīr",
++"daur ulang",
++"K3 bengkel",
++"تَدْوِيرُ الْمَعَادِنِ مُفِيدٌ",
++"Mendaur ulang logam itu bermanfaat"
++],
++[
++"شُعَاعٌ عَالٍ",
++"syu‘ā‘un ‘ālin",
++"lampu jauh",
++"Kelistrikan bodi",
++"أُشْعِلُ الشُّعَاعَ الْعَالِيَ",
++"Saya menyalakan lampu jauh"
++],
++[
++"شُعَاعٌ مُنْخَفِضٌ",
++"syu‘ā‘un munkhafiḍ",
++"lampu dekat",
++"Kelistrikan bodi",
++"الشُّعَاعُ الْمُنْخَفِضُ كَافٍ",
++"Lampu dekat sudah cukup"
++],
++[
++"مِصْبَاحُ الطَّوَارِئِ",
++"miṣbāḥuṭ-ṭawāri’",
++"lampu hazard",
++"Kelistrikan bodi",
++"أُشْعِلُ مِصْبَاحَ الطَّوَارِئِ",
++"Saya menyalakan lampu hazard"
++],
++[
++"مِصْبَاحٌ دَاخِلِيٌّ",
++"miṣbāḥun dākhiliyy",
++"lampu kabin",
++"Kelistrikan bodi",
++"الْمِصْبَاحُ الدَّاخِلِيُّ مُطْفَأٌ",
++"Lampu kabinnya mati"
++],
++[
++"مِفْتَاحُ الْإِضَاءَةِ",
++"miftāḥul-iḍā’ah",
++"saklar lampu",
++"Kelistrikan bodi",
++"مِفْتَاحُ الْإِضَاءَةِ عِنْدَ الْمِقْوَدِ",
++"Saklar lampu ada di dekat setir"
++],
++[
++"مُحَرِّكُ الْمَسَّاحَةِ",
++"muḥarrikul-massāḥah",
++"motor wiper",
++"Kelistrikan bodi",
++"مُحَرِّكُ الْمَسَّاحَةِ ضَعِيفٌ",
++"Motor wipernya lemah"
++],
++[
++"مَضَخَّةُ الْمَاءِ",
++"maḍakhkhatul-mā’",
++"pompa air wiper",
++"Kelistrikan bodi",
++"مَضَخَّةُ الْمَاءِ لَا تَعْمَلُ",
++"Pompa air wipernya tidak bekerja"
++],
++[
++"مَضَخَّةُ الْوَقُودِ",
++"maḍakhkhatul-waqūd",
++"pompa bahan bakar",
++"Kelistrikan bodi",
++"مَضَخَّةُ الْوَقُودِ فِي الْخَزَّانِ",
++"Pompa bahan bakar ada di tangki"
++],
++[
++"مُحَرِّكُ الزُّجَاجِ",
++"muḥarrikuz-zujāj",
++"motor kaca jendela",
++"Kelistrikan bodi",
++"مُحَرِّكُ الزُّجَاجِ مُعَطَّلٌ",
++"Motor kaca jendelanya rusak"
++],
++[
++"قُفْلٌ كَهْرَبَائِيٌّ",
++"qufl kahrabā’iyy",
++"kunci elektrik",
++"Kelistrikan bodi",
++"الْقُفْلُ الْكَهْرَبَائِيُّ لَا يَفْتَحُ",
++"Kunci elektriknya tidak mau terbuka"
++],
++[
++"مُنَظِّمُ الْمِرْآةِ",
++"munaẓẓimul-mir’āh",
++"pengatur spion",
++"Kelistrikan bodi",
++"مُنَظِّمُ الْمِرْآةِ يَعْمَلُ",
++"Pengatur spionnya berfungsi"
++],
++[
++"وُصْلَة",
++"wuṣlah",
++"sambungan kabel",
++"Kelistrikan bodi",
++"الْوُصْلَةُ مَفْكُوكَةٌ",
++"Sambungan kabelnya lepas"
++],
++[
++"شَرِيطٌ عَازِلٌ",
++"syarīṭun ‘āzil",
++"isolasi listrik",
++"Kelistrikan bodi",
++"أَلُفُّ الْأَسْلَاكَ بِشَرِيطٍ عَازِلٍ",
++"Saya melilit kabel dengan isolasi"
++],
++[
++"سِلْك",
++"silk",
++"kabel / kawat",
++"Kelistrikan bodi",
++"السِّلْكُ مَقْطُوعٌ",
++"Kabelnya putus"
++],
++[
++"فَحْصُ الدَّائِرَةِ",
++"faḥṣud-dā’irah",
++"pemeriksaan sirkuit",
++"Kelistrikan bodi",
++"نَبْدَأُ بِفَحْصِ الدَّائِرَةِ",
++"Kami mulai memeriksa sirkuit"
++],
++[
++"دَائِرَةٌ مَفْتُوحَةٌ",
++"dā’irah maftūḥah",
++"sirkuit terbuka",
++"Kelistrikan bodi",
++"الدَّائِرَةُ مَفْتُوحَةٌ",
++"Sirkuitnya terbuka"
++],
++[
++"دَائِرَةٌ مُغْلَقَةٌ",
++"dā’irah mughlaqah",
++"sirkuit tertutup",
++"Kelistrikan bodi",
++"الدَّائِرَةُ مُغْلَقَةٌ وَالتَّيَّارُ يَمُرُّ",
++"Sirkuitnya tertutup dan arus mengalir"
++],
++[
++"تَأْرِيض",
++"ta’rīḍ",
++"pembumian (grounding)",
++"Kelistrikan bodi",
++"التَّأْرِيضُ ضَرُورِيٌّ",
++"Pembumian itu penting"
++],
++[
++"طَرَفٌ مُوجَبٌ",
++"ṭarafun mūjab",
++"terminal positif",
++"Kelistrikan bodi",
++"الطَّرَفُ الْمُوجَبُ أَحْمَرُ",
++"Terminal positifnya merah"
++],
++[
++"طَرَفٌ سَالِبٌ",
++"ṭarafun sālib",
++"terminal negatif",
++"Kelistrikan bodi",
++"الطَّرَفُ السَّالِبُ أَسْوَدُ",
++"Terminal negatifnya hitam"
++],
++[
++"كَابِلُ الْبَطَّارِيَّةِ",
++"kābilul-baṭṭāriyyah",
++"kabel aki",
++"Kelistrikan bodi",
++"كَابِلُ الْبَطَّارِيَّةِ مَصْدُوءٌ",
++"Kabel akinya berkarat"
++],
++[
++"وَحْدَةُ التَّحَكُّمِ الْكَهْرَبَائِيَّةِ",
++"waḥdatut-taḥakkumil-kahrabā’iyyah",
++"unit kontrol elektronik (ECU)",
++"Kelistrikan bodi",
++"وَحْدَةُ التَّحَكُّمِ تَقْرَأُ الْمِحَسَّاتِ",
++"ECU membaca sensor-sensor"
++],
++[
++"نِظَامُ الْإِنْذَارِ",
++"niẓāmul-inżār",
++"sistem alarm",
++"Kelistrikan bodi",
++"نِظَامُ الْإِنْذَارِ يُطْلِقُ صَوْتًا",
++"Sistem alarm mengeluarkan bunyi"
++],
++[
++"مِفْتَاحٌ ذَكِيٌّ",
++"miftāḥun żakiyy",
++"kunci pintar (smart key)",
++"Kelistrikan bodi",
++"الْمِفْتَاحُ الذَّكِيُّ فِي جَيْبِي",
++"Kunci pintarnya ada di saku saya"
++],
++[
++"ضَاغِطُ التَّكْيِيفِ",
++"ḍāghiṭut-takyīf",
++"kompresor AC",
++"Kelistrikan bodi",
++"ضَاغِطُ التَّكْيِيفِ يُصْدِرُ ضَجِيجًا",
++"Kompresor AC berisik"
++],
++[
++"مُكَثِّف",
++"mukaṡṡif",
++"kondensor AC",
++"Kelistrikan bodi",
++"الْمُكَثِّفُ أَمَامَ الرَّادِيَاتِيرِ",
++"Kondensor ada di depan radiator"
++],
++[
++"مُبَخِّر",
++"mubakhkhir",
++"evaporator",
++"Kelistrikan bodi",
++"الْمُبَخِّرُ دَاخِلَ الْمَقْصُورَةِ",
++"Evaporator ada di dalam kabin"
++],
++[
++"غَازُ التَّبْرِيدِ",
++"ghāzut-tabrīd",
++"gas pendingin AC",
++"Kelistrikan bodi",
++"غَازُ التَّبْرِيدِ يَنْقُصُ",
++"Gas pendingin AC berkurang"
++],
++[
++"مُرَشِّحُ الْمُكَيِّفِ",
++"murasysyiḥul-mukayyif",
++"filter AC",
++"Kelistrikan bodi",
++"مُرَشِّحُ الْمُكَيِّفِ مُتَّسِخٌ",
++"Filter AC-nya kotor"
++],
++[
++"تَسَرُّبُ الْغَازِ",
++"tasarrubul-ghāz",
++"kebocoran gas",
++"Kelistrikan bodi",
++"تَسَرُّبُ الْغَازِ مِنَ الْأَنْبُوبِ",
++"Gas bocor dari pipa"
++],
++[
++"تَنْجِيد",
++"tanjīd",
++"pelapisan jok",
++"Interior dan kaca",
++"تَنْجِيدُ الْمَقَاعِدِ جَدِيدٌ",
++"Pelapisan joknya baru"
++],
++[
++"جِلْد",
++"jild",
++"kulit",
++"Interior dan kaca",
++"الْمَقَاعِدُ مِنَ الْجِلْدِ",
++"Joknya dari kulit"
++],
++[
++"مِسْنَدُ الرَّأْسِ",
++"misnadur-ra’s",
++"sandaran kepala",
++"Interior dan kaca",
++"مِسْنَدُ الرَّأْسِ مُرِيحٌ",
++"Sandaran kepalanya nyaman"
++],
++[
++"مِسْنَدُ الذِّرَاعِ",
++"misnaduż-żirā‘",
++"sandaran lengan",
++"Interior dan kaca",
++"مِسْنَدُ الذِّرَاعِ مَكْسُورٌ",
++"Sandaran lengannya patah"
++],
++[
++"حَامِلُ الْأَكْوَابِ",
++"ḥāmilul-akwāb",
++"tempat gelas",
++"Interior dan kaca",
++"حَامِلُ الْأَكْوَابِ بَيْنَ الْمَقْعَدَيْنِ",
++"Tempat gelas ada di antara dua kursi"
++],
++[
++"صُنْدُوقُ الْقُفَّازَاتِ",
++"ṣundūqul-quffāzāt",
++"laci dasbor",
++"Interior dan kaca",
++"أَضَعُ الْوَثَائِقَ فِي صُنْدُوقِ الْقُفَّازَاتِ",
++"Saya menaruh dokumen di laci dasbor"
++],
++[
++"ظِلَّة",
++"ẓillah",
++"penghalang matahari (sun visor)",
++"Interior dan kaca",
++"أُنْزِلُ الظِّلَّةَ",
++"Saya menurunkan sun visor"
++],
++[
++"زُجَاجٌ مُظَلَّلٌ",
++"zujājun muẓallal",
++"kaca film (gelap)",
++"Interior dan kaca",
++"الزُّجَاجُ مُظَلَّلٌ",
++"Kacanya diberi film gelap"
++],
++[
++"تَرْكِيبُ الزُّجَاجِ",
++"tarkībuz-zujāj",
++"pemasangan kaca",
++"Interior dan kaca",
++"تَرْكِيبُ الزُّجَاجِ يَحْتَاجُ دِقَّةً",
++"Pemasangan kaca butuh ketelitian"
++],
++[
++"شَرْخ",
++"syarkh",
++"retak halus (kaca)",
++"Interior dan kaca",
++"عَلَى الزُّجَاجِ شَرْخٌ صَغِيرٌ",
++"Ada retak halus di kaca"
++],
++[
++"مَطَّاطُ الزُّجَاجِ",
++"maṭṭāṭuz-zujāj",
++"karet kaca",
++"Interior dan kaca",
++"مَطَّاطُ الزُّجَاجِ يَتَسَرَّبُ مِنْهُ الْمَاءُ",
++"Air bocor lewat karet kaca"
++],
++[
++"مُحَرِّكُ الِاحْتِرَاقِ الدَّاخِلِيِّ",
++"muḥarrikul-iḥtirāqid-dākhiliyy",
++"mesin pembakaran dalam",
++"Sistem kendaraan",
++"هٰذِهِ سَيَّارَةٌ بِمُحَرِّكِ احْتِرَاقٍ دَاخِلِيٍّ",
++"Ini mobil bermesin pembakaran dalam"
++],
++[
++"عُلْبَةُ السُّرُعَاتِ",
++"‘ulbatus-sur‘āt",
++"transmisi (gearbox)",
++"Sistem kendaraan",
++"عُلْبَةُ السُّرُعَاتِ أَوْتُومَاتِيكِيَّةٌ",
++"Transmisinya otomatis"
++],
++[
++"عَمُودُ الْإِدَارَةِ",
++"‘amūdul-idārah",
++"poros penggerak",
++"Sistem kendaraan",
++"عَمُودُ الْإِدَارَةِ مُنْحَنٍ",
++"Poros penggeraknya bengkok"
++],
++[
++"نِظَامُ التَّعْلِيقِ",
++"niẓāmut-ta‘līq",
++"sistem suspensi",
++"Sistem kendaraan",
++"نِظَامُ التَّعْلِيقِ مُهْتَزٌّ",
++"Sistem suspensinya goyang"
++],
++[
++"نِظَامُ الْفَرَامِلِ",
++"niẓāmul-farāmil",
++"sistem rem",
++"Sistem kendaraan",
++"نِظَامُ الْفَرَامِلِ سَلِيمٌ",
++"Sistem remnya baik"
++],
++[
++"قُرْصُ الْفَرَامِلِ",
++"qurṣul-farāmil",
++"cakram rem",
++"Sistem kendaraan",
++"قُرْصُ الْفَرَامِلِ سَاخِنٌ",
++"Cakram remnya panas"
++],
++[
++"نِظَامُ التَّوْجِيهِ",
++"niẓāmut-tawjīh",
++"sistem kemudi",
++"Sistem kendaraan",
++"نِظَامُ التَّوْجِيهِ ثَقِيلٌ",
++"Sistem kemudinya berat"
++],
++[
++"مِقْوَد",
++"miqwad",
++"setir",
++"Sistem kendaraan",
++"الْمِقْوَدُ يَهْتَزُّ",
++"Setirnya bergetar"
++],
++[
++"نِظَامُ الْعَادِمِ",
++"niẓāmul-‘ādim",
++"sistem pembuangan",
++"Sistem kendaraan",
++"نِظَامُ الْعَادِمِ يُصْدِرُ صَوْتًا",
++"Sistem pembuangan berbunyi"
++],
++[
++"كَاتِمُ الصَّوْتِ",
++"kātimuṣ-ṣawt",
++"peredam knalpot",
++"Sistem kendaraan",
++"كَاتِمُ الصَّوْتِ صَدِئٌ",
++"Peredam knalpotnya berkarat"
++],
++[
++"بَنْزِين",
++"banzīn",
++"bensin",
++"Sistem kendaraan",
++"أَمْلَأُ الْخَزَّانَ بِالْبَنْزِينِ",
++"Saya mengisi tangki dengan bensin"
++],
++[
++"دِيزِل",
++"dīzil",
++"solar",
++"Sistem kendaraan",
++"هٰذِهِ السَّيَّارَةُ تَعْمَلُ بِالدِّيزِلِ",
++"Mobil ini memakai solar"
++],
++[
++"رَادِيَاتِير",
++"rādiyātīr",
++"radiator",
++"Sistem kendaraan",
++"الرَّادِيَاتِيرُ يَتَسَرَّبُ",
++"Radiatornya bocor"
++],
++[
++"سَائِلُ التَّبْرِيدِ",
++"sā’ilut-tabrīd",
++"cairan pendingin",
++"Sistem kendaraan",
++"سَائِلُ التَّبْرِيدِ قَلِيلٌ",
++"Cairan pendinginnya sedikit"
++],
++[
++"حِزَام",
++"ḥizām",
++"sabuk (belt)",
++"Sistem kendaraan",
++"الْحِزَامُ مَقْطُوعٌ",
++"Sabuknya putus"
++],
++[
++"مِحْوَر",
++"miḥwar",
++"poros (as)",
++"Sistem kendaraan",
++"الْمِحْوَرُ الْأَمَامِيُّ",
++"As roda depan"
++],
++[
++"عَجَلَة",
++"‘ajalah",
++"roda",
++"Sistem kendaraan",
++"الْعَجَلَةُ مَثْقُوبَةٌ",
++"Rodanya bocor"
++],
++[
++"تَوَازُنُ الْعَجَلَاتِ",
++"tawāzunul-‘ajalāt",
++"balancing roda",
++"Sistem kendaraan",
++"تَوَازُنُ الْعَجَلَاتِ مُهِمٌّ",
++"Balancing roda itu penting"
++],
++[
++"مُحَاذَاةُ الْعَجَلَاتِ",
++"muḥāżātul-‘ajalāt",
++"spooring",
++"Sistem kendaraan",
++"مُحَاذَاةُ الْعَجَلَاتِ بَعْدَ الْحَادِثِ",
++"Spooring dilakukan setelah kecelakaan"
++],
++[
++"تَقْدِيرُ التَّكْلِفَةِ",
++"taqdīrut-taklifah",
++"estimasi biaya",
++"Estimasi dan pelanggan",
++"أُعِدُّ تَقْدِيرَ التَّكْلِفَةِ",
++"Saya menyusun estimasi biaya"
++],
++[
++"مُعَايَنَة",
++"mu‘āyanah",
++"pemeriksaan awal (survei)",
++"Estimasi dan pelanggan",
++"نُجْرِي الْمُعَايَنَةَ أَوَّلًا",
++"Kami melakukan survei lebih dulu"
++],
++[
++"شَرِكَةُ التَّأْمِينِ",
++"syarikatut-ta’mīn",
++"perusahaan asuransi",
++"Estimasi dan pelanggan",
++"شَرِكَةُ التَّأْمِينِ تَدْفَعُ الْمَبْلَغَ",
++"Perusahaan asuransi membayar biayanya"
++],
++[
++"مُطَالَبَةٌ تَأْمِينِيَّةٌ",
++"muṭālabah ta’mīniyyah",
++"klaim asuransi",
++"Estimasi dan pelanggan",
++"قَدَّمْتُ مُطَالَبَةً تَأْمِينِيَّةً",
++"Saya mengajukan klaim asuransi"
++],
++[
++"حَادِثٌ مُرُورِيٌّ",
++"ḥādiṡun murūriyy",
++"kecelakaan lalu lintas",
++"Estimasi dan pelanggan",
++"وَقَعَ حَادِثٌ مُرُورِيٌّ",
++"Terjadi kecelakaan lalu lintas"
++],
++[
++"صُورَةُ الضَّرَرِ",
++"ṣūratuḍ-ḍarar",
++"foto kerusakan",
++"Estimasi dan pelanggan",
++"أَلْتَقِطُ صُورَةَ الضَّرَرِ",
++"Saya memotret kerusakannya"
++],
++[
++"مُدَّةُ الْإِصْلَاحِ",
++"muddatul-iṣlāḥ",
++"lama perbaikan",
++"Estimasi dan pelanggan",
++"مُدَّةُ الْإِصْلَاحِ ثَلَاثَةُ أَيَّامٍ",
++"Lama perbaikannya tiga hari"
++],
++[
++"ضَمَانُ الْإِصْلَاحِ",
++"ḍamānul-iṣlāḥ",
++"garansi perbaikan",
++"Estimasi dan pelanggan",
++"ضَمَانُ الْإِصْلَاحِ سَنَةٌ",
++"Garansi perbaikannya setahun"
++],
++[
++"أَمْرُ عَمَلٍ",
++"amru ‘amal",
++"perintah kerja (SPK)",
++"Estimasi dan pelanggan",
++"أَكْتُبُ أَمْرَ الْعَمَلِ",
++"Saya menulis perintah kerja"
++],
++[
++"مُسْتَشَارُ الْخِدْمَةِ",
++"mustasyārul-khidmah",
++"penasihat servis",
++"Estimasi dan pelanggan",
++"مُسْتَشَارُ الْخِدْمَةِ يَسْتَقْبِلُ الْعُمَلَاءَ",
++"Penasihat servis menyambut pelanggan"
++],
++[
++"فَنِّيُّ الْهَيْكَلِ",
++"fanniyyul-haykal",
++"teknisi bodi",
++"Estimasi dan pelanggan",
++"فَنِّيُّ الْهَيْكَلِ يُصْلِحُ الْبَابَ",
++"Teknisi bodi memperbaiki pintu"
++],
++[
++"رَسَّامُ السَّيَّارَاتِ",
++"rassāmus-sayyārāt",
++"tukang cat mobil",
++"Estimasi dan pelanggan",
++"رَسَّامُ السَّيَّارَاتِ يَخْلِطُ الْأَلْوَانَ",
++"Tukang cat mobil mencampur warna"
++],
++[
++"مُشْرِفُ الْوَرْشَةِ",
++"musyrifu warsyah",
++"kepala bengkel",
++"Estimasi dan pelanggan",
++"مُشْرِفُ الْوَرْشَةِ يُرَاجِعُ الْعَمَلَ",
++"Kepala bengkel memeriksa pekerjaan"
++],
++[
++"وَرْشَة",
++"warsyah",
++"bengkel",
++"Estimasi dan pelanggan",
++"الْوَرْشَةُ مَفْتُوحَةٌ",
++"Bengkelnya buka"
++],
++[
++"اِفْحَصِ الضَّرَرَ أَوَّلًا",
++"ifḥaṣiḍ-ḍarara awwalan",
++"periksa kerusakannya dulu",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"صَوِّرِ السَّيَّارَةَ قَبْلَ الْإِصْلَاحِ",
++"ṣawwirisy-sayyārata qablal-iṣlāḥ",
++"foto mobilnya sebelum diperbaiki",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"فُكَّ الْمَصَدَّ",
++"fukkal-maṣadd",
++"lepas bumpernya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِرْبِطِ الْمَسَامِيرَ بِإِحْكَامٍ",
++"irbiṭil-masāmīra bi-iḥkām",
++"kencangkan bautnya dengan kuat",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِرْفَعِ السَّيَّارَةَ بِالرَّافِعَةِ",
++"irfa‘is-sayyārata bir-rāfi‘ah",
++"angkat mobilnya dengan dongkrak",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"ضَعِ الدِّعَامَاتِ تَحْتَ السَّيَّارَةِ",
++"ḍa‘id-di‘āmāti taḥtas-sayyārah",
++"pasang penyangga di bawah mobil",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"نَظِّفِ الْمَكَانَ قَبْلَ اللِّحَامِ",
++"naẓẓifil-makāna qablal-liḥām",
++"bersihkan tempatnya sebelum mengelas",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِلْبَسِ الْقِنَاعَ وَالنَّظَّارَةَ",
++"ilbasil-qinā‘a wan-naẓẓārah",
++"pakai masker dan kacamata",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِبْدَأْ بِالصَّنْفَرَةِ الْخَشِنَةِ",
++"ibda’ bis-ṣanfaratil-khasyinah",
++"mulai dari amplas kasar",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"ضَعْ طَبَقَةَ الْأَسَاسِ",
++"ḍa‘ ṭabaqatal-asās",
++"oleskan lapisan dasarnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"لَا تُشْعِلِ النَّارَ هُنَا",
++"lā tusy‘ilin-nāra hunā",
++"jangan menyalakan api di sini",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِبْتَعِدْ عَنِ الْمَوَادِّ الْقَابِلَةِ لِلِاشْتِعَالِ",
++"ibta‘id ‘anil-mawādil-qābilati lil-isyti‘āl",
++"jauhi bahan yang mudah terbakar",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَطْفِئِ الْمُحَرِّكَ",
++"aṭfi’il-muḥarrik",
++"matikan mesinnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِفْصِلِ الْبَطَّارِيَّةَ",
++"ifṣilil-baṭṭāriyyah",
++"lepas sambungan akinya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلِ الْهَيْكَلُ مُسْتَقِيمٌ؟",
++"halil-haykalu mustaqīm?",
++"apakah rangkanya lurus?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هٰذِهِ الْقِطْعَةُ تَحْتَاجُ إِلَى اسْتِبْدَالٍ",
++"hāżihil-qiṭ‘atu taḥtāju ilā istibdāl",
++"bagian ini perlu diganti",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ تُرِيدُ قِطْعَةً أَصْلِيَّةً؟",
++"hal turīdu qiṭ‘atan aṣliyyah?",
++"mau suku cadang asli?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"تَكْلِفَةُ الْإِصْلَاحِ مُرْتَفِعَةٌ",
++"taklifatul-iṣlāḥi murtafi‘ah",
++"biaya perbaikannya tinggi",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"سَنُنْهِي الْعَمَلَ يَوْمَ الْخَمِيسِ",
++"sanunhil-‘amala yawmal-khamīs",
++"pekerjaannya selesai hari Kamis",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ تُغَطِّي شَرِكَةُ التَّأْمِينِ الْإِصْلَاحَ؟",
++"hal tughaṭṭī syarikatut-ta’mīnil-iṣlāḥ?",
++"apakah asuransi menanggung perbaikannya?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَحْضِرْ وَثَائِقَ التَّأْمِينِ",
++"aḥḍir waṡā’iqat-ta’mīn",
++"bawa dokumen asuransinya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هَلْ أَنْتَ رَاضٍ عَنِ الْعَمَلِ؟",
++"hal anta rāḍin ‘anil-‘amal?",
++"apakah Anda puas dengan hasil kerjanya?",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"الْعَمَلُ مُتْقَنٌ",
++"al-‘amalu mutqan",
++"pekerjaannya rapi",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"هُنَاكَ خَدْشٌ صَغِيرٌ هُنَا",
++"hunāka khadsyun ṣaghīrun hunā",
++"ada goresan kecil di sini",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"سَأُعِيدُ الطِّلَاءَ",
++"sa’u‘īduṭ-ṭilā’",
++"saya cat ulang",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"شُكْرًا عَلَى ثِقَتِكَ",
++"syukran ‘alā ṡiqatik",
++"terima kasih atas kepercayaan Anda",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"مَعَ السَّلَامَةِ",
++"ma‘as-salāmah",
++"selamat jalan, hati-hati di jalan",
++"Ungkapan kerja",
++"",
++""
+ ]
+ ],
+ "TSM":[
+@@ -9781,6 +16229,1718 @@
+ "Alat bengkel",
+ "مِفْتَاحٌ سُدَاسِيٌّ صَغِيرٌ",
+ "Kunci L-nya kecil"
++],
++[
++"مُحَرِّكٌ أُحَادِيُّ الِاسْطُوَانَةِ",
++"muḥarrikun uḥādiyyul-usṭuwānah",
++"mesin satu silinder",
++"Mesin dan sistem bahan bakar",
++"دَرَّاجَتِي بِمُحَرِّكٍ أُحَادِيِّ الِاسْطُوَانَةِ",
++"Motor saya bermesin satu silinder"
++],
++[
++"مُحَرِّكٌ ثُنَائِيُّ الِاسْطُوَانَةِ",
++"muḥarrikun ṡunā’iyyul-usṭuwānah",
++"mesin dua silinder",
++"Mesin dan sistem bahan bakar",
++"الْمُحَرِّكُ الثُّنَائِيُّ أَقْوَى",
++"Mesin dua silinder lebih bertenaga"
++],
++[
++"غُرْفَةُ الِاحْتِرَاقِ",
++"ghurfatul-iḥtirāq",
++"ruang bakar",
++"Mesin dan sistem bahan bakar",
++"غُرْفَةُ الِاحْتِرَاقِ مُتَّسِخَةٌ",
++"Ruang bakarnya kotor"
++],
++[
++"جِدَارُ الِاسْطُوَانَةِ",
++"jidārul-usṭuwānah",
++"dinding silinder",
++"Mesin dan sistem bahan bakar",
++"جِدَارُ الِاسْطُوَانَةِ مَخْدُوشٌ",
++"Dinding silindernya tergores"
++],
++[
++"مِحْوَرُ الْمِكْبَسِ",
++"miḥwarul-mikbas",
++"pen piston",
++"Mesin dan sistem bahan bakar",
++"مِحْوَرُ الْمِكْبَسِ صَغِيرٌ",
++"Pen pistonnya kecil"
++],
++[
++"عَمُودُ الْكَامَاتِ",
++"‘amūdul-kāmāt",
++"poros nok (camshaft)",
++"Mesin dan sistem bahan bakar",
++"عَمُودُ الْكَامَاتِ يَفْتَحُ الصِّمَامَ",
++"Poros nok membuka katup"
++],
++[
++"تَوْقِيتُ الْمُحَرِّكِ",
++"tawqītul-muḥarrik",
++"pewaktuan mesin",
++"Mesin dan sistem bahan bakar",
++"تَوْقِيتُ الْمُحَرِّكِ دَقِيقٌ",
++"Pewaktuan mesinnya tepat"
++],
++[
++"خُلُوص الصِّمَامِ",
++"khulūṣuṣ-ṣimām",
++"celah katup",
++"Mesin dan sistem bahan bakar",
++"أَضْبِطُ خُلُوصَ الصِّمَامِ",
++"Saya menyetel celah katup"
++],
++[
++"حَشْوَة",
++"ḥasywah",
++"paking",
++"Mesin dan sistem bahan bakar",
++"الْحَشْوَةُ مَحْرُوقَةٌ",
++"Pakingnya terbakar"
++],
++[
++"خَتْم زَيْتِيّ",
++"khatm zaytiyy",
++"seal oli",
++"Mesin dan sistem bahan bakar",
++"الْخَتْمُ الزَّيْتِيُّ يَتَسَرَّبُ",
++"Seal olinya bocor"
++],
++[
++"عَوَّامَة",
++"‘awwāmah",
++"pelampung karburator",
++"Mesin dan sistem bahan bakar",
++"الْعَوَّامَةُ عَالِقَةٌ",
++"Pelampungnya macet"
++],
++[
++"نَفَّاث",
++"naffāṡ",
++"jet / spuyer",
++"Mesin dan sistem bahan bakar",
++"النَّفَّاثُ مَسْدُودٌ",
++"Spuyernya tersumbat"
++],
++[
++"حَاقِن الْوَقُودِ",
++"ḥāqinul-waqūd",
++"injektor bahan bakar",
++"Mesin dan sistem bahan bakar",
++"حَاقِنُ الْوَقُودِ يَرُشُّ الْبَنْزِينَ",
++"Injektor menyemprotkan bensin"
++],
++[
++"خَلِيطُ الْهَوَاءِ وَالْوَقُودِ",
++"khalīṭul-hawā’i wal-waqūd",
++"campuran udara-bahan bakar",
++"Mesin dan sistem bahan bakar",
++"الْخَلِيطُ غَنِيٌّ جِدًّا",
++"Campurannya terlalu kaya"
++],
++[
++"خَلِيطٌ غَنِيٌّ",
++"khalīṭun ghaniyy",
++"campuran kaya",
++"Mesin dan sistem bahan bakar",
++"الْخَلِيطُ الْغَنِيُّ يُنْتِجُ دُخَانًا أَسْوَدَ",
++"Campuran kaya menghasilkan asap hitam"
++],
++[
++"خَلِيطٌ فَقِيرٌ",
++"khalīṭun faqīr",
++"campuran miskin",
++"Mesin dan sistem bahan bakar",
++"الْخَلِيطُ الْفَقِيرُ يُسَخِّنُ الْمُحَرِّكَ",
++"Campuran miskin memanaskan mesin"
++],
++[
++"أَنْبُوبُ الْوَقُودِ",
++"unbūbul-waqūd",
++"selang bensin",
++"Mesin dan sistem bahan bakar",
++"أَنْبُوبُ الْوَقُودِ مُتَشَقِّقٌ",
++"Selang bensinnya retak"
++],
++[
++"صُنْبُورُ الْوَقُودِ",
++"ṣunbūrul-waqūd",
++"keran bensin",
++"Mesin dan sistem bahan bakar",
++"أَفْتَحُ صُنْبُورَ الْوَقُودِ",
++"Saya membuka keran bensin"
++],
++[
++"عَدَّادُ الْوَقُودِ",
++"‘addādul-waqūd",
++"indikator bensin",
++"Mesin dan sistem bahan bakar",
++"عَدَّادُ الْوَقُودِ عَلَى الصِّفْرِ",
++"Indikator bensinnya hampir kosong"
++],
++[
++"خَنَّاق",
++"khannāq",
++"katup cekik (choke)",
++"Mesin dan sistem bahan bakar",
++"أَسْحَبُ الْخَنَّاقَ فِي الصَّبَاحِ",
++"Saya menarik choke di pagi hari"
++],
++[
++"دَوَرَانُ الْخُمُولِ",
++"dawarānul-khumūl",
++"putaran langsam (idle)",
++"Mesin dan sistem bahan bakar",
++"دَوَرَانُ الْخُمُولِ غَيْرُ ثَابِتٍ",
++"Putaran langsamnya tidak stabil"
++],
++[
++"تَسَارُع",
++"tasāru‘",
++"akselerasi",
++"Mesin dan sistem bahan bakar",
++"التَّسَارُعُ بَطِيءٌ",
++"Akselerasinya lambat"
++],
++[
++"كَفَاءَةُ الْوَقُودِ",
++"kafā’atul-waqūd",
++"efisiensi bahan bakar",
++"Mesin dan sistem bahan bakar",
++"كَفَاءَةُ الْوَقُودِ جَيِّدَةٌ",
++"Efisiensi bahan bakarnya baik"
++],
++[
++"غَازَاتُ الْعَادِمِ",
++"ghāzātul-‘ādim",
++"gas buang",
++"Mesin dan sistem bahan bakar",
++"غَازَاتُ الْعَادِمِ نَظِيفَةٌ",
++"Gas buangnya bersih"
++],
++[
++"مَاسُورَةُ الْعَادِمِ",
++"māsūratul-‘ādim",
++"pipa knalpot",
++"Mesin dan sistem bahan bakar",
++"مَاسُورَةُ الْعَادِمِ مَصْدُوءَةٌ",
++"Pipa knalpotnya berkarat"
++],
++[
++"نِظَامُ الْإِشْعَالِ",
++"niẓāmul-isy‘āl",
++"sistem pengapian",
++"Pengapian dan kelistrikan",
++"نِظَامُ الْإِشْعَالِ سَلِيمٌ",
++"Sistem pengapiannya baik"
++],
++[
++"شَرَارَة",
++"syarārah",
++"percikan api",
++"Pengapian dan kelistrikan",
++"الشَّرَارَةُ ضَعِيفَةٌ",
++"Percikan apinya lemah"
++],
++[
++"غَطَاءُ الشَّمْعَةِ",
++"ghiṭā’usy-syam‘ah",
++"tutup busi",
++"Pengapian dan kelistrikan",
++"غِطَاءُ الشَّمْعَةِ مُنْفَكٌّ",
++"Tutup businya longgar"
++],
++[
++"فَجْوَةُ الشَّمْعَةِ",
++"fajwatusy-syam‘ah",
++"celah busi",
++"Pengapian dan kelistrikan",
++"أَقِيسُ فَجْوَةَ الشَّمْعَةِ",
++"Saya mengukur celah busi"
++],
++[
++"حَرَكَةُ الْإِشْعَالِ",
++"ḥarakatul-isy‘āl",
++"waktu pengapian",
++"Pengapian dan kelistrikan",
++"أَضْبِطُ حَرَكَةَ الْإِشْعَالِ",
++"Saya menyetel waktu pengapian"
++],
++[
++"مُلَفُّ الْمَنْبَعِ",
++"mulaffu manba‘",
++"spul / kumparan sumber",
++"Pengapian dan kelistrikan",
++"مُلَفُّ الْمَنْبَعِ يُوَلِّدُ التَّيَّارَ",
++"Spul menghasilkan arus"
++],
++[
++"مُقَوِّمُ التَّيَّارِ",
++"muqawwimut-tayyār",
++"kiprok / penyearah",
++"Pengapian dan kelistrikan",
++"مُقَوِّمُ التَّيَّارِ مُحْتَرِقٌ",
++"Kiprok terbakar"
++],
++[
++"مَاءُ الْبَطَّارِيَّةِ",
++"mā’ul-baṭṭāriyyah",
++"air aki",
++"Pengapian dan kelistrikan",
++"أَزِيدُ مَاءَ الْبَطَّارِيَّةِ",
++"Saya menambah air aki"
++],
++[
++"رِجْلُ الْبَدْءِ",
++"rijlul-bad’",
++"engkol / kick starter",
++"Pengapian dan kelistrikan",
++"أَضْغَطُ رِجْلَ الْبَدْءِ",
++"Saya menginjak kick starter"
++],
++[
++"مَصَابِيحُ الْأَمَامِ",
++"maṣābīḥul-amām",
++"lampu depan",
++"Pengapian dan kelistrikan",
++"مَصَابِيحُ الْأَمَامِ سَاطِعَةٌ",
++"Lampu depannya terang"
++],
++[
++"مِصْبَاحُ الْفَرْمَلَةِ",
++"miṣbāḥul-farmalah",
++"lampu rem",
++"Pengapian dan kelistrikan",
++"مِصْبَاحُ الْفَرْمَلَةِ لَا يُضِيءُ",
++"Lampu remnya tidak menyala"
++],
++[
++"مِصْبَاحُ الدَّوَرَانِ",
++"miṣbāḥud-dawarān",
++"lampu sein",
++"Pengapian dan kelistrikan",
++"مِصْبَاحُ الدَّوَرَانِ يَوْمِضُ",
++"Lampu seinnya berkedip"
++],
++[
++"وَمِيض",
++"wamīḍ",
++"kedip",
++"Pengapian dan kelistrikan",
++"الْوَمِيضُ بَطِيءٌ",
++"Kedipannya lambat"
++],
++[
++"قَاطِعُ التَّيَّارِ",
++"qāṭi‘ut-tayyār",
++"pemutus arus",
++"Pengapian dan kelistrikan",
++"قَاطِعُ التَّيَّارِ فِي اللَّوْحَةِ",
++"Pemutus arus ada di panel"
++],
++[
++"عَدَّادُ الدَّوَرَانِ",
++"‘addādud-dawarān",
++"takometer",
++"Pengapian dan kelistrikan",
++"عَدَّادُ الدَّوَرَانِ يُشِيرُ إِلَى الْآلَافِ",
++"Takometer menunjuk ke ribuan"
++],
++[
++"مَجَسُّ الْأُكْسُجِينِ",
++"majassul-uksujīn",
++"sensor oksigen",
++"Pengapian dan kelistrikan",
++"مَجَسُّ الْأُكْسُجِينِ يَقِيسُ الْعَادِمَ",
++"Sensor oksigen mengukur gas buang"
++],
++[
++"مَجَسُّ مَوْضِعِ الْخَنَّاقِ",
++"majassu mawḍi‘il-khannāq",
++"sensor posisi gas (TPS)",
++"Pengapian dan kelistrikan",
++"مَجَسُّ مَوْضِعِ الْخَنَّاقِ يُرْسِلُ إِشَارَةً",
++"TPS mengirim sinyal"
++],
++[
++"وَحْدَةُ التَّحَكُّمِ فِي الْمُحَرِّكِ",
++"waḥdatut-taḥakkumi fil-muḥarrik",
++"unit kontrol mesin (ECU)",
++"Pengapian dan kelistrikan",
++"الْوَحْدَةُ تَتَحَكَّمُ فِي الْحَقْنِ",
++"Unit kontrol mengatur injeksi"
++],
++[
++"فَحْصُ الدَّائِرَةِ",
++"faḥṣud-dā’irah",
++"pemeriksaan rangkaian",
++"Pengapian dan kelistrikan",
++"أَفْحَصُ الدَّائِرَةَ بِالْمُقَيِّسِ",
++"Saya memeriksa rangkaian dengan multimeter"
++],
++[
++"مُقَيِّسٌ مُتَعَدِّدٌ",
++"muqayyisun muta‘addid",
++"multimeter",
++"Pengapian dan kelistrikan",
++"الْمُقَيِّسُ الْمُتَعَدِّدُ دَقِيقٌ",
++"Multimeternya akurat"
++],
++[
++"اِسْتِمْرَارِيَّةٌ",
++"istimrāriyyah",
++"kontinuitas",
++"Pengapian dan kelistrikan",
++"أَفْحَصُ الِاسْتِمْرَارِيَّةَ",
++"Saya memeriksa kontinuitas"
++],
++[
++"زَيْتٌ صِنَاعِيٌّ",
++"zaytun ṣinā‘iyy",
++"oli sintetis",
++"Pelumasan dan pendinginan",
++"الزَّيْتُ الصِّنَاعِيُّ يَدُومُ أَكْثَرَ",
++"Oli sintetis lebih awet"
++],
++[
++"زَيْتٌ مَعْدِنِيٌّ",
++"zaytun ma‘diniyy",
++"oli mineral",
++"Pelumasan dan pendinginan",
++"الزَّيْتُ الْمَعْدِنِيُّ أَرْخَصُ",
++"Oli mineral lebih murah"
++],
++[
++"مُسْتَوَى الزَّيْتِ",
++"mustawaz-zayt",
++"level oli",
++"Pelumasan dan pendinginan",
++"مُسْتَوَى الزَّيْتِ مُنْخَفِضٌ",
++"Level olinya rendah"
++],
++[
++"عَصَا قِيَاسِ الزَّيْتِ",
++"‘aṣā qiyāsiz-zayt",
++"batang pengukur oli",
++"Pelumasan dan pendinginan",
++"أَسْحَبُ عَصَا الْقِيَاسِ",
++"Saya menarik batang pengukur oli"
++],
++[
++"سِدَادَةُ التَّصْرِيفِ",
++"sidādatut-taṣrīf",
++"baut pembuangan oli",
++"Pelumasan dan pendinginan",
++"أَفُكُّ سِدَادَةَ التَّصْرِيفِ",
++"Saya membuka baut pembuangan oli"
++],
++[
++"فَتْحَةُ تَعْبِئَةِ الزَّيْتِ",
++"fatḥatu ta‘bi’atiz-zayt",
++"lubang pengisian oli",
++"Pelumasan dan pendinginan",
++"أَصُبُّ مِنْ فَتْحَةِ التَّعْبِئَةِ",
++"Saya menuang lewat lubang pengisian"
++],
++[
++"زَعَانِفُ التَّبْرِيدِ",
++"za‘ānifut-tabrīd",
++"sirip pendingin",
++"Pelumasan dan pendinginan",
++"زَعَانِفُ التَّبْرِيدِ مُتَّسِخَةٌ",
++"Sirip pendinginnya kotor"
++],
++[
++"مِرْوَحَةُ الْمُبَرِّدِ",
++"mirwaḥatul-mubarrid",
++"kipas radiator",
++"Pelumasan dan pendinginan",
++"مِرْوَحَةُ الْمُبَرِّدِ لَا تَدُورُ",
++"Kipas radiatornya tidak berputar"
++],
++[
++"مُنَظِّمُ الْحَرَارَةِ",
++"munaẓẓimul-ḥarārah",
++"termostat",
++"Pelumasan dan pendinginan",
++"مُنَظِّمُ الْحَرَارَةِ عَالِقٌ",
++"Termostatnya macet"
++],
++[
++"خَزَّانُ الْمُبَرِّدِ",
++"khazzānul-mubarrid",
++"tangki cadangan radiator",
++"Pelumasan dan pendinginan",
++"خَزَّانُ الْمُبَرِّدِ نَاقِصٌ",
++"Tangki cadangan radiatornya kurang"
++],
++[
++"نَاقِلُ الْحَرَكَةِ الْمُتَغَيِّرُ",
++"nāqilul-ḥarakatil-mutaghayyir",
++"transmisi CVT",
++"Kopling dan transmisi",
++"نَاقِلُ الْحَرَكَةِ فِي السِّكُوتَرِ",
++"Transmisi CVT ada di skuter"
++],
++[
++"حِزَامُ النَّاقِلِ",
++"ḥizāmun-nāqil",
++"sabuk CVT",
++"Kopling dan transmisi",
++"حِزَامُ النَّاقِلِ مَلْبُوسٌ",
++"Sabuk CVT-nya aus"
++],
++[
++"بَكَرَةٌ",
++"bakarah",
++"puli / pulley",
++"Kopling dan transmisi",
++"الْبَكَرَةُ الْأَمَامِيَّةُ مُتَّسِخَةٌ",
++"Puli depannya kotor"
++],
++[
++"أُسْطُوَانَاتُ الطَّرْدِ الْمَرْكَزِيِّ",
++"usṭuwānātuṭ-ṭardil-markaziyy",
++"roller CVT",
++"Kopling dan transmisi",
++"أُسْطُوَانَاتُ الطَّرْدِ مَلْبُوسَةٌ",
++"Roller CVT-nya aus"
++],
++[
++"نَابِضُ الْقَابِضِ",
++"nābiḍul-qābiḍ",
++"pegas kopling",
++"Kopling dan transmisi",
++"نَابِضُ الْقَابِضِ ضَعِيفٌ",
++"Pegas koplingnya lemah"
++],
++[
++"تُرُوسُ نَاقِلِ الْحَرَكَةِ",
++"turūsu nāqilil-ḥarakah",
++"gigi transmisi",
++"Kopling dan transmisi",
++"تُرُوسُ نَاقِلِ الْحَرَكَةِ مَكْسُورَةٌ",
++"Gigi transmisinya patah"
++],
++[
++"رَافِعَةُ تَبْدِيلِ السُّرْعَةِ",
++"rāfi‘atu tabdīlis-sur‘ah",
++"tuas perseneling",
++"Kopling dan transmisi",
++"رَافِعَةُ تَبْدِيلِ السُّرْعَةِ ثَقِيلَةٌ",
++"Tuas persenelingnya berat"
++],
++[
++"تَبْدِيلُ السُّرْعَةِ",
++"tabdīlus-sur‘ah",
++"pemindahan gigi",
++"Kopling dan transmisi",
++"تَبْدِيلُ السُّرْعَةِ سَلِسٌ",
++"Perpindahan giginya halus"
++],
++[
++"سِلْسِلَةُ الدَّرَّاجَةِ",
++"silsilatud-darrājah",
++"rantai motor",
++"Kopling dan transmisi",
++"السِّلْسِلَةُ مَشْدُودَةٌ",
++"Rantainya kencang"
++],
++[
++"تَشْحِيمُ السِّلْسِلَةِ",
++"tasyḥīmus-silsilah",
++"pelumasan rantai",
++"Kopling dan transmisi",
++"تَشْحِيمُ السِّلْسِلَةِ ضَرُورِيٌّ",
++"Melumasi rantai itu perlu"
++],
++[
++"مِحْوَرُ الْإِدَارَةِ",
++"miḥwarul-idārah",
++"poros penggerak",
++"Kopling dan transmisi",
++"مِحْوَرُ الْإِدَارَةِ مُنْحَنٍ",
++"Poros penggeraknya bengkok"
++],
++[
++"زَيْتُ الشُّوكَةِ",
++"zaytusy-syūkah",
++"oli garpu",
++"Sasis dan rem",
++"أُغَيِّرُ زَيْتَ الشُّوكَةِ",
++"Saya mengganti oli garpu"
++],
++[
++"ذِرَاعٌ خَلْفِيٌّ",
++"żirā‘un khalfiyy",
++"lengan ayun belakang",
++"Sasis dan rem",
++"الذِّرَاعُ الْخَلْفِيُّ صَدِئٌ",
++"Lengan ayun belakangnya berkarat"
++],
++[
++"مِقْوَدُ الدَّرَّاجَةِ",
++"miqwadud-darrājah",
++"setang motor",
++"Sasis dan rem",
++"الْمِقْوَدُ مَائِلٌ",
++"Setangnya miring"
++],
++[
++"رَأْسُ الْمِقْوَدِ",
++"ra’sul-miqwad",
++"kepala kemudi",
++"Sasis dan rem",
++"رَأْسُ الْمِقْوَدِ مَرِنٌ",
++"Kepala kemudinya longgar"
++],
++[
++"مِحْوَرُ الْعَجَلَةِ",
++"miḥwarul-‘ajalah",
++"as roda",
++"Sasis dan rem",
++"مِحْوَرُ الْعَجَلَةِ مَشْدُودٌ",
++"As rodanya kencang"
++],
++[
++"رُوَيْدَة",
++"ruwaydah",
++"velg (pelek)",
++"Sasis dan rem",
++"الرُّوَيْدَةُ مُعْوَجَّةٌ",
++"Velgnya peyang"
++],
++[
++"إِطَارٌ بِلَا أُنْبُوبٍ",
++"iṭārun bilā unbūb",
++"ban tubeless",
++"Sasis dan rem",
++"إِطَارِي بِلَا أُنْبُوبٍ",
++"Ban saya tubeless"
++],
++[
++"أُنْبُوبُ الْإِطَارِ",
++"unbūbul-iṭār",
++"ban dalam",
++"Sasis dan rem",
++"أُنْبُوبُ الْإِطَارِ مَثْقُوبٌ",
++"Ban dalamnya bocor"
++],
++[
++"صِمَامُ الْإِطَارِ",
++"ṣimāmul-iṭār",
++"pentil ban",
++"Sasis dan rem",
++"صِمَامُ الْإِطَارِ يَتَسَرَّبُ",
++"Pentil bannya bocor"
++],
++[
++"عُمْقُ النَّقْشِ",
++"‘umqun-naqsy",
++"kedalaman alur ban",
++"Sasis dan rem",
++"عُمْقُ النَّقْشِ قَلِيلٌ",
++"Alur bannya tipis"
++],
++[
++"ضَغْطُ الْهَوَاءِ",
++"ḍaghṭul-hawā’",
++"tekanan angin",
++"Sasis dan rem",
++"ضَغْطُ الْهَوَاءِ مُنَاسِبٌ",
++"Tekanan anginnya pas"
++],
++[
++"رَقْعَةُ الْإِطَارِ",
++"raq‘atul-iṭār",
++"tambalan ban",
++"Sasis dan rem",
++"أَضَعُ رَقْعَةً عَلَى الْإِطَارِ",
++"Saya menempel tambalan pada ban"
++],
++[
++"مِضْخَّةُ الْهَوَاءِ",
++"miḍakhkhatul-hawā’",
++"pompa angin",
++"Sasis dan rem",
++"مِضْخَّةُ الْهَوَاءِ يَدَوِيَّةٌ",
++"Pompa anginnya manual"
++],
++[
++"فَرْمَلَةُ الْقُرْصِ",
++"farmalatul-qurṣ",
++"rem cakram",
++"Sasis dan rem",
++"فَرْمَلَةُ الْقُرْصِ أَقْوَى",
++"Rem cakram lebih pakem"
++],
++[
++"فَرْمَلَةُ الطَّبْلَةِ",
++"farmalatuṭ-ṭablah",
++"rem tromol",
++"Sasis dan rem",
++"فَرْمَلَةُ الطَّبْلَةِ لِلْعَجَلَةِ الْخَلْفِيَّةِ",
++"Rem tromol untuk roda belakang"
++],
++[
++"وِسَادَةُ الْفَرْمَلَةِ",
++"wisādatul-farmalah",
++"kampas rem",
++"Sasis dan rem",
++"وِسَادَةُ الْفَرْمَلَةِ رَقِيقَةٌ",
++"Kampas remnya tipis"
++],
++[
++"سَائِلُ الْفَرَامِلِ",
++"sā’ilul-farāmil",
++"minyak rem",
++"Sasis dan rem",
++"سَائِلُ الْفَرَامِلِ قَلِيلٌ",
++"Minyak remnya kurang"
++],
++[
++"أُسْطُوَانَةُ الْفَرْمَلَةِ",
++"usṭuwānatul-farmalah",
++"master rem",
++"Sasis dan rem",
++"أُسْطُوَانَةُ الْفَرْمَلَةِ تَسْرِبُ",
++"Master remnya bocor"
++],
++[
++"خُرْطُومُ الْفَرْمَلَةِ",
++"khurṭūmul-farmalah",
++"selang rem",
++"Sasis dan rem",
++"خُرْطُومُ الْفَرْمَلَةِ مُتَشَقِّقٌ",
++"Selang remnya retak"
++],
++[
++"رَافِعَةُ الْفَرْمَلَةِ",
++"rāfi‘atul-farmalah",
++"handel rem",
++"Sasis dan rem",
++"رَافِعَةُ الْفَرْمَلَةِ لَيِّنَةٌ",
++"Handel remnya empuk"
++],
++[
++"مَسَافَةُ الْفَرْمَلَةِ",
++"masāfatul-farmalah",
++"jarak pengereman",
++"Sasis dan rem",
++"مَسَافَةُ الْفَرْمَلَةِ طَوِيلَةٌ",
++"Jarak pengeremannya jauh"
++],
++[
++"فَرْمَلَةٌ مُضَادَّةٌ لِلِانْزِلَاقِ",
++"farmalah muḍāddah lil-inzilāq",
++"rem anti-selip (ABS)",
++"Sasis dan rem",
++"الدَّرَّاجَةُ بِفَرْمَلَةٍ مُضَادَّةٍ لِلِانْزِلَاقِ",
++"Motornya berrem ABS"
++],
++[
++"حِذَاءُ الْفَرْمَلَةِ",
++"ḥiżā’ul-farmalah",
++"sepatu rem",
++"Sasis dan rem",
++"حِذَاءُ الْفَرْمَلَةِ مَلْبُوسٌ",
++"Sepatu remnya aus"
++],
++[
++"بِدَالُ الْفَرْمَلَةِ",
++"bidālul-farmalah",
++"pedal rem",
++"Sasis dan rem",
++"بِدَالُ الْفَرْمَلَةِ مُرْتَفِعٌ",
++"Pedal remnya tinggi"
++],
++[
++"قَاعِدَةُ الدَّرَّاجَةِ",
++"qā‘idatud-darrājah",
++"standar motor",
++"Sasis dan rem",
++"أُنْزِلُ قَاعِدَةَ الدَّرَّاجَةِ",
++"Saya menurunkan standar motor"
++],
++[
++"حَاجِزُ الطِّينِ",
++"ḥājizuṭ-ṭīn",
++"spakbor",
++"Sasis dan rem",
++"حَاجِزُ الطِّينِ مَكْسُورٌ",
++"Spakbornya patah"
++],
++[
++"غِطَاءُ السِّلْسِلَةِ",
++"ghiṭā’us-silsilah",
++"penutup rantai",
++"Sasis dan rem",
++"غِطَاءُ السِّلْسِلَةِ مَفْقُودٌ",
++"Penutup rantainya hilang"
++],
++[
++"صُنْدُوقُ السِّلْسِلَةِ",
++"ṣundūqus-silsilah",
++"bak rantai",
++"Sasis dan rem",
++"صُنْدُوقُ السِّلْسِلَةِ مُغْلَقٌ",
++"Bak rantainya tertutup"
++],
++[
++"خِدْمَةٌ شَامِلَةٌ",
++"khidmah syāmilah",
++"servis lengkap",
++"Servis berkala",
++"أَطْلُبُ خِدْمَةً شَامِلَةً",
++"Saya minta servis lengkap"
++],
++[
++"تَغْيِيرُ زَيْتِ الشُّوكَةِ",
++"taghyīru zaytisy-syūkah",
++"penggantian oli garpu",
++"Servis berkala",
++"تَغْيِيرُ زَيْتِ الشُّوكَةِ كُلَّ سَنَتَيْنِ",
++"Ganti oli garpu tiap dua tahun"
++],
++[
++"تَغْيِيرُ سَائِلِ الْفَرَامِلِ",
++"taghyīru sā’ilil-farāmil",
++"penggantian minyak rem",
++"Servis berkala",
++"تَغْيِيرُ سَائِلِ الْفَرَامِلِ ضَرُورِيٌّ",
++"Mengganti minyak rem itu perlu"
++],
++[
++"تَغْيِيرُ وِسَادَةِ الْفَرْمَلَةِ",
++"taghyīru wisādatil-farmalah",
++"penggantian kampas rem",
++"Servis berkala",
++"تَغْيِيرُ وِسَادَةِ الْفَرْمَلَةِ سَرِيعٌ",
++"Ganti kampas rem itu cepat"
++],
++[
++"تَغْيِيرُ الْحِزَامِ",
++"taghyīrul-ḥizām",
++"penggantian sabuk CVT",
++"Servis berkala",
++"تَغْيِيرُ الْحِزَامِ بَعْدَ عِدَّةِ آلَافٍ",
++"Ganti sabuk CVT setelah beberapa ribu kilometer"
++],
++[
++"تَنْظِيفُ الْمُحَرِّكِ",
++"tanẓīful-muḥarrik",
++"pembersihan mesin",
++"Servis berkala",
++"أَقُومُ بِتَنْظِيفِ الْمُحَرِّكِ",
++"Saya membersihkan mesin"
++],
++[
++"فَحْصُ الْبَطَّارِيَّةِ",
++"faḥṣul-baṭṭāriyyah",
++"pemeriksaan aki",
++"Servis berkala",
++"فَحْصُ الْبَطَّارِيَّةِ مَجَّانِيٌّ",
++"Pemeriksaan aki gratis"
++],
++[
++"فَحْصُ الْفَرَامِلِ",
++"faḥṣul-farāmil",
++"pemeriksaan rem",
++"Servis berkala",
++"فَحْصُ الْفَرَامِلِ قَبْلَ السَّفَرِ",
++"Periksa rem sebelum bepergian"
++],
++[
++"شَدُّ الْمَسَامِيرِ",
++"syaddul-masāmīr",
++"pengencangan baut",
++"Servis berkala",
++"شَدُّ الْمَسَامِيرِ بِالْمِفْتَاحِ",
++"Mengencangkan baut dengan kunci"
++],
++[
++"غَسْلُ الدَّرَّاجَةِ",
++"ghaslud-darrājah",
++"mencuci motor",
++"Servis berkala",
++"غَسْلُ الدَّرَّاجَةِ كُلَّ أُسْبُوعٍ",
++"Cuci motor tiap minggu"
++],
++[
++"تَزْيِيتٌ",
++"tazyīt",
++"pelumasan (oli)",
++"Servis berkala",
++"التَّزْيِيتُ يُطِيلُ الْعُمْرَ",
++"Pelumasan memperpanjang umur"
++],
++[
++"بَعْدَ كَمْ كِيلُومِتْرًا؟",
++"ba‘da kam kīlūmitran?",
++"setelah berapa kilometer?",
++"Servis berkala",
++"بَعْدَ كَمْ كِيلُومِتْرًا أُغَيِّرُ الزَّيْتَ؟",
++"Setelah berapa kilometer saya ganti oli?"
++],
++[
++"كِيلُومِتْر",
++"kīlūmitr",
++"kilometer",
++"Servis berkala",
++"قَطَعْتُ عَشَرَةَ آلَافِ كِيلُومِتْرٍ",
++"Saya sudah menempuh sepuluh ribu kilometer"
++],
++[
++"لِتْر",
++"litr",
++"liter",
++"Servis berkala",
++"الْخَزَّانُ خَمْسَةُ لِتْرَاتٍ",
++"Tangkinya lima liter"
++],
++[
++"صَوْتُ طَقْطَقَةٍ",
++"ṣawtu ṭaqṭaqah",
++"suara ketukan kecil",
++"Diagnosis kerusakan",
++"هُنَاكَ صَوْتُ طَقْطَقَةٍ فِي الْمُحَرِّكِ",
++"Ada suara ketukan di mesin"
++],
++[
++"صَوْتُ احْتِكَاكٍ",
++"ṣawtu iḥtikāk",
++"suara gesekan",
++"Diagnosis kerusakan",
++"أَسْمَعُ صَوْتَ احْتِكَاكٍ",
++"Saya mendengar suara gesekan"
++],
++[
++"صَوْتُ صَفِيرٍ",
++"ṣawtu ṣafīr",
++"suara berdecit / siulan",
++"Diagnosis kerusakan",
++"صَوْتُ صَفِيرٍ مِنَ الْفَرَامِلِ",
++"Ada decitan dari rem"
++],
++[
++"تَسَرُّبُ الْهَوَاءِ",
++"tasarrubul-hawā’",
++"kebocoran udara",
++"Diagnosis kerusakan",
++"تَسَرُّبُ الْهَوَاءِ مِنَ الْإِطَارِ",
++"Udara bocor dari ban"
++],
++[
++"ضَعْفُ الْقُوَّةِ",
++"ḍa‘ful-quwwah",
++"tenaga lemah",
++"Diagnosis kerusakan",
++"ضَعْفُ الْقُوَّةِ فِي الصُّعُودِ",
++"Tenaga lemah saat menanjak"
++],
++[
++"تَأَخُّرُ التَّشْغِيلِ",
++"ta’akhkhurut-tasyghīl",
++"susah hidup",
++"Diagnosis kerusakan",
++"تَأَخُّرُ التَّشْغِيلِ فِي الصَّبَاحِ",
++"Susah hidup di pagi hari"
++],
++[
++"تَوَقُّفُ الْمُحَرِّكِ",
++"tawaqqufu-muḥarrik",
++"mesin mati",
++"Diagnosis kerusakan",
++"تَوَقُّفُ الْمُحَرِّكِ عِنْدَ الْإِشَارَةِ",
++"Mesin mati di lampu merah"
++],
++[
++"دُخَانٌ أَزْرَقُ",
++"dukhānun azraq",
++"asap biru",
++"Diagnosis kerusakan",
++"الدُّخَانُ الْأَزْرَقُ يَعْنِي زَيْتًا",
++"Asap biru berarti oli terbakar"
++],
++[
++"اِنْزِلَاقُ الْحِزَامِ",
++"inzilāqul-ḥizām",
++"sabuk CVT selip",
++"Diagnosis kerusakan",
++"اِنْزِلَاقُ الْحِزَامِ يُبْطِئُ التَّسَارُعَ",
++"Sabuk selip memperlambat akselerasi"
++],
++[
++"صُعُوبَةُ تَبْدِيلِ السُّرْعَةِ",
++"ṣu‘ūbatu tabdīlis-sur‘ah",
++"gigi susah masuk",
++"Diagnosis kerusakan",
++"صُعُوبَةُ تَبْدِيلِ السُّرْعَةِ مُزْعِجَةٌ",
++"Gigi yang susah masuk itu mengganggu"
++],
++[
++"لَا تَدُورُ",
++"lā tadūr",
++"tidak berputar",
++"Diagnosis kerusakan",
++"الْعَجَلَةُ لَا تَدُورُ",
++"Rodanya tidak berputar"
++],
++[
++"تَحْتَاجُ إِلَى تَنْظِيفٍ",
++"taḥtāju ilā tanẓīf",
++"perlu dibersihkan",
++"Diagnosis kerusakan",
++"الْمُحَرِّكُ يَحْتَاجُ إِلَى تَنْظِيفٍ",
++"Mesin perlu dibersihkan"
++],
++[
++"سَبَبُ الْعُطْلِ",
++"sababul-‘uṭl",
++"penyebab kerusakan",
++"Diagnosis kerusakan",
++"مَا سَبَبُ الْعُطْلِ؟",
++"Apa penyebab kerusakannya?"
++],
++[
++"إِصْلَاحٌ مُؤَقَّتٌ",
++"iṣlāḥun mu’aqqat",
++"perbaikan sementara",
++"Diagnosis kerusakan",
++"هٰذَا إِصْلَاحٌ مُؤَقَّتٌ",
++"Ini perbaikan sementara"
++],
++[
++"إِصْلَاحٌ دَائِمٌ",
++"iṣlāḥun dā’im",
++"perbaikan permanen",
++"Diagnosis kerusakan",
++"نُرِيدُ إِصْلَاحًا دَائِمًا",
++"Kami ingin perbaikan permanen"
++],
++[
++"اِخْتِبَارُ الضَّغْطِ",
++"ikhtibāruḍ-ḍaghṭ",
++"uji kompresi",
++"Diagnosis kerusakan",
++"نُجْرِي اخْتِبَارَ الضَّغْطِ",
++"Kami melakukan uji kompresi"
++],
++[
++"اِخْتِبَارُ التَّسَرُّبِ",
++"ikhtibārut-tasarrub",
++"uji kebocoran",
++"Diagnosis kerusakan",
++"اِخْتِبَارُ التَّسَرُّبِ بِالْمَاءِ",
++"Uji kebocoran dengan air"
++],
++[
++"مِفْتَاحُ الصَّوَامِيلِ",
++"miftāḥuṣ-ṣawāmīl",
++"kunci pas ring",
++"Alat bengkel",
++"مِفْتَاحُ الصَّوَامِيلِ مُنَاسِبٌ",
++"Kunci ring-nya cocok"
++],
++[
++"مِفْتَاحُ الْإِطَارَاتِ",
++"miftāḥul-iṭārāt",
++"kunci roda",
++"Alat bengkel",
++"أَفُكُّ الْعَجَلَةَ بِمِفْتَاحِ الْإِطَارَاتِ",
++"Saya melepas roda dengan kunci roda"
++],
++[
++"مِفَكُّ الشَّمْعَةِ",
++"mifakkusy-syam‘ah",
++"kunci busi (istilah lain)",
++"Alat bengkel",
++"أَفُكُّ الشَّمْعَةَ بِالْمِفَكِّ",
++"Saya melepas busi dengan kunci busi"
++],
++[
++"مُقَيِّسُ الْفَجْوَةِ",
++"muqayyisul-fajwah",
++"feeler gauge",
++"Alat bengkel",
++"أَقِيسُ بِمُقَيِّسِ الْفَجْوَةِ",
++"Saya mengukur dengan feeler gauge"
++],
++[
++"مِقْيَاسُ الْقُطْرِ",
++"miqyāsul-quṭr",
++"jangka sorong",
++"Alat bengkel",
++"أُقِيسُ الْقُطْرَ بِالْمِقْيَاسِ",
++"Saya mengukur diameter dengan jangka sorong"
++],
++[
++"مُقَيِّسُ الضَّغْطِ",
++"muqayyisuḍ-ḍaghṭ",
++"alat uji kompresi / manometer",
++"Alat bengkel",
++"مُقَيِّسُ الضَّغْطِ دَقِيقٌ",
++"Manometernya akurat"
++],
++[
++"مِحْقَنُ الشَّحْمِ",
++"miḥqanusy-syaḥm",
++"pompa gemuk",
++"Alat bengkel",
++"مِحْقَنُ الشَّحْمِ مَمْلُوءٌ",
++"Pompa gemuknya penuh"
++],
++[
++"شَحْم",
++"syaḥm",
++"gemuk (grease)",
++"Alat bengkel",
++"أَضَعُ شَحْمًا عَلَى السِّلْسِلَةِ",
++"Saya memberi gemuk pada rantai"
++],
++[
++"مِلْقَطُ الْحَلَقَاتِ",
++"milqaṭul-ḥalaqāt",
++"tang snap ring",
++"Alat bengkel",
++"مِلْقَطُ الْحَلَقَاتِ صَغِيرٌ",
++"Tang snap ring-nya kecil"
++],
++[
++"مَسْحَبُ الْمَحْمِلِ",
++"masḥabul-maḥmil",
++"alat pencabut bearing",
++"Alat bengkel",
++"أَسْتَخْدِمُ مَسْحَبَ الْمَحْمِلِ",
++"Saya memakai alat pencabut bearing"
++],
++[
++"مَحْمِل",
++"maḥmil",
++"bantalan (bearing)",
++"Alat bengkel",
++"الْمَحْمِلُ يُصْدِرُ ضَجِيجًا",
++"Bearingnya berisik"
++],
++[
++"رُمَّانَةُ بِلْيَة",
++"rummānatu bilyah",
++"bola bearing",
++"Alat bengkel",
++"رُمَّانَةُ الْبِلْيَةِ مَكْسُورَةٌ",
++"Bola bearingnya pecah"
++],
++[
++"مِنْظَفُ الشَّمْعَةِ",
++"minẓafusy-syam‘ah",
++"pembersih busi",
++"Alat bengkel",
++"أَسْتَخْدِمُ مِنْظَفَ الشَّمْعَةِ",
++"Saya memakai pembersih busi"
++],
++[
++"مَعْمَلُ الْبَنْشَرِ",
++"ma‘malul-banysyar",
++"tempat tambal ban",
++"Alat bengkel",
++"أَذْهَبُ إِلَى مَعْمَلِ الْبَنْشَرِ",
++"Saya pergi ke tempat tambal ban"
++],
++[
++"مِفَكُّ الْعَزْمِ",
++"mifakkul-‘azm",
++"obeng torsi",
++"Alat bengkel",
++"مِفَكُّ الْعَزْمِ دَقِيقٌ",
++"Obeng torsinya presisi"
++],
++[
++"مِصْبَاحُ الْيَدِ",
++"miṣbāḥul-yad",
++"senter",
++"Alat bengkel",
++"أُضِيءُ بِمِصْبَاحِ الْيَدِ",
++"Saya menerangi dengan senter"
++],
++[
++"اِرْتَدِ الْقُفَّازَاتِ",
++"irtadil-quffāzāt",
++"pakai sarung tangannya",
++"K3 bengkel",
++"",
++""
++],
++[
++"اِرْتَدِ نَظَّارَةَ الْأَمَانِ",
++"irtadi naẓẓāratal-amān",
++"pakai kacamata pengaman",
++"K3 bengkel",
++"",
++""
++],
++[
++"تَهْوِيَةٌ جَيِّدَةٌ",
++"tahwiyah jayyidah",
++"ventilasi yang baik",
++"K3 bengkel",
++"الْوَرْشَةُ فِيهَا تَهْوِيَةٌ جَيِّدَةٌ",
++"Bengkelnya berventilasi baik"
++],
++[
++"تَسَرُّبُ الْبَنْزِينِ",
++"tasarrubul-banzīn",
++"tumpahan bensin",
++"K3 bengkel",
++"تَسَرُّبُ الْبَنْزِينِ خَطِيرٌ",
++"Tumpahan bensin itu berbahaya"
++],
++[
++"حَرِيق",
++"ḥarīq",
++"kebakaran",
++"K3 bengkel",
++"الْحَرِيقُ سَرِيعُ الِانْتِشَارِ",
++"Kebakaran cepat menyebar"
++],
++[
++"نَظَافَةُ الْأَرْضِيَّةِ",
++"naẓāfatul-arḍiyyah",
++"kebersihan lantai",
++"K3 bengkel",
++"نَظَافَةُ الْأَرْضِيَّةِ تَمْنَعُ الِانْزِلَاقَ",
++"Lantai bersih mencegah terpeleset"
++],
++[
++"اِنْزِلَاق",
++"inzilāq",
++"terpeleset",
++"K3 bengkel",
++"احْذَرْ مِنَ الِانْزِلَاقِ",
++"Hati-hati terpeleset"
++],
++[
++"بُقْعَةُ زَيْتٍ",
++"buq‘atu zayt",
++"bercak oli",
++"K3 bengkel",
++"بُقْعَةُ الزَّيْتِ عَلَى الْأَرْضِ",
++"Ada bercak oli di lantai"
++],
++[
++"تَخَلُّصٌ آمِنٌ",
++"takhalluṣun āmin",
++"pembuangan aman",
++"K3 bengkel",
++"التَّخَلُّصُ الْآمِنُ مِنَ الزَّيْتِ الْمُسْتَعْمَلِ",
++"Pembuangan aman oli bekas"
++],
++[
++"زَيْتٌ مُسْتَعْمَلٌ",
++"zaytun musta‘mal",
++"oli bekas",
++"K3 bengkel",
++"نَجْمَعُ الزَّيْتَ الْمُسْتَعْمَلَ",
++"Kami mengumpulkan oli bekas"
++],
++[
++"هَلْ تُرِيدُ خِدْمَةً كَامِلَةً؟",
++"hal turīdu khidmatan kāmilah?",
++"mau servis lengkap?",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"مَتَى غَيَّرْتَ الزَّيْتَ آخِرَ مَرَّةٍ؟",
++"matā ghayyartaz-zayta ākhira marrah?",
++"kapan terakhir ganti oli?",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"مَا الْمُشْكِلَةُ فِي دَرَّاجَتِكَ؟",
++"mal-musykilatu fī darrājatik?",
++"apa masalah motor Anda?",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"هَلِ الْمُحَرِّكُ يُصْدِرُ صَوْتًا غَرِيبًا؟",
++"halil-muḥarriku yuṣdiru ṣawtan gharībā?",
++"apakah mesinnya bersuara aneh?",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"هَلْ تَسْتَعْمِلُ الدَّرَّاجَةَ كُلَّ يَوْمٍ؟",
++"hal tasta‘milud-darrājata kulla yawm?",
++"apakah motornya dipakai tiap hari?",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"سَنَفْحَصُهَا ثُمَّ نُخْبِرُكَ",
++"sanafḥaṣuhā ṡumma nukhbiruk",
++"kami periksa dulu lalu kami kabari",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"التَّكْلِفَةُ تَقْرِيبًا مِئَةُ أَلْفٍ",
++"at-taklifatu taqrīban mi’atu alf",
++"biayanya sekitar seratus ribu",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"هَلْ تُوَافِقُ عَلَى الْإِصْلَاحِ؟",
++"hal tuwāfiqu ‘alal-iṣlāḥ?",
++"apakah Anda setuju dengan perbaikannya?",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"سَتَكُونُ جَاهِزَةً بَعْدَ سَاعَةٍ",
++"satakūnu jāhizatan ba‘da sā‘ah",
++"akan siap satu jam lagi",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"اِسْتَبْدَلْنَا الْقِطْعَةَ التَّالِفَةَ",
++"istabdalnal-qiṭ‘atat-tālifah",
++"kami sudah mengganti komponen yang rusak",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"هَلْ تُرِيدُ الْقِطْعَةَ الْقَدِيمَةَ؟",
++"hal turīdul-qiṭ‘atal-qadīmah?",
++"mau bawa komponen lamanya?",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"اِحْتَفِظْ بِالْفَاتُورَةِ لِلضَّمَانِ",
++"iḥtafiẓ bil-fātūrati liḍ-ḍamān",
++"simpan fakturnya untuk garansi",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"نَنْصَحُكَ بِفَحْصٍ دَوْرِيٍّ",
++"nanṣaḥuka bifaḥṣin dawriyy",
++"kami sarankan pemeriksaan berkala",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"قُدْ بِحَذَرٍ",
++"qud bi-ḥażar",
++"berkendaralah dengan hati-hati",
++"Percakapan pelanggan",
++"",
++""
++],
++[
++"اِرْفَعِ الدَّرَّاجَةَ عَلَى الْقَاعِدَةِ",
++"irfa‘id-darrājata ‘alal-qā‘idah",
++"naikkan motor ke standar",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِفْتَحْ غِطَاءَ الْمُحَرِّكِ",
++"iftaḥ ghiṭā’al-muḥarrik",
++"buka penutup mesin",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِسْكُبِ الزَّيْتَ الْقَدِيمَ",
++"iskubiz-zaytal-qadīm",
++"tuang oli lamanya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَضِفِ الزَّيْتَ الْجَدِيدَ",
++"aḍifiz-zaytal-jadīd",
++"tambahkan oli baru",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَدِرِ الْمُحَرِّكَ دَقِيقَةً",
++"adiril-muḥarrika daqīqah",
++"hidupkan mesin satu menit",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِسْتَمِعْ إِلَى صَوْتِ الْمُحَرِّكِ",
++"istami‘ ilā ṣawtil-muḥarrik",
++"dengarkan suara mesinnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِضْبِطِ الْفَجْوَةَ",
++"iḍbiṭil-fajwah",
++"setel celahnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"شُدَّ الْمَسَامِيرَ بِالْعَزْمِ الصَّحِيحِ",
++"syudda al-masāmīra bil-‘azmiṣ-ṣaḥīḥ",
++"kencangkan baut dengan torsi yang tepat",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"نَظِّفِ الْمُرَشِّحَ بِالْهَوَاءِ",
++"naẓẓifil-murasysyiḥa bil-hawā’",
++"bersihkan saringan dengan udara",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"بَدِّلِ الْوِسَادَةَ الْمَلْبُوسَةَ",
++"baddilil-wisādatal-malbūsah",
++"ganti kampas yang aus",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اُنْفُخِ الْإِطَارَ إِلَى الضَّغْطِ الْمُنَاسِبِ",
++"unfukhil-iṭāra ilaḍ-ḍaghṭil-munāsib",
++"isi ban sampai tekanan yang pas",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"جَرِّبِ الدَّرَّاجَةَ فِي الشَّارِعِ",
++"jarribid-darrājata fisy-syāri‘",
++"coba motornya di jalan",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"لَا تَتْرُكِ الْمُحَرِّكَ يَعْمَلُ بِلَا زَيْتٍ",
++"lā tatrukil-muḥarrika ya‘malu bilā zayt",
++"jangan biarkan mesin menyala tanpa oli",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"اِحْمِلِ الْقِطْعَةَ بِحَذَرٍ",
++"iḥmilil-qiṭ‘ata bi-ḥażar",
++"angkat komponennya dengan hati-hati",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"أَعِدِ الْأَدَوَاتِ إِلَى أَمَاكِنِهَا",
++"a‘idil-adawāti ilā amākinihā",
++"kembalikan perkakas ke tempatnya",
++"Ungkapan kerja",
++"",
++""
++],
++[
++"دَرَّاجَةٌ بِطَرِيقِ الْغُبَارِ",
++"darrājah biṭarīqil-ghubār",
++"motor trail",
++"Dasar sepeda motor",
++"أَرْكَبُ دَرَّاجَةً لِلْوُعُورِ",
++"Saya naik motor untuk medan berat"
++],
++[
++"دَرَّاجَةٌ اقْتِصَادِيَّةٌ",
++"darrājah iqtiṣādiyyah",
++"motor bebek (irit)",
++"Dasar sepeda motor",
++"الدَّرَّاجَةُ الِاقْتِصَادِيَّةُ مُنَاسِبَةٌ لِلْمَدْرَسَةِ",
++"Motor bebek cocok untuk ke sekolah"
++],
++[
++"دَرَّاجَةُ التَّوْصِيلِ",
++"darrājatut-tawṣīl",
++"motor pengantar",
++"Dasar sepeda motor",
++"دَرَّاجَةُ التَّوْصِيلِ سَرِيعَةٌ",
++"Motor pengantar itu cepat"
++],
++[
++"لَوْحَةُ الْعَدَّادَاتِ",
++"lawḥatul-‘addādāt",
++"panel instrumen",
++"Dasar sepeda motor",
++"لَوْحَةُ الْعَدَّادَاتِ وَاضِحَةٌ",
++"Panel instrumennya jelas"
++],
++[
++"مِقْبَضُ الْمُسَرِّعِ",
++"miqbaḍul-musarri‘",
++"handel gas (grip)",
++"Dasar sepeda motor",
++"مِقْبَضُ الْمُسَرِّعِ لَيِّنٌ",
++"Handel gasnya ringan"
++],
++[
++"مِقْبَضُ الْمِقْوَدِ",
++"miqbaḍul-miqwad",
++"grip setang",
++"Dasar sepeda motor",
++"مِقْبَضُ الْمِقْوَدِ مَطَّاطِيٌّ",
++"Grip setangnya dari karet"
++],
++[
++"مِرْآةُ الدَّرَّاجَةِ",
++"mir’ātud-darrājah",
++"spion motor",
++"Dasar sepeda motor",
++"أُعَدِّلُ مِرْآةَ الدَّرَّاجَةِ",
++"Saya menyetel spion motor"
++],
++[
++"غِطَاءُ الْمُحَرِّكِ",
++"ghiṭā’ul-muḥarrik",
++"penutup mesin",
++"Dasar sepeda motor",
++"غِطَاءُ الْمُحَرِّكِ مَكْسُورٌ",
++"Penutup mesinnya patah"
++],
++[
++"بَدَنُ الدَّرَّاجَةِ",
++"badanud-darrājah",
++"bodi motor",
++"Dasar sepeda motor",
++"بَدَنُ الدَّرَّاجَةِ لَامِعٌ",
++"Bodi motornya mengilap"
++],
++[
++"مَسْنَدُ الظَّهْرِ",
++"masnaduẓ-ẓahr",
++"sandaran punggung",
++"Dasar sepeda motor",
++"مَسْنَدُ الظَّهْرِ لِلرَّاكِبِ الْخَلْفِيِّ",
++"Sandaran punggung untuk pembonceng"
++],
++[
++"مِلْحَقَاتُ الدَّرَّاجَةِ",
++"milḥaqātud-darrājah",
++"aksesori motor",
++"Dasar sepeda motor",
++"أَشْتَرِي مِلْحَقَاتِ الدَّرَّاجَةِ",
++"Saya membeli aksesori motor"
++],
++[
++"لَوْحَةُ التَّسْجِيلِ",
++"lawḥatut-tasjīl",
++"pelat nomor",
++"Dasar sepeda motor",
++"لَوْحَةُ التَّسْجِيلِ وَاضِحَةٌ",
++"Pelat nomornya jelas"
++],
++[
++"شَهَادَةُ التَّسْجِيلِ",
++"syahādatut-tasjīl",
++"surat kendaraan (STNK)",
++"Dasar sepeda motor",
++"شَهَادَةُ التَّسْجِيلِ فِي الْمِحْفَظَةِ",
++"STNK ada di dompet"
++],
++[
++"خُوذَةٌ كَامِلَةٌ",
++"khūżah kāmilah",
++"helm full-face",
++"Dasar sepeda motor",
++"الْخُوذَةُ الْكَامِلَةُ أَكْثَرُ أَمَانًا",
++"Helm full-face lebih aman"
++],
++[
++"قُفَّازَاتُ الْقِيَادَةِ",
++"quffāzātul-qiyādah",
++"sarung tangan berkendara",
++"Dasar sepeda motor",
++"قُفَّازَاتُ الْقِيَادَةِ تَحْمِي الْيَدَيْنِ",
++"Sarung tangan berkendara melindungi tangan"
++],
++[
++"مِعْطَفُ الْمَطَرِ",
++"mi‘ṭaful-maṭar",
++"jas hujan",
++"Dasar sepeda motor",
++"أَلْبَسُ مِعْطَفَ الْمَطَرِ",
++"Saya memakai jas hujan"
++],
++[
++"قِيَادَةٌ آمِنَةٌ",
++"qiyādah āminah",
++"berkendara aman",
++"Dasar sepeda motor",
++"الْقِيَادَةُ الْآمِنَةُ مَسْؤُولِيَّتُنَا",
++"Berkendara aman adalah tanggung jawab kita"
++],
++[
++"إِشَارَةُ الْمُرُورِ",
++"isyāratul-murūr",
++"lampu lalu lintas",
++"Dasar sepeda motor",
++"أَقِفُ عِنْدَ إِشَارَةِ الْمُرُورِ",
++"Saya berhenti di lampu lalu lintas"
++],
++[
++"سُرْعَةٌ قُصْوَى",
++"sur‘ah quṣwā",
++"kecepatan maksimum",
++"Dasar sepeda motor",
++"السُّرْعَةُ الْقُصْوَى سِتُّونَ",
++"Kecepatan maksimumnya enam puluh"
++],
++[
++"مَسَافَةُ الْأَمَانِ",
++"masāfatul-amān",
++"jarak aman",
++"Dasar sepeda motor",
++"أُحَافِظُ عَلَى مَسَافَةِ الْأَمَانِ",
++"Saya menjaga jarak aman"
++],
++[
++"صِيَانَةُ مَوْسِمِ الْمَطَرِ",
++"ṣiyānatu mawsimil-maṭar",
++"perawatan musim hujan",
++"Perawatan tambahan",
++"صِيَانَةُ مَوْسِمِ الْمَطَرِ مُهِمَّةٌ",
++"Perawatan musim hujan itu penting"
++],
++[
++"حِمَايَةٌ مِنَ الصَّدَأِ",
++"ḥimāyah minaṣ-ṣada’",
++"perlindungan dari karat",
++"Perawatan tambahan",
++"نَضَعُ حِمَايَةً مِنَ الصَّدَأِ",
++"Kami memberi perlindungan dari karat"
++],
++[
++"تَلْمِيعُ الْبَدَنِ",
++"talmī‘ul-badan",
++"memoles bodi",
++"Perawatan tambahan",
++"تَلْمِيعُ الْبَدَنِ يُعِيدُ اللَّمَعَانَ",
++"Memoles bodi mengembalikan kilap"
++],
++[
++"مُنَظِّفُ السِّلْسِلَةِ",
++"munaẓẓifus-silsilah",
++"pembersih rantai",
++"Perawatan tambahan",
++"أَسْتَخْدِمُ مُنَظِّفَ السِّلْسِلَةِ",
++"Saya memakai pembersih rantai"
++],
++[
++"فَرْشَاةُ التَّنْظِيفِ",
++"farsyātut-tanẓīf",
++"sikat pembersih",
++"Perawatan tambahan",
++"أَفْرُكُ بِالْفَرْشَاةِ",
++"Saya menyikat dengan sikat pembersih"
++],
++[
++"سِجِلُّ الصِّيَانَةِ",
++"sijillus-ṣiyānah",
++"catatan perawatan",
++"Perawatan tambahan",
++"سِجِلُّ الصِّيَانَةِ مُحَدَّثٌ",
++"Catatan perawatannya terbarui"
++],
++[
++"مُدَّةُ الضَّمَانِ",
++"muddatuḍ-ḍamān",
++"masa garansi",
++"Perawatan tambahan",
++"مُدَّةُ الضَّمَانِ سَنَتَانِ",
++"Masa garansinya dua tahun"
++],
++[
++"تَأْمِينُ الدَّرَّاجَةِ",
++"ta’mīnud-darrājah",
++"asuransi motor",
++"Perawatan tambahan",
++"تَأْمِينُ الدَّرَّاجَةِ إِلْزَامِيٌّ",
++"Asuransi motor itu wajib"
++],
++[
++"حَاجِزُ الْجُهْدِ",
++"ḥājizul-juhd",
++"pelindung tegangan",
++"Kelistrikan",
++"حَاجِزُ الْجُهْدِ يَحْمِي الدَّائِرَةَ",
++"Pelindung tegangan menjaga rangkaian"
++],
++[
++"جُهْدُ الْبَطَّارِيَّةِ",
++"juhdul-baṭṭāriyyah",
++"tegangan aki",
++"Kelistrikan",
++"جُهْدُ الْبَطَّارِيَّةِ اثْنَا عَشَرَ فُولْتًا",
++"Tegangan aki dua belas volt"
++],
++[
++"تَفْرِيغُ الْبَطَّارِيَّةِ",
++"tafrīghul-baṭṭāriyyah",
++"aki habis (tekor)",
++"Kelistrikan",
++"تَفْرِيغُ الْبَطَّارِيَّةِ سَبَبُ التَّعَطُّلِ",
++"Aki tekor penyebab mogok"
++],
++[
++"إِضَاءَةُ الْقِيَادَةِ النَّهَارِيَّةِ",
++"iḍā’atul-qiyādatin-nahāriyyah",
++"lampu siang (DRL)",
++"Kelistrikan",
++"إِضَاءَةُ النَّهَارِ مُفِيدَةٌ",
++"Lampu siang itu berguna"
++],
++[
++"لُمْبَةُ إِل إِي دِي",
++"lumbatu il ī dī",
++"lampu LED",
++"Kelistrikan",
++"لُمْبَةُ إِل إِي دِي أَسْطَعُ",
++"Lampu LED lebih terang"
+ ]
+ ],
+ "Umum":[
+@@ -10843,10 +19003,5 @@
+ "tsm"
+ ]
+ ],
+-"_meta":{
+-"versi":"2.0",
+-"format":"[arab, latin, arti, kategori, contoh_arab, contoh_indonesia]",
+-"catatan":"Tambahkan entri baru di AKHIR daftar jurusan agar ID favorit dan progres tidak bergeser.",
+-"Mirip":"[arab1, latin1, arti1, arab2, latin2, arti2, tips, cakupan]"
+-}
++"_meta":{"versi": "2.1", "format": "[arab, latin, arti, kategori, contoh_arab, contoh_indonesia]", "catatan": "Tambahkan entri baru di AKHIR daftar jurusan agar ID favorit dan progres tidak bergeser.", "Mirip": "[arab1, latin1, arti1, arab2, latin2, arti2, tips, cakupan]"}
+ }
+\ No newline at end of file
+diff --git a/src/About.tsx b/src/About.tsx
+new file mode 100644
+index 0000000..9babf77
+--- /dev/null
++++ b/src/About.tsx
+@@ -0,0 +1,94 @@
++import { useEffect } from 'react'
++import type { CSSProperties } from 'react'
++import { MAJORS, MCOLOR, type Major } from './lib/core'
++import './about.css'
++
++interface Props {
++  /** Entries per major, derived from the loaded dataset so the page never shows stale numbers. */
++  counts: Map<Major, number> | null
++  onBack: () => void
++}
++
++const PICK = MAJORS.filter(m => m.key !== 'Umum')
++const style = (vars: Record<string, string | number>) => vars as CSSProperties
++
++const FEATURES = [
++  ['Kosakata per jurusan', 'Setiap kata dipilih dari pekerjaan nyata di jurusanmu, bukan dari topik umum.'],
++  ['Contoh kalimat kerja', 'Kalimat pendek yang bisa kamu ucapkan di kelas praktik, bengkel, kantor, atau saat magang.'],
++  ['Hati-hati, mirip', 'Pasangan kata yang gampang tertukar, supaya salah baca tidak jadi salah kerja.'],
++  ['Bagikan ke Story', 'Ubah satu kata menjadi kartu gambar untuk dibagikan dan diingat bersama teman.'],
++] as const
++
++export default function About({ counts, onBack }: Props) {
++  useEffect(() => { window.scrollTo({ top: 0 }) }, [])
++  const total = counts ? PICK.reduce((n, m) => n + (counts.get(m.key) ?? 0), 0) : null
++
++  return (
++    <main className="about">
++      <header className="about__bar">
++        <button type="button" className="btn" onClick={onBack} aria-label="Kembali">
++          <svg className="i" viewBox="0 0 24 24" aria-hidden fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5m6-6-6 6 6 6" /></svg>
++          Kembali
++        </button>
++      </header>
++
++      <article className="about__inner">
++        <section className="about__hero about__reveal" style={style({ '--i': 0 })}>
++          <p className="about__eyebrow">Tentang Lughati Vokasi</p>
++          <h1 className="about__title">Bahasa Arab yang akhirnya nyambung dengan jurusanmu<span>.</span></h1>
++          <p className="about__ar" lang="ar" dir="rtl">لُغَتِي فِي مِهْنَتِي</p>
++          <p className="about__gloss">“Bahasaku dalam profesiku”</p>
++        </section>
++
++        <section className="about__block about__reveal" style={style({ '--i': 1 })}>
++          <h2>Kenapa kamus ini ada</h2>
++          <p>Di SMK, kita belajar bahasa Arab dari buku pelajaran yang sama untuk semua jurusan. Isinya tentang sekolah, keluarga, dan percakapan sehari-hari. Itu penting, tetapi jarang menyentuh dunia yang sedang kita siapkan: baris kode, jurnal dan neraca, bodi mobil, atau mesin motor.</p>
++          <p>Akibatnya banyak dari kita merasa materinya tidak nyambung. “Ini nanti dipakai di mana?” Pertanyaan itu wajar, dan selama ini jarang ada yang menjawabnya.</p>
++          <p>Lughati Vokasi dibuat untuk menjawabnya. Setiap kata di sini diambil dari pekerjaan yang benar-benar kamu pelajari, supaya bahasa Arab terasa seperti bagian dari keahlianmu, bukan pelajaran yang berdiri sendiri.</p>
++        </section>
++
++        <section className="about__block about__reveal" style={style({ '--i': 2 })}>
++          <h2>Yang ada di dalamnya</h2>
++          <ul className="about__feats">
++            {FEATURES.map(([t, d]) => <li key={t}><b>{t}</b><span>{d}</span></li>)}
++          </ul>
++          <div className="about__majors" role="list" aria-label="Isi kamus per jurusan">
++            {PICK.map(m => (
++              <div role="listitem" key={m.key} className="about__major" style={style({ '--mc': MCOLOR[m.key] })}>
++                <i aria-hidden /><b>{m.key}</b>
++                <small>{counts ? `${counts.get(m.key) ?? 0} kata` : '…'}</small>
++              </div>
++            ))}
++          </div>
++          {total != null && <p className="about__total">Total {total} kata khusus jurusan, ditambah kosakata umum untuk dunia kerja.</p>}
++        </section>
++
++        <section className="about__block about__quote about__reveal" style={style({ '--i': 3 })}>
++          <h2>Pesan untukmu</h2>
++          <p>Kamu tidak sedang menambah beban pelajaran. Kamu sedang menambah satu bahasa untuk profesimu. Bahasa yang membuka buku panduan teknis, istilah perbankan syariah, peluang kerja yang lebih luas, dan percakapan dengan pelanggan yang beragam.</p>
++          <p>Tidak perlu langsung fasih. Satu kata sehari sudah cukup. Setelah sebulan, tiga puluh kata yang benar-benar kamu pakai lebih berharga daripada tiga ratus yang dihafal lalu lupa.</p>
++          <blockquote>
++            <span lang="ar" dir="rtl">مَنْ جَدَّ وَجَدَ</span>
++            <small>man jadda wajada · siapa bersungguh-sungguh, ia akan berhasil</small>
++          </blockquote>
++        </section>
++
++        <section className="about__block about__reveal" style={style({ '--i': 4 })}>
++          <h2>Cara mulai</h2>
++          <ol className="about__steps">
++            <li>Pilih jurusanmu, lalu buka <b>Kata hari ini</b>.</li>
++            <li>Baca contoh kalimatnya dan ucapkan dengan lantang.</li>
++            <li>Simpan yang paling berguna ke favorit, lalu pakai saat praktik atau magang.</li>
++          </ol>
++        </section>
++
++        <footer className="about__sign about__reveal" style={style({ '--i': 5 })}>
++          <p>Selamat belajar, dan tetap bangga dengan jalur vokasimu.</p>
++          <strong>Sultan Bagus Permadi</strong>
++          <span>SMK Muhammadiyah Pencongan</span>
++          <button type="button" className="btn solid" onClick={onBack}>Mulai belajar</button>
++        </footer>
++      </article>
++    </main>
++  )
++}
+diff --git a/src/App.tsx b/src/App.tsx
+index 6b5c940..12a2316 100644
+--- a/src/App.tsx
++++ b/src/App.tsx
+@@ -2,6 +2,7 @@ import { useEffect, useDeferredValue, useMemo, useRef, useState, type ReactNode
+ import Cover from './Cover'
+ import Onboard from './Onboard'
+ import Settings from './Settings'
++import About from './About'
+ import BrandLogo from './BrandLogo'
+ import { renderStory, STYLES } from './lib/share'
+ import { MCOLOR, AR_FONTS, DEFAULTS, ID_FONTS, MAJORS, dailyWord, norm, parseDataset, search, usePersisted, type Major, type Similar, type Word } from './lib/core'
+@@ -36,8 +37,10 @@ export default function App() {
+   const [prefs, setPrefs] = usePersisted('prefs', DEFAULTS)
+   const p = { ...DEFAULTS, ...prefs }
+   const [mine, setMine] = usePersisted<Major | 'all' | null>('mine', null)
+-  const [stage, setStage] = useState<'cover' | 'pick' | 'app'>('cover')
++  const [stage, setStage] = useState<'cover' | 'pick' | 'app' | 'about'>('cover')
+   const [topic, setTopic] = useState('all')
++  const [aboutFrom, setAboutFrom] = useState<'cover' | 'app'>('app')
++  const [aboutSeen, setAboutSeen] = usePersisted('aboutSeen', false)
+   const [favs, setFavs] = usePersisted<string[]>('favs', [])
+   const [recent, setRecent] = usePersisted<string[]>('recent', [])
+   const [data, setData] = useState<Data | null>(null)
+@@ -103,6 +106,7 @@ export default function App() {
+     return activeWords.length ? dailyWord(activeWords) : null
+   }, [data, activeWords])
+   const similar = sel && data ? data.similar.filter(s => (s.a1 === sel.ar || s.a2 === sel.ar) && (s.scope === 'all' || s.scope === sel.major || !s.scope)) : []
++  const counts = useMemo(() => { if (!data) return null; const m = new Map<Major, number>(); data.words.forEach(w => m.set(w.major, (m.get(w.major) ?? 0) + 1)); return m }, [data])
+   const coverWords = useMemo(() => (data ? data.words.filter((_, i) => i % 23 === 0).map(w => w.ar) : []), [data])
+ 
+   useEffect(() => setLim(60), [dq, major, scope, topic])
+@@ -125,9 +129,11 @@ export default function App() {
+     if (navigator.canShare?.({ files: [f] })) { try { await navigator.share({ files: [f], title: 'Lughati Vokasi', text: `${shareW.ar} = ${shareW.mean}` }) } catch (e) { if ((e as Error).name !== 'AbortError') download() } }
+     else download()
+   }
++  const openAbout = (from: 'cover' | 'app') => { setAboutFrom(from); setAboutSeen(true); setStage('about') }
+   const wc = (m: Major) => ({ '--mc': MCOLOR[m] } as React.CSSProperties)
+ 
+-  if (stage === 'cover') return <Cover words={coverWords} onStart={() => setStage(mine == null || mine === 'all' ? 'pick' : 'app')} />
++  if (stage === 'about') return <About counts={counts} onBack={() => setStage(aboutFrom)} />
++  if (stage === 'cover') return <Cover words={coverWords} onStart={() => setStage(mine == null || mine === 'all' ? 'pick' : 'app')} onAbout={() => openAbout('cover')} />
+   if (stage === 'pick') return <Onboard current={mine === 'all' ? null : mine} words={data?.words} onPick={choose} onClose={mine != null && mine !== 'all' ? () => setStage('app') : undefined} />
+ 
+   const star = 'm12 3 2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8 6.2 20.9l1.1-6.5L2.6 9.8l6.5-.9z'
+@@ -141,6 +147,9 @@ export default function App() {
+       <main className="main">
+         <button className="me glass" onClick={() => setStage('pick')} aria-label="Ganti jurusan"><i className="dot" style={{ '--mc': MCOLOR[major] } as React.CSSProperties} /><span className="me-copy"><small>Jurusan aktif</small><b>{major}</b></span><span className="switch-label">Ganti</span></button>
+         <section className="hero"><p className="eyebrow">Kamus vokasi · fokus jurusan</p><h1 className="h">Kosakata {major}<span>.</span></h1><p className="hero-sub">Pencarian dikunci ke jurusan aktif agar hasil tetap relevan. Ganti jurusan untuk menjelajah bidang lain.</p></section>
++        {!aboutSeen && <div className="teaser" role="note">
++          <button className="teaser__open" onClick={() => openAbout('app')}><b>Kenapa kamus ini dibuat?</b><span>Bahasa Arab yang nyambung dengan jurusanmu. Baca ceritanya.</span></button>
++          <button className="icon" onClick={() => setAboutSeen(true)} aria-label="Tutup pengantar">✕</button></div>}
+         <div className="sbar"><Ic d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14zm9 16-4-4" />
+           <input type="search" dir="auto" value={q} onChange={e => setQ(e.target.value)} placeholder={`Cari kosakata ${major}…`} aria-label={`Cari kosakata jurusan ${major}`} />
+           {q && <button className="icon" onClick={() => setQ('')} aria-label="Hapus pencarian"><Ic d="M6 6l12 12M18 6 6 18" /></button>}</div>
+@@ -171,7 +180,7 @@ export default function App() {
+             <p>{q ? `Tidak ada hasil untuk “${q}” di jurusan ${major}${topic !== 'all' ? ` · ${topic}` : ''}.` : scope === 'fav' ? `Belum ada favorit di ${major}.` : scope === 'recent' ? `Belum ada riwayat kata di ${major}.` : 'Belum ada kata di kategori ini.'}</p>
+             {(q || scope !== 'all' || topic !== 'all') && <button className="btn" onClick={() => { setQ(''); setScope('all'); setTopic('all') }}>Reset filter</button>}</div>}
+         </>}
+-        <footer className="foot"><button className="lnk" onClick={() => setCfg(true)}>Sesuaikan huruf, warna &amp; tema</button><br />Lughati Vokasi · SMK Muhammadiyah Pencongan · Sultan Bagus Permadi</footer>
++        <footer className="foot"><button className="lnk" onClick={() => setCfg(true)}>Sesuaikan huruf, warna &amp; tema</button> · <button className="lnk" onClick={() => openAbout('app')}>Tentang kamus ini</button><br />Lughati Vokasi · SMK Muhammadiyah Pencongan · Sultan Bagus Permadi</footer>
+       </main>
+ 
+       <nav className="dock glass" aria-label="Navigasi cepat">
+@@ -184,6 +193,9 @@ export default function App() {
+         <button onClick={() => setCfg(true)} aria-label="Buka pengaturan tampilan">
+           <Ic d="M4 6h9m4 0h3M4 12h3m4 0h9M4 18h11m4 0h1" /><span>Tampilan</span>
+         </button>
++        <button onClick={() => openAbout('app')} aria-label="Tentang kamus ini">
++          <Ic d="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zM12 11v5M12 8h.01" /><span>Tentang</span>
++        </button>
+       </nav>
+ 
+       <Dialog open={!!sel} onClose={() => setSel(null)} title="Detail kata">
+diff --git a/src/Cover.tsx b/src/Cover.tsx
+index 257615c..9036a12 100644
+--- a/src/Cover.tsx
++++ b/src/Cover.tsx
+@@ -4,6 +4,7 @@ import './cover.css'
+ 
+ type CoverProps = {
+   onStart: () => void
++  onAbout?: () => void
+   words: string[]
+ }
+ 
+@@ -21,7 +22,7 @@ const LOOP_COPIES = 3
+ 
+ const stagger = (index: number) => ({ '--i': index }) as CSSProperties
+ 
+-export default function Cover({ onStart, words }: CoverProps) {
++export default function Cover({ onStart, onAbout, words }: CoverProps) {
+   const rootRef = useRef<HTMLElement>(null)
+   const frameRef = useRef(0)
+ 
+@@ -118,6 +119,7 @@ export default function Cover({ onStart, words }: CoverProps) {
+             <svg viewBox="0 0 24 24"><path d="M5 12h13M13 7l5 5-5 5" /></svg>
+           </span>
+         </button>
++        {onAbout && <button type="button" className="immersive-cover__about" onClick={onAbout}>Kenapa kamus ini dibuat?</button>}
+       </footer>
+     </main>
+   )
+diff --git a/src/about.css b/src/about.css
+new file mode 100644
+index 0000000..b5186bd
+--- /dev/null
++++ b/src/about.css
+@@ -0,0 +1,35 @@
++/* About page - theme tokens only, so it follows light/dark, accent and font preferences. */
++.about{min-height:100svh;padding:0 max(1.1rem,env(safe-area-inset-right)) max(3rem,calc(env(safe-area-inset-bottom) + 2rem)) max(1.1rem,env(safe-area-inset-left))}
++.about__bar{position:sticky;top:0;z-index:5;max-width:40rem;margin:auto;padding:max(.8rem,env(safe-area-inset-top)) 0 .6rem;background:color-mix(in srgb,var(--bg) 85%,transparent);backdrop-filter:blur(14px)}
++.about__inner{display:grid;gap:1.1rem;max-width:40rem;margin:auto}
++.about__reveal{animation:aboutRise .7s cubic-bezier(.2,.8,.2,1) backwards;animation-delay:calc(var(--i,0) * 70ms)}
++@keyframes aboutRise{from{opacity:0;transform:translate3d(0,14px,0)}}
++.about__hero{display:grid;gap:.5rem;padding:1.6rem 0 .6rem}
++.about__eyebrow{margin:0;color:var(--mut);font-size:.7rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase}
++.about__title{margin:0;font-size:clamp(1.9rem,8vw,3rem);font-weight:700;line-height:1.1;letter-spacing:-.035em;text-wrap:balance}
++.about__title span{color:var(--acc)}
++.about__ar{margin:.3rem 0 0;font-family:var(--ar-font);font-size:clamp(1.8rem,8vw,2.4rem);line-height:1.7;color:color-mix(in srgb,var(--acc) 72%,var(--ink))}
++.about__gloss{margin:-.4rem 0 0;color:var(--mut);font-size:.85rem}
++.about__block{padding:1.2rem 1.15rem;border-radius:24px;background:var(--surf);border:1px solid var(--line)}
++.about__block h2{margin:0 0 .6rem;font-size:1.05rem;font-weight:700;letter-spacing:-.01em}
++.about__block p{margin:0 0 .7rem;font-size:.95rem;line-height:1.75;text-wrap:pretty}
++.about__block p:last-child{margin-bottom:0}
++.about__feats{list-style:none;margin:0 0 1rem;padding:0;display:grid;gap:.7rem}
++.about__feats li{display:grid;gap:.1rem}.about__feats b{font-size:.92rem}.about__feats span{color:var(--mut);font-size:.86rem;line-height:1.6}
++.about__majors{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.5rem}
++.about__major{display:grid;grid-template-columns:auto 1fr;align-items:center;gap:.1rem .5rem;padding:.65rem .8rem;border-radius:16px;border:1px solid var(--line);background:color-mix(in srgb,var(--mc) 7%,transparent)}
++.about__major i{width:.5rem;height:.5rem;border-radius:50%;background:var(--mc)}.about__major small{grid-column:2;color:var(--mut);font-size:.74rem}
++.about__total{margin-top:.8rem!important;color:var(--mut);font-size:.82rem!important}
++.about__quote{background:color-mix(in srgb,var(--acc) 8%,var(--surf));border-color:color-mix(in srgb,var(--acc) 22%,var(--line))}
++.about__quote blockquote{margin:1rem 0 0;display:grid;gap:.2rem;justify-items:center;text-align:center;padding-top:.9rem;border-top:1px solid var(--line)}
++.about__quote blockquote span{font-family:var(--ar-font);font-size:1.9rem;line-height:1.7}.about__quote blockquote small{color:var(--mut);font-size:.8rem}
++.about__steps{margin:0;padding-left:1.2rem;display:grid;gap:.45rem;font-size:.93rem;line-height:1.65}
++.about__sign{display:grid;justify-items:center;gap:.25rem;text-align:center;padding:1rem 0 .5rem}
++.about__sign p{margin:0 0 .4rem;color:var(--mut);font-size:.9rem}.about__sign strong{font-size:1rem}.about__sign span{color:var(--mut);font-size:.78rem;margin-bottom:.8rem}
++@media (min-width:640px){.about__majors{grid-template-columns:repeat(4,minmax(0,1fr))}.about__block{padding:1.5rem 1.6rem}}
++@media (prefers-reduced-motion:reduce){.about__reveal{animation:none!important}}
++
++/* One-time teaser on the dashboard */
++.teaser{position:relative;display:grid;grid-template-columns:1fr auto;gap:.2rem .6rem;align-items:center;width:100%;margin:.2rem 0 1rem;padding:.9rem 1rem;border-radius:20px;text-align:left;background:color-mix(in srgb,var(--acc) 9%,var(--surf));border:1px solid color-mix(in srgb,var(--acc) 24%,var(--line))}
++.teaser__open{display:grid;gap:.1rem;text-align:left}.teaser__open b{font-size:.92rem}.teaser__open span{color:var(--mut);font-size:.8rem;line-height:1.5}
++.teaser .icon{align-self:start}
+diff --git a/src/cover.css b/src/cover.css
+index 72650fa..269e7e3 100644
+--- a/src/cover.css
++++ b/src/cover.css
+@@ -196,3 +196,6 @@
+   .immersive-cover__track,.immersive-cover__orb,.immersive-cover__reveal{animation:none!important}
+   .immersive-cover__hero,.immersive-cover__aurora{transform:none!important}
+ }
++
++.immersive-cover__about{padding:.5rem 1rem;border-radius:999px;color:color-mix(in srgb,var(--ink) 70%,var(--mut));font-size:.82rem;font-weight:650;text-decoration:underline;text-underline-offset:.25em;text-decoration-color:color-mix(in srgb,var(--acc) 50%,transparent)}
++.immersive-cover__about:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+diff --git a/src/index.css b/src/index.css
+index 50d47c4..820d8ae 100644
+--- a/src/index.css
++++ b/src/index.css
+@@ -190,7 +190,7 @@ dialog{background:var(--glass-strong);border:1px solid var(--glass-line);backdro
+ /* persistent quick navigation */
+ .dock{
+   position:fixed;left:50%;bottom:max(.7rem,env(safe-area-inset-bottom));translate:-50% 0;
+-  z-index:30;width:min(calc(100% - 1rem),30rem);display:grid;grid-template-columns:repeat(3,1fr);
++  z-index:30;width:min(calc(100% - 1rem),30rem);display:grid;grid-template-columns:repeat(4,1fr);
+   gap:.3rem;padding:.42rem;border-radius:22px;background:var(--glass-strong);
+   border:1px solid var(--glass-line);box-shadow:0 18px 55px #0004;
+   backdrop-filter:blur(26px) saturate(150%);-webkit-backdrop-filter:blur(26px) saturate(150%)
+@@ -202,7 +202,7 @@ dialog{background:var(--glass-strong);border:1px solid var(--glass-line);backdro
+ .dock b{position:absolute;right:.45rem;top:.35rem;padding:.08rem .32rem;border-radius:999px;background:color-mix(in srgb,var(--acc) 14%,transparent);color:var(--acc);font-size:.55rem;line-height:1.4}
+ .main{padding-bottom:max(7rem,calc(env(safe-area-inset-bottom) + 6rem))}
+ @media(min-width:900px){
+-  .dock{width:24rem;bottom:1rem;opacity:.92}
++  .dock{width:30rem;bottom:1rem;opacity:.92}
+   .dock button{min-height:3rem}
+ }
+ 

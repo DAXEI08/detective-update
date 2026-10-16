@@ -1,9 +1,4 @@
-/// <reference types="vitest" />
-import { defineConfig } from 'vitest/config'
+import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-
-export default defineConfig({
-  plugins: [react()],
-  build: { target: 'es2020', chunkSizeWarningLimit: 900 },
-  test: { environment: 'jsdom', globals: false, include: ['src/__tests__/**/*.test.{ts,tsx}'] },
-})
+import tailwindcss from '@tailwindcss/vite'
+export default defineConfig({ base: './', plugins: [react(), tailwindcss()] })
